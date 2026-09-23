@@ -1,0 +1,639 @@
+row	written_run	source_surface	source_character_start	source_character_end	left_boundary	right_boundary	source_status	main_value	main_confidence	second_value	second_confidence
+P1-R01	1	204867554711188810201108	1	24	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P1-R01	2	880	26	28	,	,	human_transcription	in	high	UNLISTED	
+P1-R01	3	437	30	32	,	,	human_transcription	er	medium	UNLISTED	
+P1-R01	4	248	34	36	,	,	human_transcription	ent	medium	UNLISTED	
+P1-R01	5	5512	38	41	,	,	human_transcription	h	high	UNLISTED	
+P1-R01	6	212	43	45	,	,	human_transcription	al	medium	UNLISTED	
+P1-R01	7	1115	47	50	,	,	human_transcription	ten	high	UNLISTED	
+P1-R01	8	811	52	54	,	,	human_transcription	um	high	UNLISTED	
+P1-R01	9	234	56	58	,	,	human_transcription	stand	high	UNLISTED	
+P1-R01	10	9989	60	63	,	,	human_transcription	wegen	high	UNLISTED	
+P1-R02	1	5528	1	4	row_start	,	human_transcription	des	high	UNLISTED	
+P1-R02	2	275	6	8	,	,	human_transcription	hiesigen	high	UNLISTED	
+P1-R02	3	5540	10	13	,	,	human_transcription	b / be	high	UNLISTED	
+P1-R02	4	7759	15	18	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R02	5	1102	20	23	,	,	human_transcription	g	high	UNLISTED	
+P1-R02	6	004	25	27	,	,	human_transcription	s	high	UNLISTED	
+P1-R02	7	880	29	31	,	,	human_transcription	in	high	UNLISTED	
+P1-R02	8	246	33	35	,	,	human_transcription	Constantinopel	medium	UNLISTED	
+P1-R02	9	1107	37	40	,	,	human_transcription	würck	high	UNLISTED	
+P1-R02	10	066	42	44	,	,	human_transcription	sein	high	vor	high
+P1-R02	11	068	46	48	,	,	human_transcription	richt	high	UNLISTED	
+P1-R02	12	442	50	52	,	,	human_transcription	ig	medium	UNLISTED	
+P1-R02	13	011	54	56	,	,	human_transcription	keit	medium	UNLISTED	
+P1-R02	14	028	58	60	,	,	human_transcription	haben	low	UNLISTED	
+P1-R02	15	025	62	64	,	,	human_transcription	,  (comma)	high	UNLISTED	
+P1-R02	16	0	66	66	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P1-R03	1	09	1	2	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P1-R03	2	694	4	6	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R03	3	400	8	10	,	,	human_transcription	en	low	UNLISTED	
+P1-R03	4	210	12	14	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R03	5	3323	16	19	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R03	6	629	21	23	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R03	7	446	25	27	,	,	human_transcription	zu	high	UNLISTED	
+P1-R03	8	7750	29	32	,	,	human_transcription	unter	medium	UNLISTED	
+P1-R03	9	068	34	36	,	,	human_transcription	richt	high	UNLISTED	
+P1-R03	10	262	38	40	,	,	human_transcription	en / me	low	UNLISTED	
+P1-R03	11	423	42	44	,	,	human_transcription	damit	medium	UNLISTED	
+P1-R03	12	666	46	48	,	,	human_transcription	ich	high	UNLISTED	
+P1-R03	13	3340	50	53	,	,	human_transcription	dieß	medium	UNLISTED	
+P1-R03	14	5584	55	58	,	,	human_transcription	fal	high	UNLISTED	
+P1-R03	15	004	60	62	,	,	human_transcription	s	high	UNLISTED	
+P1-R04	1	5549	1	4	row_start	,	human_transcription	al	high	UNLISTED	
+P1-R04	2	7760	6	9	,	,	human_transcription	hier	high	UNLISTED	
+P1-R04	3	007	11	13	,	,	human_transcription	die	high	UNLISTED	
+P1-R04	4	428	15	17	,	,	human_transcription	dien	high	UNLISTED	
+P1-R04	5	222	19	21	,	,	human_transcription	liche	medium	UNLISTED	
+P1-R04	6	448	23	25	,	,	human_transcription	vor	medium	UNLISTED	
+P1-R04	7	049	27	29	,	,	human_transcription	st	high	UNLISTED	
+P1-R04	8	1127	31	34	,	,	human_transcription	el	high	UNLISTED	
+P1-R04	9	832	36	38	,	,	human_transcription	ung	high	UNLISTED	
+P1-R04	10	405	40	42	,	,	human_transcription	machen	high	UNLISTED	
+P1-R04	11	1101	44	47	,	,	human_transcription	kön(te)	low	UNLISTED	
+P1-R04	12	1158	49	52	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R04	13	020	54	56	,	,	human_transcription	der	high	UNLISTED	
+P1-R04	14	9961	58	61	,	,	human_transcription	Hr.	low	UNLISTED	
+P1-R04	15	5	63	63	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P1-R05	1	521	1	3	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P1-R05	2	5540	5	8	,	,	human_transcription	b / be	high	UNLISTED	
+P1-R05	3	1127	10	13	,	,	human_transcription	el	high	UNLISTED	
+P1-R05	4	005	15	17	,	,	human_transcription	UNLISTED		de	high
+P1-R05	5	3395	19	22	,	,	human_transcription	ist	medium	UNLISTED	
+P1-R05	6	613	25	27	,	,	human_transcription	o / mit	low	UNLISTED	
+P1-R05	7	663	30	32	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R05	8	643	34	36	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R05	9	3337	38	41	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R05	10	768	43	45	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R05	11	5512	47	50	,	,	human_transcription	h	high	UNLISTED	
+P1-R05	12	1195	52	55	,	,	human_transcription	r	medium	UNLISTED	
+P1-R05	13	1157	57	60	,	,	human_transcription	ung	high	UNLISTED	
+P1-R05	14	460	62	64	,	,	human_transcription	alle	high	UNLISTED	
+P1-R05	15	3	66	66	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P1-R06	1	365	1	3	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P1-R06	2	042	5	7	,	,	human_transcription	st	high	UNLISTED	
+P1-R06	3	5549	9	12	,	,	human_transcription	al	high	UNLISTED	
+P1-R06	4	662	14	16	,	,	human_transcription	ten	high	UNLISTED	
+P1-R06	5	446	18	20	,	,	human_transcription	zu	high	UNLISTED	
+P1-R06	6	7718	22	25	,	,	human_transcription	UNLISTED		UNLISTED	
+P1-R06	7	7773	27	30	,	,	human_transcription	ig	high	UNLISTED	
+P1-R06	8	3375	32	35	,	,	human_transcription	he	high	UNLISTED	
+P1-R06	9	661	37	39	,	,	human_transcription	her	medium	UNLISTED	
+P1-R06	10	049	41	43	,	,	human_transcription	st	high	UNLISTED	
+P1-R06	11	1127	45	48	,	,	human_transcription	el	high	UNLISTED	
+P1-R06	12	832	50	52	,	,	human_transcription	ung	high	UNLISTED	
+P1-R06	13	020	54	56	,	,	human_transcription	der	high	UNLISTED	
+P1-R06	14	847	58	60	,	,	human_transcription	Armée	medium	UNLISTED	
+P1-R06	15	111	62	64	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R01	1	301335400041163	1	15	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R01	2	832	17	19	,	,	human_transcription	ung	high	UNLISTED	
+P2-R01	3	070	21	23	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R01	4	5564	25	28	,	,	human_transcription	bis	high	UNLISTED	
+P2-R01	5	3315	30	33	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R01	6	655	35	37	,	,	human_transcription	ri	high	UNLISTED	
+P2-R01	7	7775	39	42	,	,	human_transcription	ge / gen	high	UNLISTED	
+P2-R01	8	217	44	46	,	,	human_transcription	mi	high	UNLISTED	
+P2-R01	9	1165	48	51	,	,	human_transcription	li	high	UNLISTED	
+P2-R01	10	1104	53	56	,	,	human_transcription	ta	high	UNLISTED	
+P2-R01	11	5567	58	61	,	,	human_transcription	ri	high	UNLISTED	
+P2-R01	12	0	63	63	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R02	1	85	1	2	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R02	2	070	4	6	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R02	3	008	8	10	,	,	human_transcription	zu	medium	UNLISTED	
+P2-R02	4	832	12	14	,	,	human_transcription	ung	high	UNLISTED	
+P2-R02	5	232	16	18	,	,	human_transcription	ey	medium	UNLISTED	
+P2-R02	6	5547	20	23	,	,	human_transcription	fe	high	UNLISTED	
+P2-R02	7	655	25	27	,	,	human_transcription	ri	high	UNLISTED	
+P2-R02	8	1102	29	32	,	,	human_transcription	g	high	UNLISTED	
+P2-R02	9	042	34	36	,	,	human_transcription	st	high	UNLISTED	
+P2-R02	10	5540	38	41	,	,	human_transcription	b / be	high	UNLISTED	
+P2-R02	11	090	43	45	,	,	human_transcription	in	medium	UNLISTED	
+P2-R02	12	010	47	49	,	,	human_transcription	tig / ti	medium	UNLISTED	
+P2-R02	13	775	51	53	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R02	14	025	55	57	,	,	human_transcription	,  (comma)	high	UNLISTED	
+P2-R02	15	11	59	60	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R03	1	63	1	2	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R03	2	7799	4	7	,	,	human_transcription	sich	medium	UNLISTED	
+P2-R03	3	001	9	11	,	,	human_transcription	von	medium	UNLISTED	
+P2-R03	4	099	13	15	,	,	human_transcription	sein	high	UNLISTED	
+P2-R03	5	5592	17	20	,	,	human_transcription	er	low	UNLISTED	
+P2-R03	6	7760	22	25	,	,	human_transcription	hier	high	UNLISTED	
+P2-R03	7	880	27	29	,	,	human_transcription	in	high	UNLISTED	
+P2-R03	8	5584	31	34	,	,	human_transcription	fal	high	UNLISTED	
+P2-R03	9	2203	36	39	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R03	10	3362	41	44	,	,	human_transcription	geben	low	UNLISTED	
+P2-R03	11	667	46	48	,	,	human_transcription	den	high	UNLISTED	
+P2-R03	12	9931	50	53	,	,	human_transcription	be	high	UNLISTED	
+P2-R03	13	5582	55	58	,	,	human_transcription	mü	medium	UNLISTED	
+P2-R03	14	7723	60	63	,	,	human_transcription	h	medium	UNLISTED	
+P2-R04	1	1157460	1	7	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R04	2	3363	9	12	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R04	3	3331	14	17	,	,	human_transcription	sehen	medium	UNLISTED	
+P2-R04	4	2230	19	22	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R04	5	0	24	24	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R04	6	3368	26	29	,	,	human_transcription	gute	medium	UNLISTED	
+P2-R04	7	1107	31	34	,	,	human_transcription	würck	high	UNLISTED	
+P2-R04	8	832	36	38	,	,	human_transcription	ung	high	UNLISTED	
+P2-R04	9	446	40	42	,	,	human_transcription	zu	high	UNLISTED	
+P2-R04	10	013	44	46	,	,	human_transcription	ver	high	UNLISTED	
+P2-R04	11	681	48	50	,	,	human_transcription	spr	low	UNLISTED	
+P2-R04	12	017	52	54	,	,	human_transcription	e	low	UNLISTED	
+P2-R04	13	1158	56	59	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R04	14	437	61	63	,	row_end	human_transcription	er	medium	UNLISTED	
+P2-R05	1	040	1	3	row_start	,	human_transcription	wie	high	UNLISTED	
+P2-R05	2	020	5	7	,	,	human_transcription	der	high	UNLISTED	
+P2-R05	3	9919	9	12	,	,	human_transcription	?	low	UNLISTED	
+P2-R05	4	5512	14	17	,	,	human_transcription	h	high	UNLISTED	
+P2-R05	5	613	19	21	,	,	human_transcription	o / mit	low	UNLISTED	
+P2-R05	6	832	23	25	,	,	human_transcription	ung	high	UNLISTED	
+P2-R05	7	042	27	29	,	,	human_transcription	st	high	UNLISTED	
+P2-R05	8	676	31	33	,	,	human_transcription	ät	low	UNLISTED	
+P2-R05	9	226	35	37	,	,	human_transcription	s	high	UNLISTED	
+P2-R05	10	007	39	41	,	,	human_transcription	die	high	UNLISTED	
+P2-R05	11	013	43	45	,	,	human_transcription	ver	high	UNLISTED	
+P2-R05	12	897	47	49	,	,	human_transcription	trö	high	UNLISTED	
+P2-R05	13	042	51	53	,	,	human_transcription	st	high	UNLISTED	
+P2-R05	14	832	55	57	,	,	human_transcription	ung	high	UNLISTED	
+P2-R05	15	494	59	61	,	,	human_transcription	daß	medium	UNLISTED	
+P2-R05	16	00	63	64	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R06	1	2	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	2	220	3	5	,	,	human_transcription	vor / das	low	UNLISTED	
+P2-R06	3	021	7	9	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	4	409	11	13	,	,	human_transcription	?	low	UNLISTED	
+P2-R06	5	7752	15	18	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	6	899	20	22	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	7	085	24	26	,	,	human_transcription	sch(e)	high	UNLISTED	
+P2-R06	8	7784	28	31	,	,	human_transcription	Corps?	low	UNLISTED	
+P2-R06	9	420	33	35	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	10	805	37	39	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	11	216	41	43	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R06	12	880	45	47	,	,	human_transcription	in	high	UNLISTED	
+P2-R06	13	7770	49	52	,	,	human_transcription	werde	medium	UNLISTED	
+P2-R06	14	1162	54	57	,	,	human_transcription	Monath	low	UNLISTED	
+P2-R06	15	7749	59	62	,	,	human_transcription	July	low	UNLISTED	
+P2-R07	1	880	1	3	row_start	,	human_transcription	in	high	UNLISTED	
+P2-R07	2	1118	5	8	,	,	human_transcription	r	high	UNLISTED	
+P2-R07	3	070	10	12	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R07	4	872	14	16	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R07	5	5547	18	21	,	,	human_transcription	fe	high	UNLISTED	
+P2-R07	6	7770	23	26	,	,	human_transcription	werde	medium	UNLISTED	
+P2-R07	7	025	28	30	,	,	human_transcription	,  (comma)	high	UNLISTED	
+P2-R07	8	460090	32	37	,	.	human_transcription	UNLISTED		UNLISTED	
+P2-R07	9	666	39	41	.	.	human_transcription	ich	high	UNLISTED	
+P2-R07	10	7777	43	46	.	,	human_transcription	getr	low	UNLISTED	
+P2-R07	11	9903	48	51	,	,	human_transcription	aue	low	UNLISTED	
+P2-R07	12	830	53	55	,	,	human_transcription	mir	high	UNLISTED	
+P2-R07	13	873	57	59	,	,	human_transcription	noch	medium	UNLISTED	
+P2-R07	14	886	61	63	,	,	human_transcription	nicht	high	UNLISTED	
+P2-R08	1	7760	1	4	row_start	,	human_transcription	hier	high	UNLISTED	
+P2-R08	2	482	6	8	,	,	human_transcription	auf	high	UNLISTED	
+P2-R08	3	1166	10	13	,	,	human_transcription	voll	medium	UNLISTED	
+P2-R08	4	996	15	17	,	,	human_transcription	kom	medium	UNLISTED	
+P2-R08	5	300	19	21	,	,	human_transcription	men	low	UNLISTED	
+P2-R08	6	8831	23	26	,	,	human_transcription	zu	medium	UNLISTED	
+P2-R08	7	5512	28	31	,	,	human_transcription	h	high	UNLISTED	
+P2-R08	8	613	33	35	,	,	human_transcription	o / mit	low	UNLISTED	
+P2-R08	9	3391	37	40	,	,	human_transcription	fen	low	UNLISTED	
+P2-R08	10	244	42	44	,	,	human_transcription	da	high	UNLISTED	
+P2-R08	11	830	46	48	,	,	human_transcription	mir	high	UNLISTED	
+P2-R08	12	889	50	52	,	,	human_transcription	aus	high	UNLISTED	
+P2-R08	13	020	54	56	,	,	human_transcription	der	high	UNLISTED	
+P2-R08	14	5566	58	61	,	,	human_transcription	bis	medium	UNLISTED	
+P2-R08	15	3	63	63	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R09	1	375	1	3	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R09	2	655	5	7	,	,	human_transcription	ri	high	UNLISTED	
+P2-R09	3	7775	9	12	,	,	human_transcription	ge / gen	high	UNLISTED	
+P2-R09	4	1144	14	17	,	,	human_transcription	er	medium	UNLISTED	
+P2-R09	5	7762	19	22	,	,	human_transcription	fa	medium	UNLISTED	
+P2-R09	6	5512	24	27	,	,	human_transcription	h	high	UNLISTED	
+P2-R09	7	1118	29	32	,	,	human_transcription	r	high	UNLISTED	
+P2-R09	8	832	34	36	,	,	human_transcription	ung	high	UNLISTED	
+P2-R09	9	7700	38	41	,	,	human_transcription	nur	high	UNLISTED	
+P2-R09	10	1140	43	46	,	,	human_transcription	all	medium	UNLISTED	
+P2-R09	11	440	48	50	,	,	human_transcription	zu	medium	UNLISTED	
+P2-R09	12	698	52	54	,	,	human_transcription	wohl	high	UNLISTED	
+P2-R09	13	5540	56	59	,	,	human_transcription	b / be	high	UNLISTED	
+P2-R09	14	1109	61	64	,	,	human_transcription	ka	medium	UNLISTED	
+P2-R10	1	7766	1	4	row_start	,	human_transcription	nt	medium	UNLISTED	
+P2-R10	2	040	6	8	,	,	human_transcription	wie	high	UNLISTED	
+P2-R10	3	231	10	12	,	,	human_transcription	wenig	medium	UNLISTED	
+P2-R10	4	482	14	16	,	,	human_transcription	auf	high	UNLISTED	
+P2-R10	5	676	18	20	,	,	human_transcription	ät	low	UNLISTED	
+P2-R10	6	070	22	24	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R10	7	623	26	28	,	,	human_transcription	glei	low	UNLISTED	
+P2-R10	8	077	30	32	,	,	human_transcription	chen	low	UNLISTED	
+P2-R10	9	217	34	36	,	,	human_transcription	mi	high	UNLISTED	
+P2-R10	10	1165	38	41	,	,	human_transcription	li	high	UNLISTED	
+P2-R10	11	1104	43	46	,	,	human_transcription	ta	high	UNLISTED	
+P2-R10	12	655	48	50	,	,	human_transcription	ri	high	UNLISTED	
+P2-R10	13	085	52	54	,	,	human_transcription	sch(e)	high	UNLISTED	
+P2-R10	14	670	56	58	,	,	human_transcription	maaß	medium	UNLISTED	
+P2-R10	15	647	60	62	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R10	16	837	64	66	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R10	17	446	68	70	,	,	human_transcription	zu	high	UNLISTED	
+P2-R11	1	414	1	3	row_start	,	human_transcription	mahl	low	UNLISTED	
+P2-R11	2	640	5	7	,	,	human_transcription	en wan	low	UNLISTED	
+P2-R11	3	211	9	11	,	,	human_transcription	sie	medium	UNLISTED	
+P2-R11	4	482	13	15	,	,	human_transcription	auf	high	UNLISTED	
+P2-R11	5	070	17	19	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R11	6	1119	21	24	,	,	human_transcription	en / et	low	UNLISTED	
+P2-R11	7	054	26	28	,	,	human_transcription	etwas	high	UNLISTED	
+P2-R11	8	022	30	32	,	,	human_transcription	en	high	UNLISTED	
+P2-R11	9	445	34	36	,	,	human_transcription	t	low	UNLISTED	
+P2-R11	10	5547	38	41	,	,	human_transcription	fe	high	UNLISTED	
+P2-R11	11	1118	43	46	,	,	human_transcription	r	high	UNLISTED	
+P2-R11	12	881	48	50	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R11	13	1115	52	55	,	,	human_transcription	ten	high	UNLISTED	
+P2-R11	14	646	57	59	,	,	human_transcription	zeit	low	UNLISTED	
+P2-R11	15	1189	61	64	,	,	human_transcription	punct	low	UNLISTED	
+P2-R11	16	777	66	68	,	row_end	human_transcription	lich	low	ni	high
+P2-R12	1	5	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R12	2	068	3	5	,	,	human_transcription	richt	high	UNLISTED	
+P2-R12	3	889	7	9	,	,	human_transcription	aus	high	UNLISTED	
+P2-R12	4	206	11	13	,	,	human_transcription	den	low	UNLISTED	
+P2-R12	5	7799	15	18	,	,	human_transcription	sich	medium	UNLISTED	
+P2-R12	6	043	20	22	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R12	7	667	24	26	,	,	human_transcription	den	high	UNLISTED	
+P2-R12	8	275	28	30	,	,	human_transcription	hiesigen	high	UNLISTED	
+P2-R12	9	613	32	34	,	,	human_transcription	o / mit	low	UNLISTED	
+P2-R12	10	409	36	38	,	,	human_transcription	?	low	UNLISTED	
+P2-R12	11	662	40	42	,	,	human_transcription	ten	high	UNLISTED	
+P2-R12	12	446	44	46	,	,	human_transcription	zu	high	UNLISTED	
+P2-R12	13	013	48	50	,	,	human_transcription	ver	high	UNLISTED	
+P2-R12	14	7727	52	55	,	,	human_transcription	laß	high	UNLISTED	
+P2-R12	15	400	57	59	,	,	human_transcription	en	low	UNLISTED	
+P2-R12	16	297	61	63	,	,	human_transcription	seye	low	UNLISTED	
+P2-R13	1	005	1	3	row_start	,	human_transcription	UNLISTED		de	high
+P2-R13	2	219	5	7	,	,	human_transcription	ab	high	UNLISTED	
+P2-R13	3	9931	9	12	,	,	human_transcription	be	high	UNLISTED	
+P2-R13	4	645	14	16	,	,	human_transcription	de	high	UNLISTED	
+P2-R13	5	1116	18	21	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R13	6	3370	23	26	,	,	human_transcription	ni	medium	UNLISTED	
+P2-R13	7	226	28	30	,	,	human_transcription	s	high	UNLISTED	
+P2-R13	8	211	32	34	,	,	human_transcription	sie	medium	UNLISTED	
+P2-R13	9	3375	36	39	,	,	human_transcription	he	high	UNLISTED	
+P2-R13	10	460	41	43	,	,	human_transcription	alle	high	UNLISTED	
+P2-R13	11	220	45	47	,	,	human_transcription	vor / das	low	UNLISTED	
+P2-R13	12	267	49	51	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R13	13	7773	53	56	,	,	human_transcription	ig	high	UNLISTED	
+P2-R13	14	021	58	60	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R13	15	05	62	63	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R14	1	8	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R14	2	7740	3	6	,	,	human_transcription	Durand	high	UNLISTED	
+P2-R14	3	3348	8	11	,	,	human_transcription	von	low	UNLISTED	
+P2-R14	4	206	13	15	,	,	human_transcription	den	low	UNLISTED	
+P2-R14	5	001	17	19	,	,	human_transcription	von	medium	UNLISTED	
+P2-R14	6	667664	21	26	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R14	7	7720	28	31	,	,	human_transcription	dem	high	UNLISTED	
+P2-R14	8	868	33	35	,	,	human_transcription	grafen	high	UNLISTED	
+P2-R14	9	5537	37	40	,	,	human_transcription	Brühl	high	UNLISTED	
+P2-R14	10	1113	42	45	,	,	human_transcription	und	high	UNLISTED	
+P2-R14	11	5519	47	50	,	,	human_transcription	dem	medium	UNLISTED	
+P2-R14	12	836	52	54	,	,	human_transcription	ab	low	UNLISTED	
+P2-R14	13	1100	56	59	,	,	human_transcription	ge	low	UNLISTED	
+P2-R14	14	65	61	62	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R15	1	4	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R15	2	1115	3	6	,	,	human_transcription	ten	high	UNLISTED	
+P2-R15	3	3392	8	11	,	,	human_transcription	Rußi	low	UNLISTED	
+P2-R15	4	266	13	15	,	,	human_transcription	schen	low	UNLISTED	
+P2-R15	5	230	17	19	,	,	human_transcription	groß	low	UNLISTED	
+P2-R15	6	5553	21	24	,	,	human_transcription	canz	low	UNLISTED	
+P2-R15	7	7701	26	29	,	,	human_transcription	ler	low	UNLISTED	
+P2-R15	8	5575	31	34	,	,	human_transcription	gespi	low	UNLISTED	
+P2-R15	9	1127	36	39	,	,	human_transcription	el	high	UNLISTED	
+P2-R15	10	662	41	43	,	,	human_transcription	ten	high	UNLISTED	
+P2-R15	11	880	45	47	,	,	human_transcription	in	high	UNLISTED	
+P2-R15	12	9973	49	52	,	,	human_transcription	tr	low	UNLISTED	
+P2-R15	13	617	54	56	,	,	human_transcription	igu	low	UNLISTED	
+P2-R15	14	022	58	60	,	,	human_transcription	en	high	UNLISTED	
+P2-R15	15	070	62	64	,	,	human_transcription	ein (also der?)	medium	UNLISTED	
+P2-R16	1	250	1	3	row_start	,	human_transcription	be	low	UNLISTED	
+P2-R16	2	2699911	5	11	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R16	3	5557	13	16	,	,	human_transcription	und	high	UNLISTED	
+P2-R16	4	026	18	20	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R16	5	613	22	24	,	,	human_transcription	o / mit	low	UNLISTED	
+P2-R16	6	7727	26	29	,	,	human_transcription	laß	high	UNLISTED	
+P2-R16	7	7773	31	34	,	,	human_transcription	ig	high	UNLISTED	
+P2-R16	8	657	36	38	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R16	9	022	40	42	,	,	human_transcription	en	high	UNLISTED	
+P2-R16	10	708	44	46	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R16	11	079	48	50	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R16	12	666	52	54	,	,	human_transcription	ich	high	UNLISTED	
+P2-R16	13	013	56	58	,	,	human_transcription	ver	high	UNLISTED	
+P2-R16	14	02	60	61	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R17	1	9	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R17	2	007	3	5	,	,	human_transcription	die	high	UNLISTED	
+P2-R17	3	868	7	9	,	,	human_transcription	grafen	high	UNLISTED	
+P2-R17	4	1176	11	14	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R17	5	1105	16	19	,	,	human_transcription	daß	low	UNLISTED	
+P2-R17	6	11021165005025020	21	37	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R17	7	040	39	41	,	,	human_transcription	wie	high	UNLISTED	
+P2-R17	8	030	43	45	,	,	human_transcription	es	high	UNLISTED	
+P2-R17	9	830	47	49	,	,	human_transcription	mir	high	UNLISTED	
+P2-R17	10	085	51	53	,	,	human_transcription	sch(e)	high	UNLISTED	
+P2-R17	11	880	55	57	,	,	human_transcription	in	high	UNLISTED	
+P2-R17	12	111	59	61	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R18	1	9262	1	4	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R18	2	7725	6	9	,	,	human_transcription	hr	low	UNLISTED	
+P2-R18	3	5512	11	14	,	,	human_transcription	h	high	UNLISTED	
+P2-R18	4	015	16	18	,	,	human_transcription	rer	low	UNLISTED	
+P2-R18	5	224	20	22	,	,	human_transcription	es	low	UNLISTED	
+P2-R18	6	7775	24	27	,	,	human_transcription	ge / gen	high	UNLISTED	
+P2-R18	7	3312	29	32	,	,	human_transcription	h	medium	UNLISTED	
+P2-R18	8	7717	34	37	,	,	human_transcription	ö	medium	UNLISTED	
+P2-R18	9	1118	39	42	,	,	human_transcription	r	high	UNLISTED	
+P2-R18	10	7772	44	47	,	,	human_transcription	bey	high	UNLISTED	
+P2-R18	11	9995	49	52	,	,	human_transcription	ge	medium	UNLISTED	
+P2-R18	12	244	54	56	,	,	human_transcription	da	high	UNLISTED	
+P2-R18	13	556	58	60	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R19	1	8	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R19	2	061	3	5	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R19	3	219	7	9	,	,	human_transcription	ab	high	UNLISTED	
+P2-R19	4	9931	11	14	,	,	human_transcription	be	high	UNLISTED	
+P2-R19	5	645	16	18	,	,	human_transcription	de	high	UNLISTED	
+P2-R19	6	1146	20	23	,	,	human_transcription	ber	high	UNLISTED	
+P2-R19	7	473	25	27	,	,	human_transcription	ni	medium	UNLISTED	
+P2-R19	8	226	29	31	,	,	human_transcription	s	high	UNLISTED	
+P2-R19	9	819	33	35	,	,	human_transcription	fin	medium	UNLISTED	
+P2-R19	10	269	37	39	,	,	human_transcription	tet / det	medium	UNLISTED	
+P2-R19	11	014	41	43	,	,	human_transcription	als (man)	medium	UNLISTED	
+P2-R19	12	030	45	47	,	,	human_transcription	es	high	UNLISTED	
+P2-R19	13	698	49	51	,	,	human_transcription	wohl	high	UNLISTED	
+P2-R19	14	7755	53	56	,	,	human_transcription	hätte	low	UNLISTED	
+P2-R19	15	835	58	60	,	,	human_transcription	glauben	low	UNLISTED	
+P2-R19	16	03	62	63	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P2-R20	1	8	1	1	row_start	,	human_transcription	UNLISTED		UNLISTED	
+P2-R20	2	202	3	5	,	,	human_transcription	das	low	UNLISTED	
+P2-R20	3	220	7	9	,	,	human_transcription	vor / das	low	UNLISTED	
+P2-R20	4	867	11	13	,	,	human_transcription	ge / o	low	UNLISTED	
+P2-R20	5	3349	15	18	,	,	human_transcription	ben	low	UNLISTED	
+P2-R20	6	5528	20	23	,	,	human_transcription	des	high	UNLISTED	
+P2-R20	7	7740	25	28	,	,	human_transcription	Durand	high	UNLISTED	
+P2-R20	8	622	30	32	,	,	human_transcription	kräf	low	UNLISTED	
+P2-R20	9	706	34	36	,	,	human_transcription	UNLISTED		UNLISTED	
+P2-R20	10	072	38	40	,	,	human_transcription	ft	low	UNLISTED	
+P2-R20	11	7773	42	45	,	,	human_transcription	ig	high	UNLISTED	
+P2-R20	12	042	47	49	,	,	human_transcription	st	high	UNLISTED	
+P2-R20	13	087	51	53	,	,	human_transcription	unter	medium	UNLISTED	
+P2-R20	14	233	55	57	,	,	human_transcription	stü	high	UNLISTED	
+P2-R20	15	831	59	61	,	,	human_transcription	tzen	medium	UNLISTED	
+P2-R21	1	1113	1	4	row_start	,	human_transcription	und	high	UNLISTED	
+P2-R21	2	099	6	8	,	,	human_transcription	sein	high	UNLISTED	
+P2-R21	3	1155	10	13	,	,	human_transcription	möglich / en	low	UNLISTED	
+P2-R21	4	049	15	17	,	,	human_transcription	st	high	UNLISTED	
+P2-R21	5	888	19	21	,	,	human_transcription	es	medium	UNLISTED	
+P2-R21	6	603	23	25	,	,	human_transcription	thun	medium	UNLISTED	
+P2-R21	7	7770	27	30	,	,	human_transcription	werde	medium	UNLISTED	
+P2-R21	8	811	32	34	,	,	human_transcription	um	high	UNLISTED	
+P2-R21	9	557	36	38	,	,	human_transcription	den	medium	UNLISTED	
+P2-R21	10	7796	40	43	,	,	human_transcription	hiesigen	medium	UNLISTED	
+P2-R21	11	5522	45	48	,	,	human_transcription	Hof	low	UNLISTED	
+P2-R21	12	008	50	52	,	,	human_transcription	zu	medium	UNLISTED	
+P2-R21	13	5540	54	57	,	,	human_transcription	b / be	high	UNLISTED	
+P2-R21	14	9989	59	62	,	,	human_transcription	wegen	high	UNLISTED	
+P2-R21	15	2	64	64	,	row_end	human_transcription	UNLISTED		UNLISTED	
+P3-R01	1	6[2|7]	1	6	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	2	002	8	10	,	,	draft_or_partly_reviewed	das / daß	high	UNLISTED	
+P3-R01	3	020	12	14	,	,	draft_or_partly_reviewed	der	high	UNLISTED	
+P3-R01	4	5500	16	19	,	,	draft_or_partly_reviewed	selbe	medium	UNLISTED	
+P3-R01	5	6678	21	24	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	6	685	26	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	7	537	30	32	,	,	draft_or_partly_reviewed	UNLISTED		fehl	medium
+P3-R01	8	7772	34	37	,	,	draft_or_partly_reviewed	bey	high	UNLISTED	
+P3-R01	9	066	39	41	,	,	draft_or_partly_reviewed	sein	high	vor	high
+P3-R01	10	5588	43	46	,	,	draft_or_partly_reviewed	König	medium	UNLISTED	
+P3-R01	11	013[,?]244	48	57	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	12	450[,?]010	59	68	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	13	110[2|7]	70	77	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R01	14	446	79	81	,	,	draft_or_partly_reviewed	zu	high	UNLISTED	
+P3-R02	1	405	1	3	row_start	,	draft_or_partly_reviewed	machen	high	UNLISTED	
+P3-R02	2	113[,?]489	5	14	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	3	026	16	18	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	4	055	20	22	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	5	2331118	24	30	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	6	831	32	34	,	,	draft_or_partly_reviewed	tzen	medium	UNLISTED	
+P3-R02	7	802	36	38	,	,	draft_or_partly_reviewed	su	medium	UNLISTED	
+P3-R02	8	5568	40	43	,	,	draft_or_partly_reviewed	ch	high	UNLISTED	
+P3-R02	9	1155	45	48	,	,	draft_or_partly_reviewed	möglich / en	low	UNLISTED	
+P3-R02	10	1158	50	53	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	11	41	55	56	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	12	24929	58	62	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	13	22	64	65	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R02	14	45112	67	71	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	1	122	1	3	row_start	,	draft_or_partly_reviewed	UNLISTED		in	high
+P3-R03	2	153946	5	10	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	3	557	12	14	,	,	draft_or_partly_reviewed	den	medium	UNLISTED	
+P3-R03	4	63885	16	20	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	5	122	22	24	,	,	draft_or_partly_reviewed	UNLISTED		in	high
+P3-R03	6	550988244528	26	37	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	7	1002202	39	45	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	8	33775	47	51	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R03	9	1653	53	56	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	1	3005714	1	7	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	2	771	9	11	,	,	draft_or_partly_reviewed	UNLISTED		ni	medium
+P3-R04	3	33914	13	17	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	4	12273	19	23	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	5	770	25	27	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	6	113095	29	34	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	7	199[,?]550319394	36	51	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	8	024	53	55	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R04	9	223902	57	62	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	1	9357	1	4	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	2	566	6	8	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	3	550	10	12	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	4	8835	14	17	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	5	5911	19	22	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	6	4002	24	27	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	7	31502	29	33	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	8	[8|9]79971	35	44	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	9	304010755	46	54	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R05	10	057776	56	61	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	1	114	1	3	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	2	050558	5	10	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	3	19205	12	16	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	4	61461406084	18	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	5	344331	30	35	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	6	335	37	39	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	7	4467	41	44	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	8	534	46	48	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R06	9	224453	50	55	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	1	3734888	1	7	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	2	2770	9	12	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	3	3355	14	17	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	4	998	19	21	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	5	22	23	24	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	6	114	26	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	7	0565194447	30	39	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	8	6661	41	44	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R07	9	12457923	46	53	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	1	2233	1	4	row_start	,	draft_or_partly_reviewed	UNLISTED		zwei	medium
+P3-R08	2	9527	6	9	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	3	83	11	12	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	4	12248877	14	21	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	5	535000975	23	31	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	6	02128	33	37	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	7	16[0|6]	39	45	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	8	2249	47	50	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R08	9	144	52	54	,	,	draft_or_partly_reviewed	UNLISTED		s	medium
+P3-R08	10	669622	56	61	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R09	1	51	1	2	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R09	2	5337	4	7	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R09	3	83010775030	9	19	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R09	4	188[22|222]7222[6|9]2225977105738	21	53	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R09	5	707155	55	60	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	1	748	1	3	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	2	948	5	7	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	3	003	9	11	,	,	draft_or_partly_reviewed	Hof	medium	UNLISTED	
+P3-R10	4	556	13	15	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	5	621	17	19	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	6	09444	21	25	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	7	3331953	27	33	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	8	966	35	37	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	9	08	39	40	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R10	10	355[2|9]47244010909	42	60	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	1	96[6|8]423	1	10	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	2	5522	12	15	,	,	draft_or_partly_reviewed	Hof	low	UNLISTED	
+P3-R11	3	443	17	19	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	4	58507778	21	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	5	199[,?]1015	30	40	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	6	33005714	42	49	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R11	7	771	51	53	,	,	draft_or_partly_reviewed	UNLISTED		ni	medium
+P3-R11	8	336	55	57	,	,	draft_or_partly_reviewed	UNLISTED		s	high
+P3-R11	9	8802	59	62	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	1	7731503[,?]88[,?]49888	1	22	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	2	2069	24	27	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	3	066024	29	34	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	4	144	36	38	,	,	draft_or_partly_reviewed	UNLISTED		s	medium
+P3-R12	5	785	40	42	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	6	302776	44	49	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	7	083357	51	56	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	8	2295	58	61	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R12	9	905557	63	68	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	1	6604	1	4	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	2	344	6	8	,	,	draft_or_partly_reviewed	UNLISTED		ge	high
+P3-R13	3	6642199	10	16	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	4	11033530[0|6]	18	30	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	5	166	32	34	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	6	224	36	38	,	,	draft_or_partly_reviewed	es	low	UNLISTED	
+P3-R13	7	4336	40	43	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	8	344901	45	50	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R13	9	1558675437425	52	64	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	1	51985	1	5	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	2	77	7	8	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	3	906	10	12	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	4	57344	14	18	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	5	30955[0|6]822[,?]129709	20	42	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	6	014386	44	49	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	7	44444	51	55	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R14	8	30043002	57	64	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	1	014226230079408775070994	1	24	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	2	069386	26	31	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	3	3886	33	36	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	4	609888	38	43	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	5	048	45	47	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	6	084	49	51	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R15	7	301918	53	58	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	1	[0|6]66	1	7	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	2	918040	9	14	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	3	396887	16	21	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	4	059122	23	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	5	888	30	32	,	,	draft_or_partly_reviewed	es	medium	UNLISTED	
+P3-R16	6	122	34	36	,	,	draft_or_partly_reviewed	UNLISTED		in	high
+P3-R16	7	348865119	38	46	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R16	8	050329114337353	48	62	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	1	50[0|6]	1	7	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	2	2259	9	12	,	,	draft_or_partly_reviewed	UNLISTED		te nur	low
+P3-R17	3	[6|0]39	14	20	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	4	6680	22	25	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	5	335	27	29	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	6	68[3|8]929	31	40	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	7	2275	42	45	,	,	draft_or_partly_reviewed	UNLISTED		f	medium
+P3-R17	8	1129	47	50	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	9	2215	52	55	,	,	draft_or_partly_reviewed	UNLISTED		f	medium
+P3-R17	10	4946	57	60	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	11	553332247	62	70	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R17	12	660	72	74	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	1	6775	1	4	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	2	928	6	8	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	3	121	10	12	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	4	227438669	14	22	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	5	1533[,?]19539	24	36	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	6	6507	38	41	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	7	65019211	43	50	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R18	8	61[0|6]80323447	52	66	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	1	83768	1	5	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	2	3555	7	10	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	3	666	12	14	,	,	draft_or_partly_reviewed	ich	high	UNLISTED	
+P3-R19	4	505133074	16	24	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	5	055	26	28	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	6	1467	30	33	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	7	69[4444|44444]	35	48	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	8	122466	50	55	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	9	91894	57	61	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R19	10	92234974	63	70	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	1	856903	1	6	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	2	004	8	10	,	,	draft_or_partly_reviewed	s	high	UNLISTED	
+P3-R20	3	991	12	14	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	4	043	16	18	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	5	962	20	22	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	6	618	24	26	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	7	669013039	28	36	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	8	3329	38	41	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	9	625333	43	48	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	10	8437	50	53	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R20	11	001	55	57	,	,	draft_or_partly_reviewed	von	medium	UNLISTED	
+P3-R20	12	007	59	61	,	,	draft_or_partly_reviewed	die	high	UNLISTED	
+P3-R21	1	779811638297757	1	15	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R21	2	022	17	19	,	,	draft_or_partly_reviewed	en	high	UNLISTED	
+P3-R21	3	7777[6|0]7752	21	33	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R21	4	3488	35	38	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R21	5	016	40	42	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R21	6	006	44	46	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P3-R21	7	7779054437248	48	60	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R01	1	5512881	1	7	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R01	2	262	9	11	,	,	draft_or_partly_reviewed	en / me	low	UNLISTED	
+P4-R01	3	407	13	15	,	,	draft_or_partly_reviewed	dern	low	UNLISTED	
+P4-R01	4	7700	17	20	,	,	draft_or_partly_reviewed	nur	high	UNLISTED	
+P4-R01	5	488	22	24	,	,	draft_or_partly_reviewed	im	low	UNLISTED	
+P4-R01	6	725[,?]7778	26	36	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R01	7	8891107	38	44	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R01	8	832	46	48	,	,	draft_or_partly_reviewed	ung	high	UNLISTED	
+P4-R01	9	3333	50	53	,	,	draft_or_partly_reviewed	vor	low	UNLISTED	
+P4-R01	10	673	55	57	,	,	draft_or_partly_reviewed	theil	low	UNLISTED	
+P4-R01	11	33219967	59	66	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R02	1	437019	1	6	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R02	2	022	8	10	,	,	draft_or_partly_reviewed	en	high	UNLISTED	
+P4-R02	3	1113	12	15	,	,	draft_or_partly_reviewed	und	high	UNLISTED	
+P4-R02	4	1144	17	20	,	,	draft_or_partly_reviewed	er	medium	UNLISTED	
+P4-R02	5	5536	22	25	,	,	draft_or_partly_reviewed	halt	low	UNLISTED	
+P4-R02	6	022	27	29	,	,	draft_or_partly_reviewed	en	high	UNLISTED	
+P4-R02	7	223	31	33	,	,	draft_or_partly_reviewed	nach	high	UNLISTED	
+P4-R02	8	7727	35	38	,	,	draft_or_partly_reviewed	laß	high	UNLISTED	
+P4-R02	9	221	40	42	,	,	draft_or_partly_reviewed	von	low	UNLISTED	
+P4-R02	10	667	44	46	,	,	draft_or_partly_reviewed	den	high	UNLISTED	
+P4-R02	11	263	48	50	,	,	draft_or_partly_reviewed	Sti	low	UNLISTED	
+P4-R02	12	7781	52	55	,	,	draft_or_partly_reviewed	pula	low	UNLISTED	
+P4-R02	13	5524	57	60	,	,	draft_or_partly_reviewed	tion	low	UNLISTED	
+P4-R02	14	010	62	64	,	,	draft_or_partly_reviewed	tig / ti	medium	UNLISTED	
+P4-R02	15	022	66	68	,	,	draft_or_partly_reviewed	en	high	UNLISTED	
+P4-R03	1	5528	1	4	row_start	,	draft_or_partly_reviewed	des	high	UNLISTED	
+P4-R03	2	481	6	8	,	,	draft_or_partly_reviewed	gehei	low	UNLISTED	
+P4-R03	3	809	10	12	,	,	draft_or_partly_reviewed	men Tract?	low	UNLISTED	
+P4-R03	4	226	14	16	,	,	draft_or_partly_reviewed	s	high	UNLISTED	
+P4-R03	5	5592	18	21	,	,	draft_or_partly_reviewed	er	low	UNLISTED	
+P4-R03	6	7772	23	26	,	,	draft_or_partly_reviewed	bey	high	UNLISTED	
+P4-R03	7	066	28	30	,	,	draft_or_partly_reviewed	sein	high	vor	high
+P4-R03	8	003	32	34	,	,	draft_or_partly_reviewed	Hof	medium	UNLISTED	
+P4-R03	9	3374	36	39	,	,	draft_or_partly_reviewed	ange	medium	UNLISTED	
+P4-R03	10	641	41	43	,	,	draft_or_partly_reviewed	nehm	high	UNLISTED	
+P4-R03	11	5557	45	48	,	,	draft_or_partly_reviewed	und	high	UNLISTED	
+P4-R03	12	013	50	52	,	,	draft_or_partly_reviewed	ver	high	UNLISTED	
+P4-R03	13	428	54	56	,	,	draft_or_partly_reviewed	dien	high	UNLISTED	
+P4-R03	14	04<G1>	58	63	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R03	15	<G2><G3><G4>	65	76	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R03	16	4	78	78	,	row_end	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R04	1	05	1	2	row_start	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R04	2	293	4	6	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R04	3	1127	8	11	,	,	draft_or_partly_reviewed	el	high	UNLISTED	
+P4-R04	4	1158	13	16	,	,	draft_or_partly_reviewed	UNLISTED		UNLISTED	
+P4-R04	5	3391	18	21	,	.	draft_or_partly_reviewed	fen	low	UNLISTED	

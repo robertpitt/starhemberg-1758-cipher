@@ -1,0 +1,16 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+# This repository distributes text research only.
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.zip
+history/
