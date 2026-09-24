@@ -1,0 +1,102 @@
+{
+  "description": "Explicit local segmentation/table hypotheses, not a global switching rule. Inclusive one-based character coordinates in ciphertext.txt after the row identifier and tab. No digit substitutions, deletions, or inserted plaintext.",
+  "spans": [
+    {
+      "id": "stainville",
+      "start": {
+        "row": "P3-R02",
+        "character": 69
+      },
+      "end": {
+        "row": "P3-R03",
+        "character": 10
+      },
+      "table": "second",
+      "codes": [
+        "112",
+        "122",
+        "153",
+        "946"
+      ],
+      "basis": "Local key-based reading; table choice and any crossed separators remain conditional."
+    },
+    {
+      "id": "bernis_fragment",
+      "start": {
+        "row": "P3-R03",
+        "character": 55
+      },
+      "end": {
+        "row": "P3-R04",
+        "character": 11
+      },
+      "table": "second",
+      "codes": [
+        "533",
+        "005",
+        "714",
+        "771"
+      ],
+      "basis": "Local key-based reading; table choice and any crossed separators remain conditional."
+    },
+    {
+      "id": "zweifeln_scheinet_fragment",
+      "start": {
+        "row": "P3-R07",
+        "character": 51
+      },
+      "end": {
+        "row": "P3-R08",
+        "character": 16
+      },
+      "table": "second",
+      "codes": [
+        "923",
+        "2233",
+        "952",
+        "783",
+        "122"
+      ],
+      "basis": "Local key-based reading; table choice and any crossed separators remain conditional."
+    },
+    {
+      "id": "abbe_de_bernis",
+      "start": {
+        "row": "P3-R11",
+        "character": 37
+      },
+      "end": {
+        "row": "P3-R11",
+        "character": 57
+      },
+      "table": "second",
+      "codes": [
+        "101",
+        "533",
+        "005",
+        "714",
+        "771",
+        "336"
+      ],
+      "basis": "Local key-based reading; table choice and any crossed separators remain conditional."
+    },
+    {
+      "id": "bezahlung",
+      "start": {
+        "row": "P3-R18",
+        "character": 25
+      },
+      "end": {
+        "row": "P3-R18",
+        "character": 38
+      },
+      "table": "second",
+      "codes": [
+        "533",
+        "195",
+        "396"
+      ],
+      "basis": "Supplied Bezahlung combination; the manuscript location of the editorial correction is not independently settled."
+    }
+  ]
+}

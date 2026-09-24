@@ -3,7 +3,8 @@
 
 No key recovery, source correction, table-switch inference, or grammatical
 expansion occurs. Python 3.9+, standard library only. Run with --build to
-regenerate reports; without arguments, compare reports and check input hashes.
+regenerate all reports; without arguments, compare reports and check input hashes.
+The integrated audit also verifies the conditional replay and boundary analysis.
 """
 from __future__ import annotations
 import argparse
@@ -272,6 +273,11 @@ def main():
         if actual_hash != expected_hash:
             raise ValueError('Input checksum mismatch: ' + relative_path)
     out,stats,checks=make_reports()
+    import analyze_boundaries
+    import decode
+    out['output/boundary_analysis.json'] = json_bytes(analyze_boundaries.make_report())
+    out.update(decode.make_reports())
+    replay_summary = json.loads(out['output/decoding.json'])['summary']
     for rel,content in out.items():
         path=ROOT/rel
         if args.build:
@@ -279,7 +285,9 @@ def main():
         elif not path.exists() or path.read_bytes()!=content:
             raise ValueError('Missing or stale report: '+rel)
     print(json.dumps({'status':'PASS','entries':stats['entry_count'],'tables':stats['table_counts'],
-                      'source_rows':52,'selected_checks':len(checks),
+                      'source_rows':52,'selected_checks':len(checks),'verified_reports':len(out),
+                      'reading_checks':replay_summary['selected_literal_checks'],
+                      'complete_decipherment':replay_summary['complete_decipherment'],
                       'exact_written_run_counts':stats['exact_run_lookup_counts'],
                       'limitation':'Lookup and source accounting only; no switch rules, whole-letter decoding, or historical authentication established.'},indent=2))
 

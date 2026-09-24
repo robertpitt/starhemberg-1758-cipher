@@ -11,8 +11,16 @@ The passage is readable from the supplied edition, but **a complete executable d
 | [ciphertext.txt](ciphertext.txt) | 52 transcribed rows across four manuscript pages, retaining separators, leading zeros, uncertain digits, and G signs. |
 | [working_key.csv](working_key.csv) | 277 supplied table-specific mappings, with occurrence annotations and confidence labels. |
 | [READING.md](READING.md) | German edition, English translation, and notes on differences from the interlinear German. |
-| [audit.py](audit.py) | Applies the supplied key and verifies selected source locations using the Python standard library. |
-| [EVIDENCE.md](EVIDENCE.md) | Current supporting examples, unresolved readings, and limits. |
+| [audit.py](audit.py) | Integrated verification of all nine generated reports, inputs, and selected readings. |
+| [decode.py](decode.py) | Conservative conditional replay with exact source accounting. |
+| [decoding_spans.json](decoding_spans.json) | Five explicit second-table span hypotheses; no general switching rule is assumed. |
+| [output/decoded_reading.md](output/decoded_reading.md) | Row-by-row literal candidates with gaps, uncertainties, and ambiguous choices visible. |
+| [output/reading_validation.md](output/reading_validation.md) | Eight selected reading comparisons and the unresolved-span work queue. |
+| [output/decoding.json](output/decoding.json) | Every source character, candidate unit, crossed mark, and validation result. |
+| [REMAINING_WORK.md](REMAINING_WORK.md) | Prioritized tasks and criteria for a substantial or complete decipherment. |
+| [EVIDENCE.md](EVIDENCE.md) | Current supporting examples, segmentation constraints, conditional transition bounds, and limits. |
+| [analyze_boundaries.py](analyze_boundaries.py) | Tests segmentation against the supplied key and locates conditional table-use anchors. |
+| [output/boundary_analysis.json](output/boundary_analysis.json) | Reproducible code-shape, row-join, long-run, and table-anchor checks. |
 | [output/human_pages_literal_overlay.md](output/human_pages_literal_overlay.md) | Literal main-table lookup on pages 1–2, retaining unknowns and alternatives. |
 | [output/all_rows_dual_table_concordance.tsv](output/all_rows_dual_table_concordance.tsv) | Every written run on all 52 rows with both table lookups. |
 | [output/selected_checks.json](output/selected_checks.json) | Eight checks with exact code sequences, values, and source positions. |
@@ -47,7 +55,12 @@ ab  | be   | de  | ber  | ni  | s
 
 This gives `abbedebernis`, or *Abbé de Bernis* after spacing, accents, and capitalization. See [EVIDENCE.md](EVIDENCE.md) for the checks and qualifications.
 
-## What remains unresolved
+## Current decoding and remaining work
+
+The [conditional decoder output](output/decoded_reading.md) applies supported row joins and unique complete dictionary parses, plus five explicit local second-table hypotheses. Ordinary runs are checked against both tables; an exclusive match is a candidate, not proof of the active table. Ambiguous choices and unmatched material remain visible. Every source character is accounted for, and no supplied German is inserted into a gap.
+
+Eight selected literal checks pass. Comparison with the supplied German gives three normalized matches, one stem-only match, one qualified value, and three editorial differences. **The full passage is not yet validated as a continuous decipherment.** See the [validation report](output/reading_validation.md) and [remaining-work list](REMAINING_WORK.md).
+
 
 The table contains 229 main entries and 48 second-table entries. Supplied labels classify 97 as high confidence, 96 as medium, and 84 as low; these labels and occurrence annotations have not been independently authenticated by the script.
 
@@ -63,7 +76,7 @@ Requires Python 3.9 or later. From the repository directory:
 python3 audit.py
 ```
 
-This verifies the frozen input hashes, checks the CSV and eight source/code examples, regenerates five reports in memory, and compares them with the checked-in output. Success prints `"status": "PASS"`. No dependencies or network access are required. From another directory, supply the full path to `audit.py`.
+This verifies the frozen input hashes, checks the CSV and eight source/code examples, regenerates nine reports in memory, and compares them with the checked-in output. It also checks eight selected literal readings. Success prints `"status": "PASS"` alongside `"complete_decipherment": false`. No dependencies or network access are required. From another directory, supply the full path to `audit.py`.
 
 To regenerate the files in `output/`:
 
@@ -72,7 +85,27 @@ python3 audit.py --build
 python3 audit.py
 ```
 
-Both modes verify the input hashes. A deliberate revision of an input requires review and an explicit update of its hash in the script. The audit checks reproducibility and consistency; it does not independently authenticate the manuscript or discover the key.
+Both modes verify the input hashes. A deliberate revision of an input requires review and an explicit update of its hash in the script. The audit checks reproducibility and consistency; it does not independently authenticate the manuscript or discover the key. The replay plan and supplied edition are hashed in the generated ledger, and their expected output is checked for staleness.
+
+Run the behavioral tests:
+
+```sh
+python3 -m unittest -v
+```
+
+The replay and boundary checks can also be run separately:
+
+```sh
+python3 decode.py
+```
+
+To verify the segmentation and table-location analysis:
+
+```sh
+python3 analyze_boundaries.py
+```
+
+Use `python3 analyze_boundaries.py --build` to regenerate its JSON report. It tests complete known-entry parses, preserves uncertain digits as barriers, and records where proposed units cross written marks. Its table-transition bounds are conditional on the proposed readings; no switching instruction has been established. See the segmentation and table-use sections in [EVIDENCE.md](EVIDENCE.md).
 
 ## Source, attribution, and contributions
 
