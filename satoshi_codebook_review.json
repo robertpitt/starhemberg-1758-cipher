@@ -1,0 +1,139 @@
+{
+  "checked_on": "2026-09-26",
+  "source": "Satoshi email quoted by Robert Pitt; email date not supplied",
+  "scope": "Colleague suggestions compared with original-resolution R1588 crops; no changes to frozen key or ciphertext. Visual readings are assistant observations unless explicitly attributed otherwise.",
+  "r1589": {
+    "url": "https://de-crypt.org/decrypt-web/RecordsView/1589",
+    "catalogue": "Kt.15 Fasc.21 ff.58–59; 1753; two pages; numerical variable-length nomenclator",
+    "same_key_claim": "Satoshi reports it is the numerically sorted version of R1588. Catalogue inspected; images not independently inspected.",
+    "access": "No R1589 files in supplied DECODE folder; online Manage Images redirected to login."
+  },
+  "entries": [
+    {
+      "code": "881",
+      "colleague_reading": "n(e)",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        2560,
+        80,
+        3032,
+        640
+      ],
+      "comparison_status": "compatible_visual_reading_endings_unresolved",
+      "note": "881 is visible at a short n entry with abbreviated variants; exact expansion needs review."
+    },
+    {
+      "code": "210",
+      "colleague_reading": "wurck",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1390,
+        2360,
+        1840,
+        2520
+      ],
+      "comparison_status": "disputed_pending_human_review",
+      "note": "Assistant reads würde… tentatively. Nearby würck… has 1107, which agrees with existing main:1107. Do not import 210=wurck."
+    },
+    {
+      "code": "1158",
+      "colleague_reading": "punctum",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1770,
+        1500,
+        2260,
+        1850
+      ],
+      "comparison_status": "independent_visual_support",
+      "note": "1158 is first under Puncta; heading is plural. Punctuation function supported, not a literal plaintext word punctum."
+    },
+    {
+      "code": "9973",
+      "colleague_reading": "tri",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        460,
+        1270,
+        1010,
+        1470
+      ],
+      "comparison_status": "compatible_visual_reading_endings_unresolved",
+      "note": "9973 appears at tr with abbreviated variants. Supports existing base tr; exact tri expansion not independently settled."
+    },
+    {
+      "code": "617",
+      "colleague_reading": "gu",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1380,
+        2500,
+        1840,
+        2880
+      ],
+      "comparison_status": "independent_visual_support",
+      "note": "Clear gu=617; challenges existing low-confidence igu."
+    },
+    {
+      "code": "889",
+      "colleague_reading": "aus",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        140,
+        2210,
+        680,
+        2550
+      ],
+      "comparison_status": "independent_visual_support",
+      "note": "aus has 889 and another code; agrees with existing main:889."
+    },
+    {
+      "code": "019",
+      "colleague_reading": "Condition",
+      "colleague_confidence": "suggested",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        580,
+        1290,
+        1100,
+        1820
+      ],
+      "comparison_status": "independent_visual_support",
+      "note": "Condition with abbreviated ending and 019; agrees with existing main:019."
+    },
+    {
+      "code": "629",
+      "colleague_reading": "davon",
+      "colleague_confidence": "questioned_by_colleague",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        110,
+        2250,
+        680,
+        2420
+      ],
+      "comparison_status": "colleague_questioned_and_source_disagrees",
+      "note": "The 629 entry is in the auf… sequence, tentatively aufdaß. Davon appears separately with 621 at P3 crop [620,2290,1090,2780]. Both readings need independent review."
+    },
+    {
+      "code": "681",
+      "colleague_reading": "sprech",
+      "colleague_confidence": "questioned_by_colleague",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        510,
+        2950,
+        990,
+        3130
+      ],
+      "comparison_status": "colleague_questioned_and_source_supports_shorter_root",
+      "note": "Source appears spr=681, agreeing with existing main:681. Does not establish the full word sprech."
+    }
+  ]
+}

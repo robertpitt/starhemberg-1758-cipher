@@ -1,0 +1,320 @@
+{
+  "checked_on": "2026-09-25",
+  "comparison_source": "https://aaymeloglu.github.io/unsolved-ciphers/starhemberg-reading.html",
+  "comparison_scope": "All cached spreadsheet records wholly within V3 or V9; 1-based inclusive digit offsets. Numeric spreadsheet cells padded to their stated width. No plaintext verification or full-workbook validation is implied.",
+  "line_transcriptions": {
+    "V3": "33 311 26 312, 72 312 10 311 82 74 312 38 311 62 313 008 312 64 313 77 314 48 312 18 312 99 02 310, 143 10 10 314 03 6",
+    "V9": "4 313 07 99 314 48 313 20 310 90 313 00, 88 312 10 310 70 94 314 57 312 22 313 42 8 9^_9 314 27 312 40 311 13 6231"
+  },
+  "comparisons": [
+    {
+      "record_index": 0,
+      "line": "V3",
+      "start_digit": 25,
+      "end_digit": 29,
+      "code": "31238",
+      "observed": "31238",
+      "matches": true
+    },
+    {
+      "record_index": 1,
+      "line": "V3",
+      "start_digit": 30,
+      "end_digit": 34,
+      "code": "31162",
+      "observed": "31162",
+      "matches": true
+    },
+    {
+      "record_index": 2,
+      "line": "V3",
+      "start_digit": 35,
+      "end_digit": 39,
+      "code": "31300",
+      "observed": "31300",
+      "matches": true
+    },
+    {
+      "record_index": 3,
+      "line": "V3",
+      "start_digit": 40,
+      "end_digit": 40,
+      "code": "8",
+      "observed": "8",
+      "matches": true
+    },
+    {
+      "record_index": 4,
+      "line": "V3",
+      "start_digit": 41,
+      "end_digit": 45,
+      "code": "31264",
+      "observed": "31264",
+      "matches": true
+    },
+    {
+      "record_index": 5,
+      "line": "V3",
+      "start_digit": 46,
+      "end_digit": 50,
+      "code": "31377",
+      "observed": "31377",
+      "matches": true
+    },
+    {
+      "record_index": 6,
+      "line": "V3",
+      "start_digit": 51,
+      "end_digit": 55,
+      "code": "31448",
+      "observed": "31448",
+      "matches": true
+    },
+    {
+      "record_index": 7,
+      "line": "V3",
+      "start_digit": 56,
+      "end_digit": 60,
+      "code": "31218",
+      "observed": "31218",
+      "matches": true
+    },
+    {
+      "record_index": 8,
+      "line": "V3",
+      "start_digit": 61,
+      "end_digit": 65,
+      "code": "31299",
+      "observed": "31299",
+      "matches": true
+    },
+    {
+      "record_index": 9,
+      "line": "V3",
+      "start_digit": 66,
+      "end_digit": 67,
+      "code": "02",
+      "observed": "02",
+      "matches": true
+    },
+    {
+      "record_index": 10,
+      "line": "V3",
+      "start_digit": 68,
+      "end_digit": 72,
+      "code": "31014",
+      "observed": "31014",
+      "matches": true
+    },
+    {
+      "record_index": 11,
+      "line": "V3",
+      "start_digit": 73,
+      "end_digit": 77,
+      "code": "31010",
+      "observed": "31010",
+      "matches": true
+    },
+    {
+      "record_index": 12,
+      "line": "V3",
+      "start_digit": 78,
+      "end_digit": 82,
+      "code": "31403",
+      "observed": "31403",
+      "matches": true
+    },
+    {
+      "record_index": 112,
+      "line": "V9",
+      "start_digit": 2,
+      "end_digit": 6,
+      "code": "31307",
+      "observed": "31307",
+      "matches": true
+    },
+    {
+      "record_index": 113,
+      "line": "V9",
+      "start_digit": 7,
+      "end_digit": 8,
+      "code": "99",
+      "observed": "99",
+      "matches": true
+    },
+    {
+      "record_index": 114,
+      "line": "V9",
+      "start_digit": 9,
+      "end_digit": 13,
+      "code": "31448",
+      "observed": "31448",
+      "matches": true
+    },
+    {
+      "record_index": 115,
+      "line": "V9",
+      "start_digit": 14,
+      "end_digit": 18,
+      "code": "31320",
+      "observed": "31320",
+      "matches": true
+    },
+    {
+      "record_index": 116,
+      "line": "V9",
+      "start_digit": 19,
+      "end_digit": 23,
+      "code": "31090",
+      "observed": "31090",
+      "matches": true
+    },
+    {
+      "record_index": 117,
+      "line": "V9",
+      "start_digit": 24,
+      "end_digit": 28,
+      "code": "31300",
+      "observed": "31300",
+      "matches": true
+    },
+    {
+      "record_index": 118,
+      "line": "V9",
+      "start_digit": 29,
+      "end_digit": 29,
+      "code": "8",
+      "observed": "8",
+      "matches": true
+    },
+    {
+      "record_index": 119,
+      "line": "V9",
+      "start_digit": 30,
+      "end_digit": 30,
+      "code": "8",
+      "observed": "8",
+      "matches": true
+    },
+    {
+      "record_index": 120,
+      "line": "V9",
+      "start_digit": 31,
+      "end_digit": 35,
+      "code": "31210",
+      "observed": "31210",
+      "matches": true
+    },
+    {
+      "record_index": 121,
+      "line": "V9",
+      "start_digit": 36,
+      "end_digit": 40,
+      "code": "31070",
+      "observed": "31070",
+      "matches": true
+    },
+    {
+      "record_index": 122,
+      "line": "V9",
+      "start_digit": 41,
+      "end_digit": 42,
+      "code": "94",
+      "observed": "94",
+      "matches": true
+    },
+    {
+      "record_index": 123,
+      "line": "V9",
+      "start_digit": 43,
+      "end_digit": 47,
+      "code": "31457",
+      "observed": "31457",
+      "matches": true
+    },
+    {
+      "record_index": 124,
+      "line": "V9",
+      "start_digit": 48,
+      "end_digit": 52,
+      "code": "31222",
+      "observed": "31222",
+      "matches": true
+    },
+    {
+      "record_index": 125,
+      "line": "V9",
+      "start_digit": 53,
+      "end_digit": 57,
+      "code": "31342",
+      "observed": "31342",
+      "matches": true
+    },
+    {
+      "record_index": 126,
+      "line": "V9",
+      "start_digit": 58,
+      "end_digit": 60,
+      "code": "899",
+      "observed": "899",
+      "matches": true
+    },
+    {
+      "record_index": 127,
+      "line": "V9",
+      "start_digit": 61,
+      "end_digit": 65,
+      "code": "31427",
+      "observed": "31427",
+      "matches": true
+    },
+    {
+      "record_index": 128,
+      "line": "V9",
+      "start_digit": 66,
+      "end_digit": 70,
+      "code": "31240",
+      "observed": "31240",
+      "matches": true
+    },
+    {
+      "record_index": 129,
+      "line": "V9",
+      "start_digit": 71,
+      "end_digit": 75,
+      "code": "31113",
+      "observed": "31113",
+      "matches": true
+    },
+    {
+      "record_index": 130,
+      "line": "V9",
+      "start_digit": 76,
+      "end_digit": 77,
+      "code": "62",
+      "observed": "62",
+      "matches": true
+    }
+  ],
+  "counts": {
+    "checked": 32,
+    "matched": 32,
+    "by_line": {
+      "V3": 13,
+      "V9": 19
+    }
+  },
+  "working_key_shape": {
+    "entries": 277,
+    "four_digit": 115,
+    "four_digit_repeated_initial": 115,
+    "three_digit_repeated_initial_by_table": {
+      "main": 28,
+      "second": 6
+    }
+  },
+  "input_sha256": {
+    "ciphertext.txt": "66e550b75db3d7e7dc1b41cb724c5628885ce4cb66535f49acb49c09e96bcedc",
+    "working_key.csv": "9e815ceb11d9f48e76345349a9640c1423e825e516c301f2acb043ccad0fd63a"
+  }
+}

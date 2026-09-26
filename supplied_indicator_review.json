@@ -1,0 +1,147 @@
+{
+  "record": 1588,
+  "review_date": "2026-09-26",
+  "reviewer": "Robert Pitt",
+  "scope": "User transcription of targeted original-resolution crops; does not authenticate operation in the letter.",
+  "reviews": [
+    {
+      "id": "A",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "crop_box_xyxy": [
+        2880,
+        1140,
+        3720,
+        1660
+      ],
+      "code": "025",
+      "annotation": "indic: Clav. 2ᵈᵘᵐ:",
+      "neighbor_below": "477",
+      "other_neighbor": {
+        "code": "218",
+        "annotation": "Läger?",
+        "status": "uncertain"
+      }
+    },
+    {
+      "id": "B",
+      "source_file": "IMG_R1588_I7138_P4.png",
+      "crop_box_xyxy": [
+        1780,
+        460,
+        2290,
+        1050
+      ],
+      "heading": "Indicantes Clavim 1ᵃᵐ",
+      "confirmed_codes": [
+        "018",
+        "104",
+        "2215",
+        "326",
+        "4457",
+        "6653"
+      ],
+      "uncertain_codes": []
+    },
+    {
+      "id": "C",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1770,
+        850,
+        2260,
+        1340
+      ],
+      "heading": "Indicantes Clavim 2ᵈᵃᵐ",
+      "confirmed_codes": [
+        "412",
+        "616",
+        "5538",
+        "477",
+        "1122"
+      ],
+      "uncertain_codes": [
+        "?347"
+      ],
+      "tentative_resolution": {
+        "pattern": "?347",
+        "preferred_reading": "3347",
+        "status": "tentative_user_reading",
+        "user_wording": "appears to read 3347"
+      }
+    },
+    {
+      "id": "D",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1770,
+        820,
+        2260,
+        1620
+      ],
+      "heading_diplomatic": "Com̄ata",
+      "heading_expanded": "Commata",
+      "first_code": "025",
+      "status": "human_confirmed",
+      "limitation": "Confirms placement under this heading, not operational compatibility or incompatibility with the worked example.",
+      "recheck": "User rechecked and explicitly confirmed 025 = comma."
+    },
+    {
+      "id": "E",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "crop_box_xyxy": [
+        3250,
+        1050,
+        3780,
+        1320
+      ],
+      "code": "9999",
+      "context": "worked_example",
+      "confirmed_root": "ist",
+      "status": "human_confirmed_code_and_first_word"
+    },
+    {
+      "id": "F",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1830,
+        1220,
+        2220,
+        1440
+      ],
+      "code": "1114",
+      "context": "prima",
+      "confirmed_root": "ist",
+      "status": "human_confirmed_code_and_first_word",
+      "additional_word": {
+        "reading": "ißt?",
+        "status": "uncertain_user_reading"
+      }
+    },
+    {
+      "id": "G",
+      "source_file": "IMG_R1588_I7139_P5.png",
+      "crop_box_xyxy": [
+        2150,
+        840,
+        2510,
+        1060
+      ],
+      "code": "021",
+      "context": "secunda",
+      "confirmed_root": "ist",
+      "status": "human_confirmed_code_and_first_word",
+      "additional_word": {
+        "reading": "ißt?",
+        "status": "uncertain_user_reading"
+      }
+    }
+  ],
+  "pending_review": null,
+  "withdrawn_assistant_readings": {
+    "320": "corrected to 326",
+    "618": "corrected to 616",
+    "5338": "corrected to 5538",
+    "3347": "User now tentatively prefers 3347; original ?347 wildcard retained until resolved without qualification."
+  },
+  "limitation": "These corrections apply to readings of the codebook. They are not edits to ciphertext.txt or working_key.csv."
+}

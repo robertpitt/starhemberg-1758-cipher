@@ -1,0 +1,971 @@
+{
+  "status": "SEARCH_ONLY_NOT_DECIPHERMENT",
+  "review_sha256": "60a72783e558860ad0f3fba09484ae5d8132d0bc62dbc74d1d8081c47ca7b391",
+  "colleague_review_sha256": "bdd6124358e2c707193d34eafe5bb3463190d12ba045a7a33700e005c5396ea7",
+  "input_sha256": {
+    "ciphertext.txt": "66e550b75db3d7e7dc1b41cb724c5628885ce4cb66535f49acb49c09e96bcedc",
+    "working_key.csv": "9e815ceb11d9f48e76345349a9640c1423e825e516c301f2acb043ccad0fd63a"
+  },
+  "method": "Search all rows in order, ignoring separators and physical boundaries. Uncertain digit groups and G signs are barriers; uncertain separators are ignored. Preserve leading zeros. An observed comma boundary is not proof of a cipher-unit boundary.",
+  "uncertain_code_policy": "?347 is a wildcard search only; matching digits do not resolve the manuscript reading.",
+  "results": [
+    {
+      "origin": "worked_example_to_2",
+      "reviewed_pattern": "025",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 6,
+      "exact_written_run_hits": 3,
+      "hits": [
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P1-R02",
+            "character": 62
+          },
+          "end": {
+            "row": "P1-R02",
+            "character": 64
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "025"
+        },
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P2-R02",
+            "character": 55
+          },
+          "end": {
+            "row": "P2-R02",
+            "character": 57
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "025"
+        },
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P2-R07",
+            "character": 28
+          },
+          "end": {
+            "row": "P2-R07",
+            "character": 30
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "025"
+        },
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P2-R15",
+            "character": 64
+          },
+          "end": {
+            "row": "P2-R16",
+            "character": 2
+          },
+          "exact_written_run": false,
+          "crosses_row": true,
+          "source_excerpt": "0, ↵ 25"
+        },
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P2-R17",
+            "character": 32
+          },
+          "end": {
+            "row": "P2-R17",
+            "character": 34
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "025"
+        },
+        {
+          "observed_digits": "025",
+          "start": {
+            "row": "P3-R02",
+            "character": 37
+          },
+          "end": {
+            "row": "P3-R02",
+            "character": 40
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "02,5"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "018",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 1,
+      "exact_written_run_hits": 0,
+      "hits": [
+        {
+          "observed_digits": "018",
+          "start": {
+            "row": "P3-R09",
+            "character": 19
+          },
+          "end": {
+            "row": "P3-R09",
+            "character": 22
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "0,18"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "104",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 4,
+      "exact_written_run_hits": 0,
+      "hits": [
+        {
+          "observed_digits": "104",
+          "start": {
+            "row": "P1-R06",
+            "character": 39
+          },
+          "end": {
+            "row": "P1-R06",
+            "character": 42
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "1,04"
+        },
+        {
+          "observed_digits": "104",
+          "start": {
+            "row": "P2-R01",
+            "character": 54
+          },
+          "end": {
+            "row": "P2-R01",
+            "character": 56
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "104"
+        },
+        {
+          "observed_digits": "104",
+          "start": {
+            "row": "P2-R10",
+            "character": 44
+          },
+          "end": {
+            "row": "P2-R10",
+            "character": 46
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "104"
+        },
+        {
+          "observed_digits": "104",
+          "start": {
+            "row": "P3-R20",
+            "character": 14
+          },
+          "end": {
+            "row": "P3-R20",
+            "character": 17
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "1,04"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "2215",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 2,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "2215",
+          "start": {
+            "row": "P3-R03",
+            "character": 2
+          },
+          "end": {
+            "row": "P3-R03",
+            "character": 6
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "22,15"
+        },
+        {
+          "observed_digits": "2215",
+          "start": {
+            "row": "P3-R17",
+            "character": 52
+          },
+          "end": {
+            "row": "P3-R17",
+            "character": 55
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "2215"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "326",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "4457",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_1",
+      "reviewed_pattern": "6653",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "412",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 2,
+      "exact_written_run_hits": 0,
+      "hits": [
+        {
+          "observed_digits": "412",
+          "start": {
+            "row": "P3-R02",
+            "character": 55
+          },
+          "end": {
+            "row": "P3-R02",
+            "character": 58
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "41,2"
+        },
+        {
+          "observed_digits": "412",
+          "start": {
+            "row": "P3-R04",
+            "character": 17
+          },
+          "end": {
+            "row": "P3-R04",
+            "character": 20
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,12"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "616",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "5538",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "477",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 6,
+      "exact_written_run_hits": 0,
+      "hits": [
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P2-R07",
+            "character": 20
+          },
+          "end": {
+            "row": "P2-R07",
+            "character": 23
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "47,7"
+        },
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P2-R09",
+            "character": 17
+          },
+          "end": {
+            "row": "P2-R09",
+            "character": 20
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,77"
+        },
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P2-R14",
+            "character": 26
+          },
+          "end": {
+            "row": "P2-R14",
+            "character": 29
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,77"
+        },
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P2-R18",
+            "character": 22
+          },
+          "end": {
+            "row": "P2-R18",
+            "character": 25
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,77"
+        },
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P3-R04",
+            "character": 7
+          },
+          "end": {
+            "row": "P3-R04",
+            "character": 10
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,77"
+        },
+        {
+          "observed_digits": "477",
+          "start": {
+            "row": "P3-R11",
+            "character": 49
+          },
+          "end": {
+            "row": "P3-R11",
+            "character": 52
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "4,77"
+        }
+      ]
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "1122",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "table_heading_to_2",
+      "reviewed_pattern": "?347",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "lexical_worked_example_ist",
+      "reviewed_pattern": "9999",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "lexical_prima_ist",
+      "reviewed_pattern": "1114",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 0,
+      "exact_written_run_hits": 0,
+      "hits": []
+    },
+    {
+      "origin": "lexical_secunda_ist",
+      "reviewed_pattern": "021",
+      "human_confirmed_complete_code": true,
+      "substring_hits": 6,
+      "exact_written_run_hits": 2,
+      "hits": [
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P1-R03",
+            "character": 10
+          },
+          "end": {
+            "row": "P1-R03",
+            "character": 13
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "0,21"
+        },
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P2-R06",
+            "character": 7
+          },
+          "end": {
+            "row": "P2-R06",
+            "character": 9
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "021"
+        },
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P2-R11",
+            "character": 7
+          },
+          "end": {
+            "row": "P2-R11",
+            "character": 10
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "0,21"
+        },
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P2-R13",
+            "character": 58
+          },
+          "end": {
+            "row": "P2-R13",
+            "character": 60
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "021"
+        },
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P2-R17",
+            "character": 23
+          },
+          "end": {
+            "row": "P2-R17",
+            "character": 25
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "021"
+        },
+        {
+          "observed_digits": "021",
+          "start": {
+            "row": "P3-R08",
+            "character": 33
+          },
+          "end": {
+            "row": "P3-R08",
+            "character": 35
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "021"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_compatible_visual_reading_endings_unresolved",
+      "reviewed_pattern": "881",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 4,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "881",
+          "start": {
+            "row": "P1-R01",
+            "character": 15
+          },
+          "end": {
+            "row": "P1-R01",
+            "character": 17
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "881"
+        },
+        {
+          "observed_digits": "881",
+          "start": {
+            "row": "P2-R11",
+            "character": 48
+          },
+          "end": {
+            "row": "P2-R11",
+            "character": 50
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "881"
+        },
+        {
+          "observed_digits": "881",
+          "start": {
+            "row": "P3-R16",
+            "character": 31
+          },
+          "end": {
+            "row": "P3-R16",
+            "character": 34
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "88,1"
+        },
+        {
+          "observed_digits": "881",
+          "start": {
+            "row": "P4-R01",
+            "character": 5
+          },
+          "end": {
+            "row": "P4-R01",
+            "character": 7
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "881"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_disputed_pending_human_review",
+      "reviewed_pattern": "210",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 3,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "210",
+          "start": {
+            "row": "P1-R03",
+            "character": 12
+          },
+          "end": {
+            "row": "P1-R03",
+            "character": 14
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "210"
+        },
+        {
+          "observed_digits": "210",
+          "start": {
+            "row": "P2-R13",
+            "character": 59
+          },
+          "end": {
+            "row": "P2-R13",
+            "character": 62
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "21,0"
+        },
+        {
+          "observed_digits": "210",
+          "start": {
+            "row": "P3-R10",
+            "character": 18
+          },
+          "end": {
+            "row": "P3-R10",
+            "character": 21
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "21,0"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_independent_visual_support",
+      "reviewed_pattern": "1158",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 5,
+      "exact_written_run_hits": 4,
+      "hits": [
+        {
+          "observed_digits": "1158",
+          "start": {
+            "row": "P1-R01",
+            "character": 48
+          },
+          "end": {
+            "row": "P1-R01",
+            "character": 52
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "115,8"
+        },
+        {
+          "observed_digits": "1158",
+          "start": {
+            "row": "P1-R04",
+            "character": 49
+          },
+          "end": {
+            "row": "P1-R04",
+            "character": 52
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "1158"
+        },
+        {
+          "observed_digits": "1158",
+          "start": {
+            "row": "P2-R04",
+            "character": 56
+          },
+          "end": {
+            "row": "P2-R04",
+            "character": 59
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "1158"
+        },
+        {
+          "observed_digits": "1158",
+          "start": {
+            "row": "P3-R02",
+            "character": 50
+          },
+          "end": {
+            "row": "P3-R02",
+            "character": 53
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "1158"
+        },
+        {
+          "observed_digits": "1158",
+          "start": {
+            "row": "P4-R04",
+            "character": 13
+          },
+          "end": {
+            "row": "P4-R04",
+            "character": 16
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "1158"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_compatible_visual_reading_endings_unresolved",
+      "reviewed_pattern": "9973",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 1,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "9973",
+          "start": {
+            "row": "P2-R15",
+            "character": 49
+          },
+          "end": {
+            "row": "P2-R15",
+            "character": 52
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "9973"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_independent_visual_support",
+      "reviewed_pattern": "617",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 1,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "617",
+          "start": {
+            "row": "P2-R15",
+            "character": 54
+          },
+          "end": {
+            "row": "P2-R15",
+            "character": 56
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "617"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_independent_visual_support",
+      "reviewed_pattern": "889",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 3,
+      "exact_written_run_hits": 2,
+      "hits": [
+        {
+          "observed_digits": "889",
+          "start": {
+            "row": "P2-R08",
+            "character": 50
+          },
+          "end": {
+            "row": "P2-R08",
+            "character": 52
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "889"
+        },
+        {
+          "observed_digits": "889",
+          "start": {
+            "row": "P2-R12",
+            "character": 7
+          },
+          "end": {
+            "row": "P2-R12",
+            "character": 9
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "889"
+        },
+        {
+          "observed_digits": "889",
+          "start": {
+            "row": "P4-R01",
+            "character": 38
+          },
+          "end": {
+            "row": "P4-R01",
+            "character": 40
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "889"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_independent_visual_support",
+      "reviewed_pattern": "019",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 3,
+      "exact_written_run_hits": 0,
+      "hits": [
+        {
+          "observed_digits": "019",
+          "start": {
+            "row": "P3-R15",
+            "character": 54
+          },
+          "end": {
+            "row": "P3-R15",
+            "character": 56
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "019"
+        },
+        {
+          "observed_digits": "019",
+          "start": {
+            "row": "P3-R18",
+            "character": 45
+          },
+          "end": {
+            "row": "P3-R18",
+            "character": 47
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "019"
+        },
+        {
+          "observed_digits": "019",
+          "start": {
+            "row": "P4-R02",
+            "character": 4
+          },
+          "end": {
+            "row": "P4-R02",
+            "character": 6
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "019"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_colleague_questioned_and_source_disagrees",
+      "reviewed_pattern": "629",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 1,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "629",
+          "start": {
+            "row": "P1-R03",
+            "character": 21
+          },
+          "end": {
+            "row": "P1-R03",
+            "character": 23
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "629"
+        }
+      ]
+    },
+    {
+      "origin": "colleague_colleague_questioned_and_source_supports_shorter_root",
+      "reviewed_pattern": "681",
+      "human_confirmed_complete_code": false,
+      "substring_hits": 5,
+      "exact_written_run_hits": 1,
+      "hits": [
+        {
+          "observed_digits": "681",
+          "start": {
+            "row": "P2-R04",
+            "character": 28
+          },
+          "end": {
+            "row": "P2-R04",
+            "character": 31
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "68,1"
+        },
+        {
+          "observed_digits": "681",
+          "start": {
+            "row": "P2-R04",
+            "character": 48
+          },
+          "end": {
+            "row": "P2-R04",
+            "character": 50
+          },
+          "exact_written_run": true,
+          "crosses_row": false,
+          "source_excerpt": "681"
+        },
+        {
+          "observed_digits": "681",
+          "start": {
+            "row": "P2-R17",
+            "character": 8
+          },
+          "end": {
+            "row": "P2-R17",
+            "character": 11
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "68,1"
+        },
+        {
+          "observed_digits": "681",
+          "start": {
+            "row": "P2-R19",
+            "character": 31
+          },
+          "end": {
+            "row": "P2-R19",
+            "character": 34
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "6,81"
+        },
+        {
+          "observed_digits": "681",
+          "start": {
+            "row": "P3-R02",
+            "character": 42
+          },
+          "end": {
+            "row": "P3-R02",
+            "character": 45
+          },
+          "exact_written_run": false,
+          "crosses_row": false,
+          "source_excerpt": "68,1"
+        }
+      ]
+    }
+  ]
+}
