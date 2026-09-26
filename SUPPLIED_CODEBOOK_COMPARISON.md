@@ -4,17 +4,19 @@ Checked 26 September 2026. **DECODE 1588 is strongly supported as the matching k
 
 This updates the earlier search result, not the negative finding about the different 1752 codebook (DECODE 1695/1698). No ciphertext, working-key entries, table-span hypotheses or decoder outputs were altered.
 
+**New source update:** R1588 P1 and all four R1589 photographs are now available. The [operating-rule analysis](R1588_OPERATING_RULES.md) supplies the length/start rules, independent numerical cross-checks and first source-located framing stops. This supersedes the earlier missing-source limitations below.
+
 ## Sources and method
 
 The new folder contains ten PNGs, approximately 144 MB in total: R1588 P2–P6 and R1591 P1–P5. Small previews established the layout, followed by original-resolution crops of selected entries and instruction passages. No automated OCR text was used as evidence. The [observation ledger](supplied_codebook_observations.json) records source hashes, dimensions, crop coordinates, normalized root readings and their comparisons with the frozen working key. These visual readings remain open to independent palaeographic review; they are not a complete diplomatic transcription.
 
 Original images and temporary crops remain outside the repository. The ledger contains text and provenance only.
 
-[R1588's catalogue](https://de-crypt.org/decrypt-web/RecordsView/1588) identifies **HHStA, Staatskanzlei Interiora, Chiffrenschlüssel, Kt. 15, Fasc. 21, ff. 54–57**. This is the early lead requested after the literature search. The catalogue gives **15 June 1753**, whereas the survey previously consulted gives **16 June 1753** for instructions ff. 54–55. The one-day discrepancy is unresolved; the missing opening page may help settle it. Neither date should be silently substituted for the other.
+[R1588's catalogue](https://de-crypt.org/decrypt-web/RecordsView/1588) identifies **HHStA, Staatskanzlei Interiora, Chiffrenschlüssel, Kt. 15, Fasc. 21, ff. 54–57**. This is the early lead requested after the literature search. The catalogue gives **15 June 1753**, whereas the survey previously consulted gives **16 June 1753** for instructions ff. 54–55. The newly supplied instruction heading reads **16 June 1753**, supporting the survey; the catalogue’s 15 June remains a metadata discrepancy.
 
 ## R1588: exact roots and corrected continuation pairing
 
-**Correction:** the previous comparison paired unheaded continuation sheets by consecutive filenames. That was not a sound basis for table assignment. The entries and numerical families instead strongly support **P3 + P6 = Prima**, and **P5 + P4 = Secunda**. P3 and P5 have explicit headings; assignment of the two continuations remains an inference to confirm against the instructions and R1589.
+**Correction:** the previous comparison paired unheaded continuation sheets by consecutive filenames. That was not a sound basis for table assignment. The entries and numerical families instead strongly support **P3 + P6 = Prima**, and **P5 + P4 = Secunda**. P3 and P5 have explicit headings; the newly supplied, explicitly headed R1589 numerical tables now independently support this pairing through matching entries (including Prima 226/448 and Secunda 336/066).
 
 P6 has `226=s`, `448=vor`, `832=ung`, `811=um` and `001=von`, agreeing with the same modern main table supported by headed P3. P4 has `066=vor`, agreeing with second; its S heading includes `336`, whereas P6's includes `226`. These are consistent with the different numerical families on the headed sheets. P6's indicators name Clavis 2 and P4's name Clavis 1, consistent with signals to the other table; that last interpretation still requires the operating instructions.
 
@@ -76,9 +78,7 @@ All six `477` hits cross observed commas; the second `2215` hit crosses the prop
 
 `2215` is currently assigned `f` in our second working table. Its confirmed appearance in the historical indicator list makes that assignment worth testing, but does not authorize replacing it before a coherent, source-supported replay succeeds.
 
-Robert also confirmed the lower heading as **Com̄ata** (expanded **Commata**) and its first code as **025** on P6, now assigned to Prima by the continuation evidence. We therefore have two human-reviewed facts: the example annotates `025` as a Clavis 2 indicator, while the sheet lists it under punctuation. **This is a difference in the recorded roles, not yet proof of an operational contradiction.** The corrected pairing places the comma on inferred Prima, so a different-active-table explanation cannot simply be assumed. The example’s active state and any additional conventions must be established from the instructions. Likewise, an indicator can produce no plaintext, so the dash beneath `477` in the example must not automatically be interpreted as proof that it is a null rather than a control.
-
-The supplied working key already records `main:025` as a comma. Robert explicitly rechecked and confirmed the table's punctuation assignment. This supports that role in the historical material; it does not establish the letter's active table at any occurrence. No global `025` switching rule is justified.
+Robert confirmed **Com̄ata** (Commata) and **025 = comma** on P6. The newly supplied instructions and reinspection of the worked-example layout now support **025 = comma, followed by 477 = an indicator for Secunda**. The annotation sits between the comma under 025 and the number 477 below. Our earlier attribution of the switch annotation to 025 is withdrawn as an operational interpretation. The user's literal transcription remains preserved in the review ledger. See the [new source analysis](R1588_OPERATING_RULES.md).
 
 ### Human-reviewed lexical comparison
 
@@ -90,7 +90,7 @@ Robert's next review confirms the first word **ist** with the following codes:
 | Prima sheet, P3 | 1114 | ist | The additional word is tentatively read `ißt?`; not relied on. |
 | Secunda sheet, P5 | 021 | ist | The additional word is tentatively read `ißt?`; not relied on. |
 
-This establishes three source-attested assignments, not the absence of other homophones or alternative entries. In particular, it does **not** prove that `9999` cannot encode *ist* elsewhere in the photographed tables.
+R1589 now independently supplies **Prima 9999 = ist**, agreeing with the example and establishing an alternative to the human-reviewed Prima 1114. The earlier different-code observation is therefore no evidence of an incompatible key.
 
 The reproducible source search now includes these lexical codes. Neither `9999` nor `1114` occurs in the certain-digit stream, including across physical boundaries. `021` has six substring occurrences, of which two are entire written groups: **P2-R06:7–9** and **P2-R13:58–60**. Both are currently unresolved in the conservative decoder. These are locations for a future historical-key replay, not two newly deciphered words: active table, adjoining units and manuscript readings still need validation.
 
@@ -100,7 +100,7 @@ Run `python3 check_supplied_indicators.py` to check reproducibility; `--build` w
 
 ## Satoshi's additional readings and R1589
 
-Satoshi identifies R1589 as a numerically sorted copy of the same key and notes that the duplicated initial digits were added afterward. The [R1589 catalogue](https://de-crypt.org/decrypt-web/RecordsView/1589) identifies **Kt. 15, Fasc. 21, ff. 58–59**, dated 1753, with two pages of a numerical variable-length nomenclator. The catalogue was inspected; the images were not. There are no R1589 files in the supplied folder, and the online image control redirected to login. The same-key relationship and later addition of digits are therefore currently attributed to Satoshi, not independently verified here.
+Satoshi identifies R1589 as a numerically sorted copy of the same key and notes that the duplicated initial digits were added afterward. The [R1589 catalogue](https://de-crypt.org/decrypt-web/RecordsView/1589) identifies **Kt. 15, Fasc. 21, ff. 58–59**, dated 1753, with two pages of a numerical variable-length nomenclator. The newly supplied images have now been inspected: P1 is a cover, P2 shows both numerical tables, and P3/P4 provide closer views. Selected assignments independently support Satoshi’s same-key identification and the corrected continuation pairing. Added leading digits are visible; their precise alteration date remains unestablished.
 
 The [comparison ledger](satoshi_codebook_review.json) separates his proposals from our crop readings:
 
@@ -135,11 +135,8 @@ The supplied numeric sheet, headed *Littera B*, is an odd-numbered table. A clea
 
 This material offers an overlap in general practice—parity, nulls and concealed boundaries—but no demonstrated multi-unit plaintext match to our letter. It is a lower-priority candidate. The current comparison does **not** claim an exhaustive rejection of every system or unseen table in R1591.
 
-## What remains to establish an exact match
+## What remains to complete the application
 
-1. **Obtain R1588 P1 and the two R1589 images.** The supplied sequence starts at P2, mid-instruction. The online image list redirected to a login form, so the missing page could not be inspected. The missing instruction page is needed to establish the starting table, segmentation and switching conventions; its contents must not be guessed. R1589 should independently check the continuation pairing and disputed number-to-word assignments.
-2. Transcribe and independently check enough of both historical tables, including controls and alternatives, to replay the complete worked example. Keep the example and tables separately identified until that comparison succeeds.
-3. Test the letter's opening and distributed anchors with a fixed, source-supported table policy. Use the now-consistent *Bernis* span as an anchor; independently confirm the continuation pairing and check genuine mapping discrepancies, including 617 and 867. Never silently repair digits or substitute a more convenient table.
-4. Extend to a full source-accounted replay. Report gaps, nulls, table changes, doubtful readings and G signs rather than replacing them with the editorial German.
+R1588 P1 and the R1589 tables are now supplied. The starting table and group-length rules are source-supported; they are no longer missing prerequisites. See [R1588_OPERATING_RULES.md](R1588_OPERATING_RULES.md) for the diagnostic results and current work list: resolve the first two source-located framing problems, collate the complete historical key, replay the worked example, and account for every letter unit and table transition.
 
-**Assessment:** the multi-unit matches, corrected continuation pairing and new lexical/punctuation checks strongly support R1588 as the relevant key or a closely related version. Exact version identity and a complete executable decipherment remain to be demonstrated. The earlier apparent mixed-table conflict was our sheet-assignment error, not evidence against this key.
+**Assessment:** R1588/R1589 are strongly supported as the relevant historical key material. The numerical copy independently confirms the corrected sheet pairing and selected lexical/control assignments. Exact full-letter application remains incomplete; the earlier apparent Bernis mixed-table conflict was our sheet-assignment error.

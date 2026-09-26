@@ -5,8 +5,8 @@
   "r1589": {
     "url": "https://de-crypt.org/decrypt-web/RecordsView/1589",
     "catalogue": "Kt.15 Fasc.21 ff.58–59; 1753; two pages; numerical variable-length nomenclator",
-    "same_key_claim": "Satoshi reports it is the numerically sorted version of R1588. Catalogue inspected; images not independently inspected.",
-    "access": "No R1589 files in supplied DECODE folder; online Manage Images redirected to login."
+    "same_key_claim": "Satoshi identification now independently supported by selected numerical assignments; see r1588_source_rules.json. Complete entry-by-entry equivalence not yet checked.",
+    "access": "All four photographs supplied locally: P1 cover, P2 both tables, P3 Prima detail, P4 Secunda detail."
   },
   "entries": [
     {

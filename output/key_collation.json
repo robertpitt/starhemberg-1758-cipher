@@ -1,0 +1,3544 @@
+{
+  "status": "EVERY_SUPPLIED_ENTRY_ACCOUNTED_FOR_NOT_EVERY_READING_RESOLVED",
+  "historical_key_sha256": "b217bebf7ff7b41417e697a2ecc7192c8dcc85bb85e53c26b6397041079d6665",
+  "counts": {
+    "source_transcribed": 181,
+    "needs_handwriting_review": 83,
+    "provisional_source_reading": 7,
+    "incompatible_code_length": 6
+  },
+  "entries": [
+    {
+      "table": "prima",
+      "code": "001",
+      "supplied_value": "von",
+      "status": "source_transcribed",
+      "source_value": "von",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "002",
+      "supplied_value": "das / daß",
+      "status": "source_transcribed",
+      "source_value": "daß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "003",
+      "supplied_value": "Hof",
+      "status": "source_transcribed",
+      "source_value": "Hof",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "004",
+      "supplied_value": "s",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "007",
+      "supplied_value": "die",
+      "status": "source_transcribed",
+      "source_value": "die",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "008",
+      "supplied_value": "zu",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "010",
+      "supplied_value": "tig / ti",
+      "status": "provisional_source_reading",
+      "source_value": "ti / tion",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "011",
+      "supplied_value": "keit",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "013",
+      "supplied_value": "ver",
+      "status": "source_transcribed",
+      "source_value": "ver",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "014",
+      "supplied_value": "als (man)",
+      "status": "provisional_source_reading",
+      "source_value": "man",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "015",
+      "supplied_value": "rer",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "017",
+      "supplied_value": "e",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "019",
+      "supplied_value": "Condition",
+      "status": "source_transcribed",
+      "source_value": "a / Condition",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "020",
+      "supplied_value": "der",
+      "status": "source_transcribed",
+      "source_value": "der",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "022",
+      "supplied_value": "en",
+      "status": "source_transcribed",
+      "source_value": "en",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "025",
+      "supplied_value": ",  (comma)",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "028",
+      "supplied_value": "haben",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "030",
+      "supplied_value": "es",
+      "status": "source_transcribed",
+      "source_value": "es",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "040",
+      "supplied_value": "wie",
+      "status": "source_transcribed",
+      "source_value": "wie",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "042",
+      "supplied_value": "st",
+      "status": "source_transcribed",
+      "source_value": "st",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "047",
+      "supplied_value": "st",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "049",
+      "supplied_value": "st",
+      "status": "source_transcribed",
+      "source_value": "st",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "054",
+      "supplied_value": "etwas",
+      "status": "source_transcribed",
+      "source_value": "etwas",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "058",
+      "supplied_value": "Mr.",
+      "status": "source_transcribed",
+      "source_value": "Monsieur",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "066",
+      "supplied_value": "sein",
+      "status": "source_transcribed",
+      "source_value": "sein",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "068",
+      "supplied_value": "richt",
+      "status": "source_transcribed",
+      "source_value": "richtig",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "070",
+      "supplied_value": "ein (also der?)",
+      "status": "source_transcribed",
+      "source_value": "ein",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "072",
+      "supplied_value": "ft",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "077",
+      "supplied_value": "chen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "085",
+      "supplied_value": "sch(e)",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "087",
+      "supplied_value": "unter",
+      "status": "source_transcribed",
+      "source_value": "unter",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "090",
+      "supplied_value": "in",
+      "status": "source_transcribed",
+      "source_value": "ein",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "096",
+      "supplied_value": "eschäff",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "099",
+      "supplied_value": "sein",
+      "status": "source_transcribed",
+      "source_value": "sein",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "202",
+      "supplied_value": "das",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "206",
+      "supplied_value": "den",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "211",
+      "supplied_value": "sie",
+      "status": "source_transcribed",
+      "source_value": "sie",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "212",
+      "supplied_value": "al",
+      "status": "source_transcribed",
+      "source_value": "n",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        2120,
+        3640,
+        2600,
+        3900
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "217",
+      "supplied_value": "mi",
+      "status": "source_transcribed",
+      "source_value": "mi",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "219",
+      "supplied_value": "ab",
+      "status": "source_transcribed",
+      "source_value": "ab",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "220",
+      "supplied_value": "vor / das",
+      "status": "source_transcribed",
+      "source_value": "daß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "221",
+      "supplied_value": "von",
+      "status": "source_transcribed",
+      "source_value": "der",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "222",
+      "supplied_value": "liche",
+      "status": "source_transcribed",
+      "source_value": "lich",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "223",
+      "supplied_value": "nach",
+      "status": "source_transcribed",
+      "source_value": "nach",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "224",
+      "supplied_value": "es",
+      "status": "source_transcribed",
+      "source_value": "er",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "226",
+      "supplied_value": "s",
+      "status": "source_transcribed",
+      "source_value": "s",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "230",
+      "supplied_value": "groß",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "231",
+      "supplied_value": "wenig",
+      "status": "source_transcribed",
+      "source_value": "wenig",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "232",
+      "supplied_value": "ey",
+      "status": "source_transcribed",
+      "source_value": "ei",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "233",
+      "supplied_value": "stü",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "234",
+      "supplied_value": "stand",
+      "status": "source_transcribed",
+      "source_value": "stand",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "244",
+      "supplied_value": "da",
+      "status": "source_transcribed",
+      "source_value": "da",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "246",
+      "supplied_value": "Constantinopel",
+      "status": "source_transcribed",
+      "source_value": "Constantinopel",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "248",
+      "supplied_value": "ent",
+      "status": "source_transcribed",
+      "source_value": "ent",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "250",
+      "supplied_value": "be",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "262",
+      "supplied_value": "en / me",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "263",
+      "supplied_value": "Sti",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "266",
+      "supplied_value": "schen",
+      "status": "source_transcribed",
+      "source_value": "groß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2630,
+        1840,
+        2860
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "269",
+      "supplied_value": "tet / det",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "275",
+      "supplied_value": "hiesigen",
+      "status": "source_transcribed",
+      "source_value": "hiesig",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "297",
+      "supplied_value": "seye",
+      "status": "source_transcribed",
+      "source_value": "FULL_STOP",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "300",
+      "supplied_value": "men",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "400",
+      "supplied_value": "en",
+      "status": "source_transcribed",
+      "source_value": "Sturm",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "405",
+      "supplied_value": "machen",
+      "status": "source_transcribed",
+      "source_value": "machen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "407",
+      "supplied_value": "dern",
+      "status": "source_transcribed",
+      "source_value": "sondern",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "409",
+      "supplied_value": "?",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "412",
+      "supplied_value": "möge",
+      "status": "source_transcribed",
+      "source_value": "SWITCH_SECUNDA",
+      "source_kind": "switch",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "414",
+      "supplied_value": "mahl",
+      "status": "source_transcribed",
+      "source_value": "mahl",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "423",
+      "supplied_value": "damit",
+      "status": "source_transcribed",
+      "source_value": "damit",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "428",
+      "supplied_value": "dien",
+      "status": "source_transcribed",
+      "source_value": "dienst",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "437",
+      "supplied_value": "er",
+      "status": "source_transcribed",
+      "source_value": "er",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "440",
+      "supplied_value": "zu",
+      "status": "source_transcribed",
+      "source_value": "Juli",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "442",
+      "supplied_value": "ig",
+      "status": "source_transcribed",
+      "source_value": "ig",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "445",
+      "supplied_value": "t",
+      "status": "source_transcribed",
+      "source_value": "t",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "446",
+      "supplied_value": "zu",
+      "status": "source_transcribed",
+      "source_value": "zu",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "448",
+      "supplied_value": "vor",
+      "status": "source_transcribed",
+      "source_value": "vor",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "450",
+      "supplied_value": "cht",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "460",
+      "supplied_value": "alle",
+      "status": "source_transcribed",
+      "source_value": "all",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "473",
+      "supplied_value": "ni",
+      "status": "source_transcribed",
+      "source_value": "ni",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "481",
+      "supplied_value": "gehei",
+      "status": "source_transcribed",
+      "source_value": "geheim",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "482",
+      "supplied_value": "auf",
+      "status": "source_transcribed",
+      "source_value": "auf",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "488",
+      "supplied_value": "im",
+      "status": "source_transcribed",
+      "source_value": "im",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "489",
+      "supplied_value": "ihn",
+      "status": "source_transcribed",
+      "source_value": "ihn",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "494",
+      "supplied_value": "daß",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "557",
+      "supplied_value": "den",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "603",
+      "supplied_value": "thun",
+      "status": "source_transcribed",
+      "source_value": "thun",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "613",
+      "supplied_value": "o / mit",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "617",
+      "supplied_value": "igu",
+      "status": "source_transcribed",
+      "source_value": "gu",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "622",
+      "supplied_value": "kräf",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "623",
+      "supplied_value": "glei",
+      "status": "source_transcribed",
+      "source_value": "gleich",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "640",
+      "supplied_value": "en wan",
+      "status": "source_transcribed",
+      "source_value": "wann",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "641",
+      "supplied_value": "nehm",
+      "status": "source_transcribed",
+      "source_value": "nehm",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "645",
+      "supplied_value": "de",
+      "status": "source_transcribed",
+      "source_value": "de",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "646",
+      "supplied_value": "zeit",
+      "status": "source_transcribed",
+      "source_value": "zeit",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "654",
+      "supplied_value": "sez",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "655",
+      "supplied_value": "ri",
+      "status": "source_transcribed",
+      "source_value": "ri",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "661",
+      "supplied_value": "her",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "662",
+      "supplied_value": "ten",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "666",
+      "supplied_value": "ich",
+      "status": "source_transcribed",
+      "source_value": "ich",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "667",
+      "supplied_value": "den",
+      "status": "source_transcribed",
+      "source_value": "den",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "670",
+      "supplied_value": "maaß",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "673",
+      "supplied_value": "theil",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "676",
+      "supplied_value": "ät",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "681",
+      "supplied_value": "spr",
+      "status": "source_transcribed",
+      "source_value": "spr",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "698",
+      "supplied_value": "wohl",
+      "status": "source_transcribed",
+      "source_value": "wohl",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "777",
+      "supplied_value": "lich",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "802",
+      "supplied_value": "su",
+      "status": "source_transcribed",
+      "source_value": "su",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "809",
+      "supplied_value": "men Tract?",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "811",
+      "supplied_value": "um",
+      "status": "source_transcribed",
+      "source_value": "um",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "819",
+      "supplied_value": "fin",
+      "status": "source_transcribed",
+      "source_value": "finden",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "820",
+      "supplied_value": "o",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "830",
+      "supplied_value": "mir",
+      "status": "source_transcribed",
+      "source_value": "mir",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "831",
+      "supplied_value": "tzen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "832",
+      "supplied_value": "ung",
+      "status": "source_transcribed",
+      "source_value": "ung",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "835",
+      "supplied_value": "glauben",
+      "status": "source_transcribed",
+      "source_value": "glauben",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "836",
+      "supplied_value": "ab",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "847",
+      "supplied_value": "Armée",
+      "status": "source_transcribed",
+      "source_value": "Armée",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "851",
+      "supplied_value": "rzen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "867",
+      "supplied_value": "ge / o",
+      "status": "source_transcribed",
+      "source_value": "wo",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "868",
+      "supplied_value": "grafen",
+      "status": "source_transcribed",
+      "source_value": "Graf",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "873",
+      "supplied_value": "noch",
+      "status": "source_transcribed",
+      "source_value": "noch",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "880",
+      "supplied_value": "in",
+      "status": "source_transcribed",
+      "source_value": "in",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "886",
+      "supplied_value": "nicht",
+      "status": "source_transcribed",
+      "source_value": "nicht",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "888",
+      "supplied_value": "es",
+      "status": "source_transcribed",
+      "source_value": "s / ß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "889",
+      "supplied_value": "aus",
+      "status": "source_transcribed",
+      "source_value": "aus",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "897",
+      "supplied_value": "trö",
+      "status": "source_transcribed",
+      "source_value": "tro",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "996",
+      "supplied_value": "kom",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1100",
+      "supplied_value": "ge",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1101",
+      "supplied_value": "kön(te)",
+      "status": "source_transcribed",
+      "source_value": "könnte",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1102",
+      "supplied_value": "g",
+      "status": "source_transcribed",
+      "source_value": "g",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        50,
+        1840,
+        250
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1103",
+      "supplied_value": "sem",
+      "status": "source_transcribed",
+      "source_value": "o",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        2550,
+        1630,
+        3032,
+        1850
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1104",
+      "supplied_value": "ta",
+      "status": "source_transcribed",
+      "source_value": "ta",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1105",
+      "supplied_value": "daß",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1107",
+      "supplied_value": "würck",
+      "status": "source_transcribed",
+      "source_value": "würck",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1108",
+      "supplied_value": "dar",
+      "status": "source_transcribed",
+      "source_value": "dar",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1109",
+      "supplied_value": "ka",
+      "status": "source_transcribed",
+      "source_value": "ka",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1113",
+      "supplied_value": "und",
+      "status": "source_transcribed",
+      "source_value": "und",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1115",
+      "supplied_value": "ten",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1118",
+      "supplied_value": "r",
+      "status": "source_transcribed",
+      "source_value": "r",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        190,
+        1690,
+        730,
+        2050
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1119",
+      "supplied_value": "en / et",
+      "status": "source_transcribed",
+      "source_value": "et",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1127",
+      "supplied_value": "el",
+      "status": "source_transcribed",
+      "source_value": "el",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1140",
+      "supplied_value": "all",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1144",
+      "supplied_value": "er",
+      "status": "source_transcribed",
+      "source_value": "er",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1146",
+      "supplied_value": "ber",
+      "status": "source_transcribed",
+      "source_value": "ber",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1155",
+      "supplied_value": "möglich / en",
+      "status": "source_transcribed",
+      "source_value": "möglich",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1157",
+      "supplied_value": "ung",
+      "status": "source_transcribed",
+      "source_value": "ung",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1161",
+      "supplied_value": "ge",
+      "status": "source_transcribed",
+      "source_value": "ge",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1162",
+      "supplied_value": "Monath",
+      "status": "source_transcribed",
+      "source_value": "Monath",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1163",
+      "supplied_value": "er",
+      "status": "source_transcribed",
+      "source_value": "er",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1165",
+      "supplied_value": "li",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "1166",
+      "supplied_value": "voll",
+      "status": "source_transcribed",
+      "source_value": "voll",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1189",
+      "supplied_value": "punct",
+      "status": "source_transcribed",
+      "source_value": "punct",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "1195",
+      "supplied_value": "r",
+      "status": "source_transcribed",
+      "source_value": "risch",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3312",
+      "supplied_value": "h",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "3321",
+      "supplied_value": "haff",
+      "status": "source_transcribed",
+      "source_value": "ha",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3331",
+      "supplied_value": "sehen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "3333",
+      "supplied_value": "vor",
+      "status": "source_transcribed",
+      "source_value": "vor",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3340",
+      "supplied_value": "dieß",
+      "status": "source_transcribed",
+      "source_value": "diß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3348",
+      "supplied_value": "von",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "3349",
+      "supplied_value": "ben",
+      "status": "source_transcribed",
+      "source_value": "ben",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3362",
+      "supplied_value": "geben",
+      "status": "source_transcribed",
+      "source_value": "geben",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3365",
+      "supplied_value": "an",
+      "status": "source_transcribed",
+      "source_value": "an",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3368",
+      "supplied_value": "gute",
+      "status": "source_transcribed",
+      "source_value": "gut",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3370",
+      "supplied_value": "ni",
+      "status": "source_transcribed",
+      "source_value": "ni",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3374",
+      "supplied_value": "ange",
+      "status": "source_transcribed",
+      "source_value": "ange",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3375",
+      "supplied_value": "he",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "3391",
+      "supplied_value": "fen",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "3392",
+      "supplied_value": "Rußi",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "3395",
+      "supplied_value": "ist",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5500",
+      "supplied_value": "selbe",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5512",
+      "supplied_value": "h",
+      "status": "source_transcribed",
+      "source_value": "h",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5519",
+      "supplied_value": "dem",
+      "status": "source_transcribed",
+      "source_value": "dem",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5521",
+      "supplied_value": "Marechal",
+      "status": "source_transcribed",
+      "source_value": "Mareschal",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5522",
+      "supplied_value": "Hof",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5524",
+      "supplied_value": "tion",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5528",
+      "supplied_value": "des",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5536",
+      "supplied_value": "halt",
+      "status": "source_transcribed",
+      "source_value": "halt",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5537",
+      "supplied_value": "Brühl",
+      "status": "source_transcribed",
+      "source_value": "Brühl",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5540",
+      "supplied_value": "b / be",
+      "status": "source_transcribed",
+      "source_value": "be",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        170,
+        2500,
+        730,
+        3700
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5547",
+      "supplied_value": "fe",
+      "status": "source_transcribed",
+      "source_value": "fe",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5549",
+      "supplied_value": "al",
+      "status": "source_transcribed",
+      "source_value": "al / all",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5553",
+      "supplied_value": "canz",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5557",
+      "supplied_value": "und",
+      "status": "source_transcribed",
+      "source_value": "und",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5564",
+      "supplied_value": "bis",
+      "status": "source_transcribed",
+      "source_value": "bis",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5566",
+      "supplied_value": "bis",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5567",
+      "supplied_value": "ri",
+      "status": "source_transcribed",
+      "source_value": "ri",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5568",
+      "supplied_value": "ch",
+      "status": "provisional_source_reading",
+      "source_value": "che",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5575",
+      "supplied_value": "gespi",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5582",
+      "supplied_value": "mü",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "5584",
+      "supplied_value": "fal",
+      "status": "provisional_source_reading",
+      "source_value": "aller",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5588",
+      "supplied_value": "König",
+      "status": "source_transcribed",
+      "source_value": "König",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "5592",
+      "supplied_value": "er",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7700",
+      "supplied_value": "nur",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7701",
+      "supplied_value": "ler",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7717",
+      "supplied_value": "ö",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7720",
+      "supplied_value": "dem",
+      "status": "source_transcribed",
+      "source_value": "dem",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7723",
+      "supplied_value": "h",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7725",
+      "supplied_value": "hr",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7727",
+      "supplied_value": "laß",
+      "status": "source_transcribed",
+      "source_value": "laß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7740",
+      "supplied_value": "Durand",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7749",
+      "supplied_value": "July",
+      "status": "source_transcribed",
+      "source_value": "Julius",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7750",
+      "supplied_value": "unter",
+      "status": "source_transcribed",
+      "source_value": "unter",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7755",
+      "supplied_value": "hätte",
+      "status": "source_transcribed",
+      "source_value": "hätte",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7757",
+      "supplied_value": "dios",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7760",
+      "supplied_value": "hier",
+      "status": "source_transcribed",
+      "source_value": "hier",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7762",
+      "supplied_value": "fa",
+      "status": "source_transcribed",
+      "source_value": "bei",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7766",
+      "supplied_value": "nt",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7770",
+      "supplied_value": "werde",
+      "status": "source_transcribed",
+      "source_value": "werde",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7772",
+      "supplied_value": "bey",
+      "status": "source_transcribed",
+      "source_value": "bey",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7773",
+      "supplied_value": "ig",
+      "status": "source_transcribed",
+      "source_value": "ig",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7775",
+      "supplied_value": "ge / gen",
+      "status": "source_transcribed",
+      "source_value": "gen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7777",
+      "supplied_value": "getr",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7778",
+      "supplied_value": "durch",
+      "status": "source_transcribed",
+      "source_value": "durch",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7779",
+      "supplied_value": "rne",
+      "status": "source_transcribed",
+      "source_value": "et",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7781",
+      "supplied_value": "pula",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7784",
+      "supplied_value": "Corps?",
+      "status": "source_transcribed",
+      "source_value": "Corps",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "7796",
+      "supplied_value": "hiesigen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7798",
+      "supplied_value": "die",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "7799",
+      "supplied_value": "sich",
+      "status": "source_transcribed",
+      "source_value": "sich",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "8831",
+      "supplied_value": "zu",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "8888",
+      "supplied_value": "ge",
+      "status": "incompatible_code_length",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "9903",
+      "supplied_value": "aue",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "9919",
+      "supplied_value": "?",
+      "status": "source_transcribed",
+      "source_value": "so",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "9931",
+      "supplied_value": "be",
+      "status": "source_transcribed",
+      "source_value": "be",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "9961",
+      "supplied_value": "Hr.",
+      "status": "source_transcribed",
+      "source_value": "Herr",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "9967",
+      "supplied_value": "ter",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "prima",
+      "code": "9973",
+      "supplied_value": "tr",
+      "status": "source_transcribed",
+      "source_value": "tr / tri",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "9989",
+      "supplied_value": "wegen",
+      "status": "source_transcribed",
+      "source_value": "wegen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ]
+    },
+    {
+      "table": "prima",
+      "code": "9995",
+      "supplied_value": "ge",
+      "status": "source_transcribed",
+      "source_value": "gen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "005",
+      "supplied_value": "de",
+      "status": "source_transcribed",
+      "source_value": "de",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "066",
+      "supplied_value": "vor",
+      "status": "source_transcribed",
+      "source_value": "vor",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        2170,
+        700,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "088",
+      "supplied_value": "auch",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "101",
+      "supplied_value": "ab",
+      "status": "source_transcribed",
+      "source_value": "ab",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "112",
+      "supplied_value": "sta",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "122",
+      "supplied_value": "in",
+      "status": "source_transcribed",
+      "source_value": "in",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "128",
+      "supplied_value": "haubt",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "141",
+      "supplied_value": "wor",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "144",
+      "supplied_value": "s",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "153",
+      "supplied_value": "vil",
+      "status": "source_transcribed",
+      "source_value": "vi",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "160",
+      "supplied_value": "dieß",
+      "status": "source_transcribed",
+      "source_value": "diß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "195",
+      "supplied_value": "zahl",
+      "status": "source_transcribed",
+      "source_value": "zahl",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "309",
+      "supplied_value": "schla",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "336",
+      "supplied_value": "s",
+      "status": "source_transcribed",
+      "source_value": "s",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        390,
+        1540,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "344",
+      "supplied_value": "ge",
+      "status": "source_transcribed",
+      "source_value": "ge",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        390,
+        1540,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "350",
+      "supplied_value": "gen",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "353",
+      "supplied_value": "und",
+      "status": "source_transcribed",
+      "source_value": "COMMA",
+      "source_kind": "punctuation",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "396",
+      "supplied_value": "ung",
+      "status": "source_transcribed",
+      "source_value": "ung",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "500",
+      "supplied_value": "sich",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "533",
+      "supplied_value": "be",
+      "status": "source_transcribed",
+      "source_value": "be",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        390,
+        2095,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "537",
+      "supplied_value": "fehl",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "555",
+      "supplied_value": "daß",
+      "status": "source_transcribed",
+      "source_value": "daß",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "577",
+      "supplied_value": "etwas",
+      "status": "source_transcribed",
+      "source_value": "et",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "714",
+      "supplied_value": "ber",
+      "status": "source_transcribed",
+      "source_value": "ber",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        390,
+        2640,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "732",
+      "supplied_value": "von",
+      "status": "source_transcribed",
+      "source_value": "Durand",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        390,
+        2640,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "771",
+      "supplied_value": "ni",
+      "status": "source_transcribed",
+      "source_value": "ni",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "777",
+      "supplied_value": "ni",
+      "status": "source_transcribed",
+      "source_value": "das",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "783",
+      "supplied_value": "sche",
+      "status": "source_transcribed",
+      "source_value": "sche",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "901",
+      "supplied_value": "geben",
+      "status": "source_transcribed",
+      "source_value": "geben",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "918",
+      "supplied_value": "ste",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "923",
+      "supplied_value": "zu",
+      "status": "provisional_source_reading",
+      "source_value": "aus",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "929",
+      "supplied_value": "gra",
+      "status": "source_transcribed",
+      "source_value": "Graf",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "946",
+      "supplied_value": "l(e)",
+      "status": "source_transcribed",
+      "source_value": "l / el",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "952",
+      "supplied_value": "feln",
+      "status": "provisional_source_reading",
+      "source_value": "ver",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        2170,
+        3180,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "978",
+      "supplied_value": "ste",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "2215",
+      "supplied_value": "f",
+      "status": "source_transcribed",
+      "source_value": "SWITCH_PRIMA",
+      "source_kind": "switch",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        390,
+        1270,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "2233",
+      "supplied_value": "zwei",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "2246",
+      "supplied_value": "fal",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "2259",
+      "supplied_value": "te nur",
+      "status": "provisional_source_reading",
+      "source_value": "wollte",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        2170,
+        1270,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "2273",
+      "supplied_value": "von",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "2275",
+      "supplied_value": "f",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "4447",
+      "supplied_value": "nach",
+      "status": "source_transcribed",
+      "source_value": "da",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1340,
+        390,
+        1820,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "6601",
+      "supplied_value": "richt",
+      "status": "source_transcribed",
+      "source_value": "recht",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        390,
+        2365,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "6642",
+      "supplied_value": "traue",
+      "status": "source_transcribed",
+      "source_value": "trauen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        390,
+        2365,
+        2310
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "6686",
+      "supplied_value": "wünschen",
+      "status": "source_transcribed",
+      "source_value": "wünschen",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        2170,
+        2365,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "8853",
+      "supplied_value": "selbst",
+      "status": "source_transcribed",
+      "source_value": "selbst",
+      "source_kind": "lexical",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2430,
+        2170,
+        2910,
+        4400
+      ]
+    },
+    {
+      "table": "secunda",
+      "code": "8877",
+      "supplied_value": "et",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    },
+    {
+      "table": "secunda",
+      "code": "8882",
+      "supplied_value": "dem",
+      "status": "needs_handwriting_review",
+      "source_value": null,
+      "source_kind": null
+    }
+  ]
+}

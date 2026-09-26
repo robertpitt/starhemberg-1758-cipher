@@ -281,13 +281,13 @@ def make_reports():
     with (ROOT/'working_key.csv').open(encoding='utf-8-sig',newline='') as f:
         metadata={(e['table'],e['group']):e for e in csv.DictReader(f)}
     plan=json.loads((ROOT/'decoding_spans.json').read_text(encoding='utf-8'))
-    edition=(ROOT/'READING.md').read_text(encoding='utf-8')
+    edition=(ROOT/'input/supplied_reading.md').read_text(encoding='utf-8')
     source,segments=replay(rows,keys,plan['spans'],metadata)
     validation=validate_readings(segments,edition)
     summary=summarize(segments,validation)
     report={'inputs':dict(audit.INPUT_SHA256,**{
                 name:hashlib.sha256((ROOT/name).read_bytes()).hexdigest()
-                for name in ('decoding_spans.json','READING.md')}),
+                for name in ('decoding_spans.json','input/supplied_reading.md')}),
             'policy':[
                 'All readings are conditional on the supplied incomplete key.',
                 'Without an explicit span, recorded separators and uncertain signs are boundaries; unseparated row breaks may be crossed.',
@@ -299,7 +299,7 @@ def make_reports():
             'summary':summary,'validation':validation,'segments':segments}
     lines=['# Conditional literal decoding','',
         '**This remains a partial reading. No general table-switching rule is implemented.**',
-        'The supplied edition is in [READING.md](../READING.md). It is not inserted into this output.',
+        'The supplied edition is in [input/supplied_reading.md](../input/supplied_reading.md). It is not inserted into this output.',
         'Tables on ordinary runs are unique dictionary candidates, not historically verified states. Five explicit second-table spans are local hypotheses.',
         'Values retain spelling, alternatives and `?`. `UNRESOLVED`, `AMBIGUOUS`, `UNCERTAIN`, and `GLYPH` markers consume the indicated source; nothing is dropped.',
         'Segments spanning physical rows appear at their starting row; their full endpoints are in [decoding.json](decoding.json). Source commas separate runs but are not emitted as plaintext punctuation. Encoded comma values remain visible.','']

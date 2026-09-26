@@ -497,7 +497,7 @@
     }
   ],
   "metadata_notes": {
-    "1588": "Catalogue: Kt.15 Fasc.21 ff.54–57; 1753-06-15. Earlier published survey gave 1753-06-16 for instructions ff.54–55. Date discrepancy unresolved; supplied P1 missing.",
+    "1588": "Manuscript instruction heading on newly supplied P1 read as 16 June 1753; catalogue previously gave 15 June. All R1588 P1–P6 now available.",
     "1591": "Catalogue: Kt.15 Fasc.21 ff.66–70. Supplied P1–P3 discuss numbers 12/13, P5 is headed Littera B. Do not assume every page represents one undifferentiated table."
   },
   "preserved_input_sha256": {
@@ -505,7 +505,7 @@
     "working_key.csv": "9e815ceb11d9f48e76345349a9640c1423e825e516c301f2acb043ccad0fd63a"
   },
   "sheet_assignment": {
-    "status": "strong_inference_from_entries_and_code_families_not_archival_order_confirmation",
+    "status": "supported_by_independently_headed_r1589_numerical_tables_selected_entries",
     "prima": [
       "IMG_R1588_I7137_P3.png",
       "IMG_R1588_I7140_P6.png"
@@ -518,8 +518,9 @@
       "P3 and P5 explicitly carry Prima and Secunda headings respectively.",
       "P6 continuation entries 226=s, 448=vor, 832=ung, 811=um, 001=von agree with main entries also supported by headed P3.",
       "P4 continuation 066=vor agrees with second; P4 S heading 336 contrasts with P6 S heading 226. Code-family profiles support P3+P6 and P5+P4.",
-      "P6 carries indicators naming Clavis 2; P4 carries indicators naming Clavis 1, consistent with signals to the other table, although their operation remains unproved."
+      "P6 carries indicators naming Clavis 2; P4 carries indicators naming Clavis 1, consistent with signals to the other table, although their operation remains unproved.",
+      "R1589 P3 Prima has 226=s and 448=vor; R1589 P4 Secunda has 336=s and 066=vor. See r1588_source_rules.json for crop coordinates."
     ],
-    "correction": "Earlier continuation labels inferred from consecutive filenames were reversed. The apparent mixed-table Bernis conflict is withdrawn under this strongly supported pairing. Missing instructions and R1589 should provide independent confirmation."
+    "correction": "Earlier filename-based continuation pairing was reversed. R1589 numerical cross-checks now independently support the corrected pairing."
   }
 }

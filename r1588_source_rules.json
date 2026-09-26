@@ -1,0 +1,297 @@
+{
+  "checked_on": "2026-09-26",
+  "status": "source_read_rules_with_partial_framing_test_not_complete_decipherment",
+  "sources": [
+    {
+      "file": "IMG_R1588_I7135_P1.png",
+      "size": [
+        3456,
+        4608
+      ],
+      "bytes": 14883513,
+      "sha256": "81ddcb10c2cb06c3d697597437f2f7b1671bcf09d6d049d71c16e743575172fd"
+    },
+    {
+      "file": "IMG_R1589_I7141_P1.png",
+      "size": [
+        4608,
+        3456
+      ],
+      "bytes": 11735923,
+      "sha256": "6860eb4cc715900b355aecd063999a44daa9f8852de0ee4bc3d230b69267dc41"
+    },
+    {
+      "file": "IMG_R1589_I7142_P2.png",
+      "size": [
+        4608,
+        3456
+      ],
+      "bytes": 19869990,
+      "sha256": "f85ee2b97f4b2e540029ffc8a8d576d9397c6dc5cda912d01be8582131785c97"
+    },
+    {
+      "file": "IMG_R1589_I7143_P3.png",
+      "size": [
+        3248,
+        4064
+      ],
+      "bytes": 18466470,
+      "sha256": "519b65f6537f3d387ec574e4e448b0eb9935f1c1fd944e91fd912ba7c61612a4"
+    },
+    {
+      "file": "IMG_R1589_I7144_P4.png",
+      "size": [
+        3456,
+        4608
+      ],
+      "bytes": 19807276,
+      "sha256": "fbc806f8678030ab923f1cbcb67079ab36e8d26208d620927885dc879250ecc6"
+    }
+  ],
+  "image_policy": "Originals and crops remain outside repository. Boxes use original pixel coordinates.",
+  "instruction_source": "IMG_R1588_I7135_P1.png",
+  "instruction_date_reading": "16 June 1753 (assistant visual reading; catalogue previously gave 15 June)",
+  "clauses": [
+    {
+      "id": "1",
+      "box": [
+        560,
+        470,
+        3100,
+        2240
+      ],
+      "interpretation": "Prima: leading 2/4/6/8 gives a three-digit group; leading 1/3/5/7/9 gives four. Secunda reverses these lengths. Leading zero gives three in both. Length interpretation agrees with the numerical tables."
+    },
+    {
+      "id": "2",
+      "box": [
+        620,
+        2210,
+        3170,
+        4030
+      ],
+      "interpretation": "Begin every dispatch, paragraph and letter in Prima. A switch to Secunda may follow a punctum or completed construction, with a preceding indicator; never inside a word or construction. An initial indicator is unnecessary because the start is Prima. Paragraph-boundary wording is a normalized reading of the section-symbol abbreviation."
+    },
+    {
+      "id": "2-continuation",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "box": [
+        240,
+        150,
+        2370,
+        3250
+      ],
+      "interpretation": "Avoid frequent new paragraphs and continue the cipher without breaks where possible."
+    },
+    {
+      "id": "3",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "interpretation": "Use errantes (nulls) frequently."
+    },
+    {
+      "id": "4",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "interpretation": "Write no clear text between cipher groups, lest it reveal their division or meaning."
+    },
+    {
+      "id": "5",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "interpretation": "Keep the enciphered expression concise; avoid unnecessary circumlocution and repetition."
+    },
+    {
+      "id": "6",
+      "source_file": "IMG_R1588_I7136_P2.png",
+      "interpretation": "Omit the cipher for the final punctum as superfluous."
+    }
+  ],
+  "numerical_checks": [
+    {
+      "table": "prima",
+      "code": "204",
+      "reading": "NULL",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        810,
+        140,
+        1110,
+        1220
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "210",
+      "reading": "würde…",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        810,
+        140,
+        1110,
+        1220
+      ],
+      "review_status": "assistant_visual_reading_pending_human_review"
+    },
+    {
+      "table": "prima",
+      "code": "219",
+      "reading": "ab",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        810,
+        140,
+        1110,
+        1220
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "226",
+      "reading": "s",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        810,
+        140,
+        1110,
+        1220
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "617",
+      "reading": "gu",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1770,
+        130,
+        2100,
+        1250
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "621",
+      "reading": "davon",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1770,
+        130,
+        2100,
+        1250
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "629",
+      "reading": "aufdaß?",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1770,
+        130,
+        2100,
+        1250
+      ],
+      "review_status": "assistant_visual_reading_pending_human_review"
+    },
+    {
+      "table": "prima",
+      "code": "1158",
+      "reading": "punctum",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        470,
+        2080,
+        810,
+        2480
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "448",
+      "reading": "vor",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1280,
+        1680,
+        1610,
+        2000
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "681",
+      "reading": "spr",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1810,
+        3010,
+        2140,
+        3290
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "867",
+      "reading": "wo",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2280,
+        2370,
+        2640,
+        2920
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "prima",
+      "code": "9999",
+      "reading": "ist",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2420,
+        3610,
+        2940,
+        4064
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "secunda",
+      "code": "336",
+      "reading": "s",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1120,
+        1530,
+        1440,
+        2000
+      ],
+      "review_status": "assistant_visual_reading"
+    },
+    {
+      "table": "secunda",
+      "code": "066",
+      "reading": "vor",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        190,
+        2670,
+        560,
+        3100
+      ],
+      "review_status": "assistant_visual_reading"
+    }
+  ],
+  "limits": [
+    "Targeted assistant visual readings, not a complete independently reviewed diplomatic transcription.",
+    "Repeated initial digits are visible additions in the numerical table; exact chronology of alteration is not established by these images.",
+    "No universal paragraph locations inferred from physical rows or page breaks.",
+    "No automatic correction of digits, lexical expansion or replacement of the supplied key."
+  ]
+}

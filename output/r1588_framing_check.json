@@ -1,0 +1,960 @@
+{
+  "status": "PARTIAL_FRAMING_DIAGNOSTIC_NOT_DECIPHERMENT",
+  "input_sha256": {
+    "ciphertext.txt": "66e550b75db3d7e7dc1b41cb724c5628885ce4cb66535f49acb49c09e96bcedc",
+    "working_key.csv": "9e815ceb11d9f48e76345349a9640c1423e825e516c301f2acb043ccad0fd63a"
+  },
+  "rules_sha256": "18922c44e671cfb752bb02f34e847b2285d9b81e786902e1829ec57f1f726f59",
+  "indicator_review_sha256": "60a72783e558860ad0f3fba09484ae5d8132d0bc62dbc74d1d8081c47ca7b391",
+  "policy": "Ignore recorded separators and physical row breaks; preserve digit locations. Start Prima. Stop before uncertain digits or a four-digit group without a repeated initial. The latter is a numerical-table consistency safeguard, not a separately transcribed prohibition in clause 1. Do not repair or resume automatically. Paragraph boundaries are not encoded; no inferred resets. Indicator recognition does not validate sentence-boundary eligibility.",
+  "from_opening": {
+    "units": [
+      {
+        "table": "prima",
+        "code": "204",
+        "start": [
+          "P1-R01",
+          1
+        ],
+        "end": [
+          "P1-R01",
+          3
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "867",
+        "start": [
+          "P1-R01",
+          4
+        ],
+        "end": [
+          "P1-R01",
+          6
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5547",
+        "start": [
+          "P1-R01",
+          7
+        ],
+        "end": [
+          "P1-R01",
+          10
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1118",
+        "start": [
+          "P1-R01",
+          11
+        ],
+        "end": [
+          "P1-R01",
+          14
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "881",
+        "start": [
+          "P1-R01",
+          15
+        ],
+        "end": [
+          "P1-R01",
+          17
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "020",
+        "start": [
+          "P1-R01",
+          18
+        ],
+        "end": [
+          "P1-R01",
+          20
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1108",
+        "start": [
+          "P1-R01",
+          21
+        ],
+        "end": [
+          "P1-R01",
+          24
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "880",
+        "start": [
+          "P1-R01",
+          26
+        ],
+        "end": [
+          "P1-R01",
+          28
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "437",
+        "start": [
+          "P1-R01",
+          30
+        ],
+        "end": [
+          "P1-R01",
+          32
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "248",
+        "start": [
+          "P1-R01",
+          34
+        ],
+        "end": [
+          "P1-R01",
+          36
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5512",
+        "start": [
+          "P1-R01",
+          38
+        ],
+        "end": [
+          "P1-R01",
+          41
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "212",
+        "start": [
+          "P1-R01",
+          43
+        ],
+        "end": [
+          "P1-R01",
+          45
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1115",
+        "start": [
+          "P1-R01",
+          47
+        ],
+        "end": [
+          "P1-R01",
+          50
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "811",
+        "start": [
+          "P1-R01",
+          52
+        ],
+        "end": [
+          "P1-R01",
+          54
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "234",
+        "start": [
+          "P1-R01",
+          56
+        ],
+        "end": [
+          "P1-R01",
+          58
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "9989",
+        "start": [
+          "P1-R01",
+          60
+        ],
+        "end": [
+          "P1-R01",
+          63
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5528",
+        "start": [
+          "P1-R02",
+          1
+        ],
+        "end": [
+          "P1-R02",
+          4
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "275",
+        "start": [
+          "P1-R02",
+          6
+        ],
+        "end": [
+          "P1-R02",
+          8
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5540",
+        "start": [
+          "P1-R02",
+          10
+        ],
+        "end": [
+          "P1-R02",
+          13
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "7759",
+        "start": [
+          "P1-R02",
+          15
+        ],
+        "end": [
+          "P1-R02",
+          18
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1102",
+        "start": [
+          "P1-R02",
+          20
+        ],
+        "end": [
+          "P1-R02",
+          23
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "004",
+        "start": [
+          "P1-R02",
+          25
+        ],
+        "end": [
+          "P1-R02",
+          27
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "880",
+        "start": [
+          "P1-R02",
+          29
+        ],
+        "end": [
+          "P1-R02",
+          31
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "246",
+        "start": [
+          "P1-R02",
+          33
+        ],
+        "end": [
+          "P1-R02",
+          35
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1107",
+        "start": [
+          "P1-R02",
+          37
+        ],
+        "end": [
+          "P1-R02",
+          40
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "066",
+        "start": [
+          "P1-R02",
+          42
+        ],
+        "end": [
+          "P1-R02",
+          44
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "068",
+        "start": [
+          "P1-R02",
+          46
+        ],
+        "end": [
+          "P1-R02",
+          48
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "442",
+        "start": [
+          "P1-R02",
+          50
+        ],
+        "end": [
+          "P1-R02",
+          52
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "011",
+        "start": [
+          "P1-R02",
+          54
+        ],
+        "end": [
+          "P1-R02",
+          56
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "028",
+        "start": [
+          "P1-R02",
+          58
+        ],
+        "end": [
+          "P1-R02",
+          60
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "025",
+        "start": [
+          "P1-R02",
+          62
+        ],
+        "end": [
+          "P1-R02",
+          64
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "009",
+        "start": [
+          "P1-R02",
+          66
+        ],
+        "end": [
+          "P1-R03",
+          2
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "694",
+        "start": [
+          "P1-R03",
+          4
+        ],
+        "end": [
+          "P1-R03",
+          6
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "400",
+        "start": [
+          "P1-R03",
+          8
+        ],
+        "end": [
+          "P1-R03",
+          10
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "210",
+        "start": [
+          "P1-R03",
+          12
+        ],
+        "end": [
+          "P1-R03",
+          14
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "3323",
+        "start": [
+          "P1-R03",
+          16
+        ],
+        "end": [
+          "P1-R03",
+          19
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "629",
+        "start": [
+          "P1-R03",
+          21
+        ],
+        "end": [
+          "P1-R03",
+          23
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "446",
+        "start": [
+          "P1-R03",
+          25
+        ],
+        "end": [
+          "P1-R03",
+          27
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "7750",
+        "start": [
+          "P1-R03",
+          29
+        ],
+        "end": [
+          "P1-R03",
+          32
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "068",
+        "start": [
+          "P1-R03",
+          34
+        ],
+        "end": [
+          "P1-R03",
+          36
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "262",
+        "start": [
+          "P1-R03",
+          38
+        ],
+        "end": [
+          "P1-R03",
+          40
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "423",
+        "start": [
+          "P1-R03",
+          42
+        ],
+        "end": [
+          "P1-R03",
+          44
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "666",
+        "start": [
+          "P1-R03",
+          46
+        ],
+        "end": [
+          "P1-R03",
+          48
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "3340",
+        "start": [
+          "P1-R03",
+          50
+        ],
+        "end": [
+          "P1-R03",
+          53
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5584",
+        "start": [
+          "P1-R03",
+          55
+        ],
+        "end": [
+          "P1-R03",
+          58
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "004",
+        "start": [
+          "P1-R03",
+          60
+        ],
+        "end": [
+          "P1-R03",
+          62
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5549",
+        "start": [
+          "P1-R04",
+          1
+        ],
+        "end": [
+          "P1-R04",
+          4
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "7760",
+        "start": [
+          "P1-R04",
+          6
+        ],
+        "end": [
+          "P1-R04",
+          9
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "007",
+        "start": [
+          "P1-R04",
+          11
+        ],
+        "end": [
+          "P1-R04",
+          13
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "428",
+        "start": [
+          "P1-R04",
+          15
+        ],
+        "end": [
+          "P1-R04",
+          17
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "222",
+        "start": [
+          "P1-R04",
+          19
+        ],
+        "end": [
+          "P1-R04",
+          21
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "448",
+        "start": [
+          "P1-R04",
+          23
+        ],
+        "end": [
+          "P1-R04",
+          25
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "049",
+        "start": [
+          "P1-R04",
+          27
+        ],
+        "end": [
+          "P1-R04",
+          29
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1127",
+        "start": [
+          "P1-R04",
+          31
+        ],
+        "end": [
+          "P1-R04",
+          34
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "832",
+        "start": [
+          "P1-R04",
+          36
+        ],
+        "end": [
+          "P1-R04",
+          38
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "405",
+        "start": [
+          "P1-R04",
+          40
+        ],
+        "end": [
+          "P1-R04",
+          42
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1101",
+        "start": [
+          "P1-R04",
+          44
+        ],
+        "end": [
+          "P1-R04",
+          47
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1158",
+        "start": [
+          "P1-R04",
+          49
+        ],
+        "end": [
+          "P1-R04",
+          52
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "020",
+        "start": [
+          "P1-R04",
+          54
+        ],
+        "end": [
+          "P1-R04",
+          56
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "9961",
+        "start": [
+          "P1-R04",
+          58
+        ],
+        "end": [
+          "P1-R04",
+          61
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5521",
+        "start": [
+          "P1-R04",
+          63
+        ],
+        "end": [
+          "P1-R05",
+          3
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "5540",
+        "start": [
+          "P1-R05",
+          5
+        ],
+        "end": [
+          "P1-R05",
+          8
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "1127",
+        "start": [
+          "P1-R05",
+          10
+        ],
+        "end": [
+          "P1-R05",
+          13
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "005",
+        "start": [
+          "P1-R05",
+          15
+        ],
+        "end": [
+          "P1-R05",
+          17
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "3395",
+        "start": [
+          "P1-R05",
+          19
+        ],
+        "end": [
+          "P1-R05",
+          22
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "613",
+        "start": [
+          "P1-R05",
+          25
+        ],
+        "end": [
+          "P1-R05",
+          27
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "663",
+        "start": [
+          "P1-R05",
+          30
+        ],
+        "end": [
+          "P1-R05",
+          32
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "643",
+        "start": [
+          "P1-R05",
+          34
+        ],
+        "end": [
+          "P1-R05",
+          36
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "3337",
+        "start": [
+          "P1-R05",
+          38
+        ],
+        "end": [
+          "P1-R05",
+          41
+        ],
+        "indicator_target": null
+      }
+    ],
+    "stop": {
+      "reason": "unverified_four_digit_form",
+      "table": "prima",
+      "candidate": "7685",
+      "location": [
+        "P1-R05",
+        43
+      ]
+    }
+  },
+  "local_probe": {
+    "assumption": "Independent probe at known 1158, assuming Prima; not a continuation of the stopped opening scan.",
+    "units": [
+      {
+        "table": "prima",
+        "code": "1158",
+        "start": [
+          "P3-R02",
+          50
+        ],
+        "end": [
+          "P3-R02",
+          53
+        ],
+        "indicator_target": null
+      },
+      {
+        "table": "prima",
+        "code": "412",
+        "start": [
+          "P3-R02",
+          55
+        ],
+        "end": [
+          "P3-R02",
+          58
+        ],
+        "indicator_target": "secunda"
+      }
+    ],
+    "stop": {
+      "reason": "unverified_four_digit_form",
+      "table": "secunda",
+      "candidate": "4929",
+      "location": [
+        "P3-R02",
+        59
+      ]
+    }
+  }
+}

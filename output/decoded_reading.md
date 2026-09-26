@@ -1,7 +1,7 @@
 # Conditional literal decoding
 
 **This remains a partial reading. No general table-switching rule is implemented.**
-The supplied edition is in [READING.md](../READING.md). It is not inserted into this output.
+The supplied edition is in [input/supplied_reading.md](../input/supplied_reading.md). It is not inserted into this output.
 Tables on ordinary runs are unique dictionary candidates, not historically verified states. Five explicit second-table spans are local hypotheses.
 Values retain spelling, alternatives and `?`. `UNRESOLVED`, `AMBIGUOUS`, `UNCERTAIN`, and `GLYPH` markers consume the indicated source; nothing is dropped.
 Segments spanning physical rows appear at their starting row; their full endpoints are in [decoding.json](decoding.json). Source commas separate runs but are not emitted as plaintext punctuation. Encoded comma values remain visible.

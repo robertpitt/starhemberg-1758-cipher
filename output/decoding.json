@@ -3,7 +3,7 @@
     "ciphertext.txt": "66e550b75db3d7e7dc1b41cb724c5628885ce4cb66535f49acb49c09e96bcedc",
     "working_key.csv": "9e815ceb11d9f48e76345349a9640c1423e825e516c301f2acb043ccad0fd63a",
     "decoding_spans.json": "240e20dc9894a15fe6ea133d1ba2e5b3cdf4ec20a38816f5998a5c0a4522cad0",
-    "READING.md": "e08c16fa59d3f4cb87037c1bc5459f28c38c2bd757352b0699be46ec79a4fbcd"
+    "input/supplied_reading.md": "e08c16fa59d3f4cb87037c1bc5459f28c38c2bd757352b0699be46ec79a4fbcd"
   },
   "policy": [
     "All readings are conditional on the supplied incomplete key.",

@@ -1,0 +1,5132 @@
+{
+  "codebook_identification": "R1588 / R1589, established",
+  "status": "SOURCE_COLLATION_IN_PROGRESS_NOT_FINAL_KEY",
+  "scope": "Letter-focused transcription of the identified historical key. Selected lexical roots and full operational panels; not all 2,000 numerical rows and not a complete edition of abbreviations or polyphony. No reconstructed working-key value is silently imported.",
+  "sources": [
+    {
+      "file": "IMG_R1589_I7143_P3.png",
+      "size": [
+        3248,
+        4064
+      ],
+      "bytes": 18466470,
+      "sha256": "519b65f6537f3d387ec574e4e448b0eb9935f1c1fd944e91fd912ba7c61612a4"
+    },
+    {
+      "file": "IMG_R1589_I7144_P4.png",
+      "size": [
+        3456,
+        4608
+      ],
+      "bytes": 19807276,
+      "sha256": "fbc806f8678030ab923f1cbcb67079ab36e8d26208d620927885dc879250ecc6"
+    },
+    {
+      "file": "IMG_R1588_I7137_P3.png",
+      "bytes": 15846088,
+      "size": [
+        3032,
+        3984
+      ],
+      "sha256": "c634924341209fabf71b94a50d21b87ff13781cdc59c9128152cab7434ad9393"
+    },
+    {
+      "file": "IMG_R1588_I7138_P4.png",
+      "bytes": 16164260,
+      "size": [
+        3152,
+        4008
+      ],
+      "sha256": "0a33ad3d5d705075019be56716233d492f13a36a44bd4f09e5941ba0561e0958"
+    },
+    {
+      "file": "IMG_R1588_I7139_P5.png",
+      "bytes": 18424105,
+      "size": [
+        3456,
+        4608
+      ],
+      "sha256": "1de98b1f1934f6032b6bf497faf33bf70fca2fb29814c68e4d539a4d1126ec3c"
+    },
+    {
+      "file": "IMG_R1588_I7140_P6.png",
+      "bytes": 16357236,
+      "size": [
+        3160,
+        4104
+      ],
+      "sha256": "11e751d416536884e717d353844ae2bff466f0e12c9c0968c90d001d17b93988"
+    }
+  ],
+  "review_policy": "source_read means assistant visual transcription, not independent human confirmation. provisional entries are retained for review and excluded from authoritative lookup. variants_complete=false means additional readings/endings may exist; lexical output remains a root-level candidate.",
+  "entries": [
+    {
+      "table": "prima",
+      "code": "001",
+      "value": "von",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          880,
+          2550,
+          1500,
+          4030
+        ],
+        "reading": "von"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "002",
+      "value": "daß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "003",
+      "value": "Hof",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "005",
+      "value": "e",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1030,
+        700,
+        1490,
+        900
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "007",
+      "value": "die",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "009",
+      "value": "es",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "010",
+      "value": "ti / tion",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "013",
+      "value": "ver",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "014",
+      "value": "man",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "019",
+      "value": "a / Condition",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          170,
+          270,
+          730,
+          440
+        ],
+        "reading": "A heading includes 019."
+      }
+    },
+    {
+      "table": "prima",
+      "code": "020",
+      "value": "der",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "022",
+      "value": "en",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "025",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "026",
+      "value": "gnädig / gnädiglich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "030",
+      "value": "es",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "031",
+      "value": "Neapel",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "040",
+      "value": "wie",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        100,
+        620,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "042",
+      "value": "st",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "049",
+      "value": "st",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "054",
+      "value": "etwas",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "058",
+      "value": "Monsieur",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "060",
+      "value": "ob",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "065",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "066",
+      "value": "sein",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "068",
+      "value": "richtig",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "070",
+      "value": "ein",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "073",
+      "value": "werde",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "079",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "080",
+      "value": "wird",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "087",
+      "value": "unter",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "090",
+      "value": "ein",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "099",
+      "value": "sein",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        70,
+        1900,
+        620,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "204",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "210",
+      "value": "Wum[b|g]",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "note": "Robert can make out Wum[b|g]; the final letter and lexical interpretation remain uncertain. This does not confirm würde or Satoshi’s wurck.",
+      "human_review": {
+        "reviewer": "Robert Pitt",
+        "transcription": "Wum[b|g]",
+        "certainty": "partial_reading",
+        "crop_box_xyxy": [
+          845,
+          415,
+          1170,
+          545
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "211",
+      "value": "sie",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "212",
+      "value": "n",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        2120,
+        3640,
+        2600,
+        3900
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "217",
+      "value": "mi",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "218",
+      "value": "Tag / täglich?",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "note": "Numerical cell appears Tag with derivative ending; example annotation was tentatively human-read Läger? and assistant-read Tage. Keep provisional."
+    },
+    {
+      "table": "prima",
+      "code": "219",
+      "value": "ab",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          150,
+          180,
+          700,
+          800
+        ],
+        "reading": "ab"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "220",
+      "value": "daß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "221",
+      "value": "der",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "222",
+      "value": "lich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "223",
+      "value": "nach",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "224",
+      "value": "er",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "226",
+      "value": "s",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          210,
+          3200,
+          750,
+          3900
+        ],
+        "reading": "s"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "231",
+      "value": "wenig",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "232",
+      "value": "ei",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "234",
+      "value": "stand",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "238",
+      "value": "Cardinal",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "240",
+      "value": "drey / dritte",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "244",
+      "value": "da",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "246",
+      "value": "Constantinopel",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          600,
+          1490,
+          1080,
+          1650
+        ],
+        "reading": "Constantinopel"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "248",
+      "value": "ent",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        100,
+        1230,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "262",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "266",
+      "value": "groß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2630,
+        1840,
+        2860
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "270",
+      "value": "Euer Excellenz",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "275",
+      "value": "hiesig",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "279",
+      "value": "December",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "297",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        680,
+        1900,
+        1230,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "400",
+      "value": "Sturm",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "405",
+      "value": "machen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          2180,
+          1400,
+          2650,
+          2600
+        ],
+        "reading": "machen"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "407",
+      "value": "sondern",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "412",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false,
+      "target": "secunda"
+    },
+    {
+      "table": "prima",
+      "code": "414",
+      "value": "mahl",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "415",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "423",
+      "value": "damit",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "428",
+      "value": "dienst",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "437",
+      "value": "er",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "439",
+      "value": "zu",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "440",
+      "value": "Juli",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "442",
+      "value": "ig",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "445",
+      "value": "t",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        500,
+        2580,
+        1120,
+        4104
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "446",
+      "value": "zu",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "448",
+      "value": "vor",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        100,
+        1770,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          880,
+          2550,
+          1500,
+          4030
+        ],
+        "reading": "vor"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "460",
+      "value": "all",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "470",
+      "value": "Versailles",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "473",
+      "value": "ni",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          2520,
+          150,
+          3032,
+          1150
+        ],
+        "reading": "ni"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "477",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false,
+      "target": "secunda"
+    },
+    {
+      "table": "prima",
+      "code": "481",
+      "value": "geheim",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "482",
+      "value": "auf",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "488",
+      "value": "im",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "489",
+      "value": "ihn",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "494",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1220,
+        1900,
+        1770,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "603",
+      "value": "thun",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "616",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false,
+      "target": "secunda"
+    },
+    {
+      "table": "prima",
+      "code": "617",
+      "value": "gu",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "618",
+      "value": "Madrid",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "621",
+      "value": "davon",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "623",
+      "value": "gleich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "629",
+      "value": "aufdaß",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false,
+      "note": "Numerical and alphabetical copies support auf…; full word awaiting human review."
+    },
+    {
+      "table": "prima",
+      "code": "632",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "640",
+      "value": "wann",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "641",
+      "value": "nehm",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "643",
+      "value": "mit",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "645",
+      "value": "de",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          570,
+          2530,
+          1140,
+          2990
+        ],
+        "reading": "de"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "646",
+      "value": "zeit",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        100,
+        2260,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "655",
+      "value": "ri",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "664",
+      "value": "e",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1030,
+        700,
+        1490,
+        900
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "666",
+      "value": "ich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "667",
+      "value": "den",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "681",
+      "value": "spr",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "687",
+      "value": "CADATUR",
+      "kind": "cancellation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false,
+      "note": "Cadatur heading confirmed; operational scope not yet established.",
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "698",
+      "value": "wohl",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1730,
+        1900,
+        2260,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "801",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "802",
+      "value": "su",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "811",
+      "value": "um",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          880,
+          2550,
+          1500,
+          4030
+        ],
+        "reading": "um"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "815",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "819",
+      "value": "finden",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "830",
+      "value": "mir",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "832",
+      "value": "ung",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          880,
+          2550,
+          1500,
+          4030
+        ],
+        "reading": "ung"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "835",
+      "value": "glauben",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "847",
+      "value": "Armée",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        100,
+        2790,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "861",
+      "value": "Augustus",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "867",
+      "value": "wo",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1390,
+          1750,
+          1960,
+          2800
+        ],
+        "reading": "wo"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "868",
+      "value": "Graf",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "873",
+      "value": "noch",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "880",
+      "value": "in",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "881",
+      "value": "n / ne",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "886",
+      "value": "nicht",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "888",
+      "value": "s / ß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "889",
+      "value": "aus",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "890",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "897",
+      "value": "tro",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2240,
+        1900,
+        2790,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1101",
+      "value": "könnte",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1102",
+      "value": "g",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        50,
+        1840,
+        250
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1103",
+      "value": "o",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        2550,
+        1630,
+        3032,
+        1850
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1104",
+      "value": "ta",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1107",
+      "value": "würck",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1108",
+      "value": "dar",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1109",
+      "value": "ka",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1113",
+      "value": "und",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1114",
+      "value": "e / ist",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          1030,
+          700,
+          1490,
+          900
+        ],
+        "reading": "E heading includes 1114."
+      }
+    },
+    {
+      "table": "prima",
+      "code": "1116",
+      "value": "po",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1118",
+      "value": "r",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        190,
+        1690,
+        730,
+        2050
+      ],
+      "variants_complete": false,
+      "note": "R heading includes 118/1118; encoded four-digit spelling also indexed in numerical copy. Root only; other variants not fully transcribed."
+    },
+    {
+      "table": "prima",
+      "code": "1119",
+      "value": "et",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1120",
+      "value": "a",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        170,
+        270,
+        730,
+        440
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1121",
+      "value": "C - C[r|k]",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        540,
+        825,
+        840,
+        925
+      ],
+      "variants_complete": false,
+      "human_review": {
+        "reviewer": "Robert Pitt",
+        "transcription": "C - C[r|k]",
+        "certainty": "partial_reading"
+      },
+      "note": "Preserve the reported C and alternative r/k without expanding them to a word or name. This is Prima 1121, not Secunda 112."
+    },
+    {
+      "table": "prima",
+      "code": "1122",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false,
+      "target": "secunda"
+    },
+    {
+      "table": "prima",
+      "code": "1127",
+      "value": "el",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1144",
+      "value": "er",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1146",
+      "value": "ber",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        100,
+        960,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          170,
+          2500,
+          730,
+          3700
+        ],
+        "reading": "ber"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "1155",
+      "value": "möglich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1157",
+      "value": "ung",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1158",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "1161",
+      "value": "ge",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1162",
+      "value": "Monath",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1163",
+      "value": "er",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1166",
+      "value": "voll",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1168",
+      "value": "QUESTION",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1800,
+        560,
+        2240,
+        2930
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "question",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "1189",
+      "value": "punct",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1195",
+      "value": "risch",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "1196",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        355,
+        1900,
+        960,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "3307",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "3321",
+      "value": "ha",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3323",
+      "value": "mich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3324",
+      "value": "ca",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3333",
+      "value": "vor",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3336",
+      "value": "e",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1030,
+        700,
+        1490,
+        900
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3340",
+      "value": "diß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3347",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false,
+      "target": "secunda",
+      "note": "Numeric table corroborates the indicator entry; digits still await unqualified human confirmation."
+    },
+    {
+      "table": "prima",
+      "code": "3349",
+      "value": "ben",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        100,
+        1515,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3362",
+      "value": "geben",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3365",
+      "value": "an",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3368",
+      "value": "gut",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3370",
+      "value": "ni",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3372",
+      "value": "franz… Ministre?",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false,
+      "note": "Numerical cell appears franz… Ministre; worked-example annotation appears Französ… Armee. Resolve the reading or actual source disagreement before accepting either as exhaustive."
+    },
+    {
+      "table": "prima",
+      "code": "3374",
+      "value": "ange",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "3384",
+      "value": "PARENTHESIS",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7140_P6.png",
+      "crop_box_xyxy": [
+        1800,
+        560,
+        2240,
+        2930
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "parenthesis",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "3391",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        965,
+        1900,
+        1515,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "5512",
+      "value": "h",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1400,
+        2820,
+        1840,
+        3150
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5519",
+      "value": "dem",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5521",
+      "value": "Mareschal",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5534",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "5536",
+      "value": "halt",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5537",
+      "value": "Brühl",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5538",
+      "value": "SWITCH_SECUNDA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false,
+      "target": "secunda"
+    },
+    {
+      "table": "prima",
+      "code": "5540",
+      "value": "be",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        170,
+        2500,
+        730,
+        3700
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5545",
+      "value": "wa",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5547",
+      "value": "fe",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5549",
+      "value": "al / all",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        100,
+        1990,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5555",
+      "value": "e",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7137_P3.png",
+      "crop_box_xyxy": [
+        1030,
+        700,
+        1490,
+        900
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5557",
+      "value": "und",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5564",
+      "value": "bis",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5567",
+      "value": "ri",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5568",
+      "value": "che",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5584",
+      "value": "aller",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5588",
+      "value": "König",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "5590",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "5591",
+      "value": "Schlußbrief",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1450,
+        1900,
+        1990,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7720",
+      "value": "dem",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7722",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "7727",
+      "value": "laß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7738",
+      "value": "mit",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7749",
+      "value": "Julius",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7750",
+      "value": "unter",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        100,
+        2520,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7755",
+      "value": "hätte",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7760",
+      "value": "hier",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7762",
+      "value": "bei",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7767",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "7768",
+      "value": "kehren",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false,
+      "note": "Entry appears kehr… with abbreviated endings; review alongside letter P1-R05."
+    },
+    {
+      "table": "prima",
+      "code": "7770",
+      "value": "werde",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7772",
+      "value": "bey",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7773",
+      "value": "ig",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7775",
+      "value": "gen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7778",
+      "value": "durch",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7779",
+      "value": "et",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7783",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "7784",
+      "value": "Corps",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "7799",
+      "value": "sich",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        1990,
+        1900,
+        2520,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9908",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "9919",
+      "value": "so",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9931",
+      "value": "be",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7137_P3.png",
+        "crop_box_xyxy": [
+          170,
+          2500,
+          730,
+          3700
+        ],
+        "reading": "be"
+      }
+    },
+    {
+      "table": "prima",
+      "code": "9946",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        100,
+        3050,
+        2030
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7140_P6.png",
+        "crop_box_xyxy": [
+          1800,
+          560,
+          2240,
+          2930
+        ]
+      }
+    },
+    {
+      "table": "prima",
+      "code": "9961",
+      "value": "Herr",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9968",
+      "value": "September",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9973",
+      "value": "tr / tri",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9989",
+      "value": "wegen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9990",
+      "value": "et",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9995",
+      "value": "gen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9996",
+      "value": "und",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "prima",
+      "code": "9999",
+      "value": "ist",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7143_P3.png",
+      "crop_box_xyxy": [
+        2470,
+        1900,
+        3050,
+        4064
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "005",
+      "value": "de",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "017",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "018",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "021",
+      "value": "ist",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "029",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        390,
+        700,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "043",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7138_P4.png",
+      "crop_box_xyxy": [
+        1770,
+        110,
+        2310,
+        2350
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "052",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        2170,
+        700,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "064",
+      "value": "da",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        2170,
+        700,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "066",
+      "value": "vor",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        180,
+        2170,
+        700,
+        4400
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          950,
+          2300,
+          1620,
+          3900
+        ],
+        "reading": "vor"
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "101",
+      "value": "ab",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "104",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "122",
+      "value": "in",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "141",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        390,
+        985,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "153",
+      "value": "vi",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "160",
+      "value": "diß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "179",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "183",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "195",
+      "value": "zahl",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        485,
+        2170,
+        985,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "326",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        390,
+        1540,
+        2310
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "336",
+      "value": "s",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        390,
+        1540,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "344",
+      "value": "ge",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        390,
+        1540,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "353",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "355",
+      "value": "zu",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "357",
+      "value": "hi / hier",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "362",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "370",
+      "value": "um",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "380",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "396",
+      "value": "ung",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1060,
+        2170,
+        1540,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "517",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        390,
+        2095,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "533",
+      "value": "be",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        390,
+        2095,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "555",
+      "value": "daß",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "573",
+      "value": "lan / lang",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "577",
+      "value": "et",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "590",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1615,
+        2170,
+        2095,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "714",
+      "value": "ber",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        390,
+        2640,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "727",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        390,
+        2640,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "732",
+      "value": "Durand",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        390,
+        2640,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "741",
+      "value": "PARENTHESIS",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7138_P4.png",
+      "crop_box_xyxy": [
+        1770,
+        110,
+        2310,
+        2350
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "parenthesis",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "771",
+      "value": "ni",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "777",
+      "value": "das",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "780",
+      "value": "et / ange",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "783",
+      "value": "sche",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2160,
+        2170,
+        2640,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "901",
+      "value": "geben",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "923",
+      "value": "aus",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "929",
+      "value": "Graf",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "946",
+      "value": "l / el",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ],
+      "variants_complete": false,
+      "corroborating_lexical_source": {
+        "file": "IMG_R1588_I7139_P5.png",
+        "crop_box_xyxy": [
+          2110,
+          3200,
+          2670,
+          4200
+        ],
+        "reading": "l"
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "950",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        390,
+        3180,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "952",
+      "value": "ver",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2690,
+        2170,
+        3180,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "2209",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        390,
+        1270,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "2215",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        390,
+        1270,
+        2310
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "2238",
+      "value": "SEMICOLON",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        390,
+        1270,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "semicolon",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "2250",
+      "value": "FULL_STOP",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        390,
+        1270,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "period",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "2259",
+      "value": "wollte",
+      "kind": "lexical",
+      "review_status": "provisional",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        2170,
+        1270,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "2268",
+      "value": "CADATUR",
+      "kind": "cancellation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        2170,
+        1270,
+        4400
+      ],
+      "variants_complete": false,
+      "note": "Operational scope not yet established."
+    },
+    {
+      "table": "secunda",
+      "code": "2290",
+      "value": "Condition",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        790,
+        2170,
+        1270,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "4447",
+      "value": "da",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1340,
+        390,
+        1820,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "4457",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1340,
+        2170,
+        1820,
+        4400
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "4470",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1340,
+        2170,
+        1820,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "4475",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1340,
+        2170,
+        1820,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "4478",
+      "value": "QUESTION",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1588_I7138_P4.png",
+      "crop_box_xyxy": [
+        1770,
+        110,
+        2310,
+        2350
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "question",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "6601",
+      "value": "recht",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        390,
+        2365,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "6642",
+      "value": "trauen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        390,
+        2365,
+        2310
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "6653",
+      "value": "SWITCH_PRIMA",
+      "kind": "switch",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        2170,
+        2365,
+        4400
+      ],
+      "variants_complete": false,
+      "target": "prima"
+    },
+    {
+      "table": "secunda",
+      "code": "6655",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        2170,
+        2365,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "6677",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        2170,
+        2365,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "6686",
+      "value": "wünschen",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        1885,
+        2170,
+        2365,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "8833",
+      "value": "COMMA",
+      "kind": "punctuation",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2430,
+        390,
+        2910,
+        2310
+      ],
+      "variants_complete": false,
+      "punctuation_kind": "comma",
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    },
+    {
+      "table": "secunda",
+      "code": "8853",
+      "value": "selbst",
+      "kind": "lexical",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2430,
+        2170,
+        2910,
+        4400
+      ],
+      "variants_complete": false
+    },
+    {
+      "table": "secunda",
+      "code": "8889",
+      "value": "NULL",
+      "kind": "null",
+      "review_status": "source_read",
+      "source_file": "IMG_R1589_I7144_P4.png",
+      "crop_box_xyxy": [
+        2430,
+        2170,
+        2910,
+        4400
+      ],
+      "variants_complete": false,
+      "punctuation_kind": null,
+      "corroborating_source": {
+        "file": "IMG_R1588_I7138_P4.png",
+        "crop_box_xyxy": [
+          1770,
+          110,
+          2310,
+          2350
+        ]
+      }
+    }
+  ]
+}
