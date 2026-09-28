@@ -1,278 +1,383 @@
-table,group,value,occurrences,confidence
-main,001,von,3,medium
-main,002,das / daß,2,high
-main,003,Hof,1,medium
-main,004,s,3,high
-main,007,die,4,high
-main,008,zu,1,medium
-main,010,tig / ti,3,medium
-main,011,keit,1,medium
-main,013,ver,8,high
-main,014,als (man),1,medium
-main,015,rer,1,low
-main,017,e,1,low
-main,019,Condition,1,low
-main,020,der,6,high
-main,022,en,7,high
-main,025,",  (comma)",5,high
-main,028,haben,1,low
-main,030,es,2,high
-main,040,wie,3,high
-main,042,st,5,high
-main,047,st,1,medium
-main,049,st,3,high
-main,054,etwas,2,high
-main,058,Mr.,1,low
-main,066,sein,3,high
-main,068,richt,4,high
-main,070,ein (also der?),8,medium
-main,072,ft,1,low
-main,077,chen,1,low
-main,085,sch(e),4,high
-main,087,unter,1,medium
-main,090,in,1,medium
-main,096,eschäff,1,low
-main,099,sein,2,high
-main,202,das,1,low
-main,206,den,2,low
-main,211,sie,2,medium
-main,212,al,1,medium
-main,217,mi,2,high
-main,219,ab,2,high
-main,220,vor / das,3,low
-main,221,von,1,low
-main,222,liche,1,medium
-main,223,nach,2,high
-main,224,es,1,low
-main,226,s,5,high
-main,230,groß,1,low
-main,231,wenig,1,medium
-main,232,ey,1,medium
-main,233,stü,2,high
-main,234,stand,2,high
-main,244,da,3,high
-main,246,Constantinopel,1,medium
-main,248,ent,2,medium
-main,250,be,1,low
-main,262,en / me,3,low
-main,263,Sti,1,low
-main,266,schen,1,low
-main,269,tet / det,2,medium
-main,275,hiesigen,2,high
-main,297,seye,1,low
-main,300,men,1,low
-main,400,en,2,low
-main,405,machen,3,high
-main,407,dern,1,low
-main,409,?,2,low
-main,412,möge,1,low
-main,414,mahl,1,low
-main,423,damit,1,medium
-main,428,dien,2,high
-main,437,er,5,medium
-main,440,zu,1,medium
-main,442,ig,1,medium
-main,445,t,1,low
-main,446,zu,6,high
-main,448,vor,1,medium
-main,450,cht,1,medium
-main,460,alle,4,high
-main,473,ni,1,medium
-main,481,gehei,1,low
-main,482,auf,3,high
-main,488,im,1,low
-main,489,ihn,1,medium
-main,494,daß,1,medium
-main,557,den,1,medium
-main,603,thun,1,medium
-main,613,o / mit,5,low
-main,617,igu,1,low
-main,622,kräf,1,low
-main,623,glei,1,low
-main,640,en wan,1,low
-main,641,nehm,2,high
-main,645,de,2,high
-main,646,zeit,1,low
-main,654,sez,1,low
-main,655,ri,4,high
-main,661,her,1,medium
-main,662,ten,3,high
-main,666,ich,4,high
-main,667,den,5,high
-main,670,maaß,1,medium
-main,673,theil,1,low
-main,676,ät,2,low
-main,681,spr,1,low
-main,698,wohl,2,high
-main,777,lich,1,low
-main,802,su,1,medium
-main,809,men Tract?,1,low
-main,811,um,2,high
-main,819,fin,1,medium
-main,820,o,1,low
-main,830,mir,4,high
-main,831,tzen,1,medium
-main,832,ung,9,high
-main,835,glauben,1,low
-main,836,ab,1,low
-main,847,Armée,1,medium
-main,851,rzen,1,medium
-main,867,ge / o,2,low
-main,868,grafen,3,high
-main,873,noch,1,medium
-main,880,in,7,high
-main,886,nicht,2,high
-main,888,es,1,medium
-main,889,aus,3,high
-main,897,trö,1,high
-main,996,kom,1,medium
-main,1100,ge,1,low
-main,1101,kön(te),1,low
-main,1102,g,3,high
-main,1103,sem,1,low
-main,1104,ta,2,high
-main,1105,daß,1,low
-main,1107,würck,4,high
-main,1108,dar,1,medium
-main,1109,ka,1,medium
-main,1113,und,6,high
-main,1115,ten,3,high
-main,1118,r,6,high
-main,1119,en / et,2,low
-main,1127,el,5,high
-main,1140,all,1,medium
-main,1144,er,2,medium
-main,1146,ber,2,high
-main,1155,möglich / en,2,low
-main,1157,ung,2,high
-main,1161,ge,1,low
-main,1162,Monath,1,low
-main,1163,er,1,medium
-main,1165,li,3,high
-main,1166,voll,1,medium
-main,1189,punct,1,low
-main,1195,r,1,medium
-main,3312,h,1,medium
-main,3321,haff,1,low
-main,3331,sehen,1,medium
-main,3333,vor,1,low
-main,3340,dieß,1,medium
-main,3348,von,1,low
-main,3349,ben,1,low
-main,3362,geben,1,low
-main,3365,an,2,high
-main,3368,gute,1,medium
-main,3370,ni,1,medium
-main,3374,ange,1,medium
-main,3375,he,4,high
-main,3391,fen,2,low
-main,3392,Rußi,1,low
-main,3395,ist,1,medium
-main,5500,selbe,1,medium
-main,5512,h,7,high
-main,5519,dem,1,medium
-main,5521,Marechal,1,low
-main,5522,Hof,1,low
-main,5524,tion,1,low
-main,5528,des,3,high
-main,5536,halt,1,low
-main,5537,Brühl,2,high
-main,5540,b / be,6,high
-main,5547,fe,4,high
-main,5549,al,2,high
-main,5553,canz,1,low
-main,5557,und,2,high
-main,5564,bis,1,high
-main,5566,bis,1,medium
-main,5567,ri,1,high
-main,5568,ch,2,high
-main,5575,gespi,1,low
-main,5582,mü,1,medium
-main,5584,fal,2,high
-main,5588,König,1,medium
-main,5592,er,2,low
-main,7700,nur,2,high
-main,7701,ler,1,low
-main,7717,ö,1,medium
-main,7720,dem,2,high
-main,7723,h,1,medium
-main,7725,hr,2,low
-main,7727,laß,3,high
-main,7740,Durand,2,high
-main,7749,July,1,low
-main,7750,unter,1,medium
-main,7755,hätte,1,low
-main,7757,dios,1,low
-main,7760,hier,3,high
-main,7762,fa,1,medium
-main,7766,nt,1,medium
-main,7770,werde,2,medium
-main,7772,bey,3,high
-main,7773,ig,4,high
-main,7775,ge / gen,6,high
-main,7777,getr,1,low
-main,7778,durch,1,medium
-main,7779,rne,1,low
-main,7781,pula,1,low
-main,7784,Corps?,1,low
-main,7796,hiesigen,1,medium
-main,7798,die,1,low
-main,7799,sich,2,medium
-main,8831,zu,1,medium
-main,8888,ge,1,low
-main,9903,aue,1,low
-main,9919,?,1,low
-main,9931,be,3,high
-main,9961,Hr.,1,low
-main,9967,ter,1,low
-main,9973,tr,1,low
-main,9989,wegen,2,high
-main,9995,ge,1,medium
-second,005,de,2,high
-second,066,vor,2,high
-second,088,auch,1,medium
-second,101,ab,2,high
-second,112,sta,2,high
-second,122,in,7,high
-second,128,haubt,1,medium
-second,141,wor,2,medium
-second,144,s,1,medium
-second,153,vil,2,high
-second,160,dieß,2,high
-second,195,zahl,2,high
-second,309,schla,1,medium
-second,336,s,3,high
-second,344,ge,6,high
-second,350,gen,1,medium
-second,353,und,2,high
-second,396,ung,3,high
-second,500,sich,2,medium
-second,533,be,6,high
-second,537,fehl,1,medium
-second,555,daß,1,medium
-second,577,etwas,1,medium
-second,714,ber,2,high
-second,732,von,1,medium
-second,771,ni,2,medium
-second,777,ni,2,high
-second,783,sche,3,high
-second,901,geben,1,medium
-second,918,ste,2,high
-second,923,zu,1,medium
-second,929,gra,2,high
-second,946,l(e),4,high
-second,952,feln,1,medium
-second,978,ste,1,medium
-second,2215,f,1,medium
-second,2233,zwei,1,medium
-second,2246,fal,2,high
-second,2259,te nur,1,low
-second,2273,von,1,medium
-second,2275,f,1,medium
-second,4447,nach,1,medium
-second,6601,richt,1,medium
-second,6642,traue,1,medium
-second,6686,wünschen,1,medium
-second,8853,selbst,1,medium
-second,8877,et,1,medium
-second,8882,dem,2,medium
+table,code,value,kind,review_status,probability,human_confirmed,source,target,punctuation_kind
+prima,001,von,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,002,daß,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,003,Hof,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,004,s,unknown,supplied_guess,Unassessed,No,,,
+prima,005,e,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,007,die,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,008,zu,unknown,supplied_guess,Unassessed,No,,,
+prima,009,es,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,010,ti -on,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,011,keit,unknown,supplied_guess,Unassessed,No,,,
+prima,013,ver,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,014,man,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,015,rer,unknown,supplied_guess,Unassessed,No,,,
+prima,017,e,unknown,supplied_guess,Unassessed,No,,,
+prima,019,a / Condition,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,020,der -en,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,022,en,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,025,COMMA,punctuation,source_read,High,Yes — Robert (comma),IMG_R1589_I7143_P3.png,,comma
+prima,026,gnädig / gnädiglich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,028,haben,unknown,supplied_guess,Unassessed,No,,,
+prima,030,es,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,031,Neapel,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,040,wie,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,042,st,lexical,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,
+prima,047,st,unknown,supplied_guess,Unassessed,No,,,
+prima,049,st / ste?,lexical,provisional,Low,Unresolved — Norbert (illegible),IMG_R1589_I7143_P3.png,,
+prima,054,etwas,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,058,Monsieur,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,060,ob,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,065,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,066,sein,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,068,richtig,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,070,ein,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,072,ft,unknown,supplied_guess,Unassessed,No,,,
+prima,073,werde,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,077,chen,unknown,supplied_guess,Unassessed,No,,,
+prima,079,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,semicolon
+prima,080,wird,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,085,sch(e),unknown,supplied_guess,Unassessed,No,,,
+prima,087,unter,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,090,ein,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,096,schaff -e -n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,099,sein,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,202,das,unknown,supplied_guess,Unassessed,No,,,
+prima,204,NULL,null,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,206,den,unknown,supplied_guess,Unassessed,No,,,
+prima,210,würde -n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,211,sie,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,212,n ; nn,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,217,mi,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,218,Tag / täglich?,lexical,provisional,Low,Uncertain — Robert,IMG_R1589_I7143_P3.png,,
+prima,219,ab,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,220,daß,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,221,der,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,222,lich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,223,nach,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,224,er,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,226,s; ts,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,230,groß,unknown,supplied_guess,Unassessed,No,,,
+prima,231,wenig,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,232,ei,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,233,stü,unknown,supplied_guess,Unassessed,No,,,
+prima,234,stand -en,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,238,Cardinal,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,240,drey / dritte,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,244,da,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,246,Constantinopel,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,248,ent,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,250,be,unknown,supplied_guess,Unassessed,No,,,
+prima,262,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,comma
+prima,263,Sti,unknown,supplied_guess,Unassessed,No,,,
+prima,266,groß,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,269,tet / det,unknown,supplied_guess,Unassessed,No,,,
+prima,270,Euer Excellenz,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,275,hiesig,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,279,December,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,297,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,period
+prima,300,men,unknown,supplied_guess,Unassessed,No,,,
+prima,400,Sturm,lexical,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,
+prima,405,mach -e -n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,407,sondern,lexical,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,
+prima,409,?,unknown,supplied_guess,Unassessed,No,,,
+prima,412,SWITCH_SECUNDA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7143_P3.png,secunda,
+prima,414,mahl,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,415,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,423,damit,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,428,dien|st -en,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,437,ne – b,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,439,zu,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,440,Juli,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,442,ig,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,445,t,lexical,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,
+prima,446,zu,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,448,vor,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,450,cht,unknown,supplied_guess,Unassessed,No,,,
+prima,460,all,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,470,Versailles,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,473,ni,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,477,SWITCH_SECUNDA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7143_P3.png,secunda,
+prima,481,geheim,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,482,auf,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,488,im,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,489,ihn,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,494,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,comma
+prima,557,den,unknown,supplied_guess,Unassessed,No,,,
+prima,603,thun,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,613,o / mit,unknown,supplied_guess,Unassessed,No,,,
+prima,616,SWITCH_SECUNDA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7143_P3.png,secunda,
+prima,617,gu,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,618,Madrid,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,621,davon,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,622,kräf,unknown,supplied_guess,Unassessed,No,,,
+prima,623,gleich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,629,aufdaß,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,632,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,640,wann,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,641,nehm,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,643,mit,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,645,de,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,646,zeit,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,654,sez,unknown,supplied_guess,Unassessed,No,,,
+prima,655,ri,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,661,her,unknown,supplied_guess,Unassessed,No,,,
+prima,662,ten,unknown,supplied_guess,Unassessed,No,,,
+prima,663,ist,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,664,e,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,666,ich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,667,den,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,670,maaß,unknown,supplied_guess,Unassessed,No,,,
+prima,673,theil,unknown,supplied_guess,Unassessed,No,,,
+prima,676,a ; ä,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,681,spr,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,687,CADATUR,cancellation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,694,nöthig nothwendig,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,698,wohl,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,777,lich,unknown,supplied_guess,Unassessed,No,,,
+prima,801,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,semicolon
+prima,802,su,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,809,men Tract?,unknown,supplied_guess,Unassessed,No,,,
+prima,811,um,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,815,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,819,finden,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,820,o,unknown,supplied_guess,Unassessed,No,,,
+prima,830,mir,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,831,tzen,unknown,supplied_guess,Unassessed,No,,,
+prima,832,ung,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,835,glauben,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,836,ab,unknown,supplied_guess,Unassessed,No,,,
+prima,847,Armée,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,851,rzen,unknown,supplied_guess,Unassessed,No,,,
+prima,861,Augustus,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,867,wo,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,868,Graf -in/-en,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,873,noch,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,880,in,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,881,ne -r/-n ; 9,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,886,nicht,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,888,s / ß,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,889,aus,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,890,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,period
+prima,897,tro,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,996,kom,unknown,supplied_guess,Unassessed,No,,,
+prima,1100,ge,unknown,supplied_guess,Unassessed,No,,,
+prima,1101,könte -n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,1102,g,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,1103,o,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,1104,ta,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1105,daß,unknown,supplied_guess,Unassessed,No,,,
+prima,1107,würck,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1108,dar,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,1109,ka,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1113,und,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1114,e / ist,lexical,source_read,Moderate,Partial — Robert (ist only),IMG_R1589_I7143_P3.png,,
+prima,1115,ten,unknown,supplied_guess,Unassessed,No,,,
+prima,1116,po,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1118,r ; …,lexical,source_read,Moderate,Partial — Norbert: r ; …,IMG_R1589_I7143_P3.png,,
+prima,1119,et,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1120,a,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,1121,C - C[r|k],lexical,provisional,Low,Partial — Robert Pitt: C - C[r|k],IMG_R1589_I7143_P3.png,,
+prima,1122,SWITCH_SECUNDA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7143_P3.png,secunda,
+prima,1127,l ; ll,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,1140,all,unknown,supplied_guess,Unassessed,No,,,
+prima,1144,er,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1146,ber,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1155,möglich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1157,ung,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1158,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,period
+prima,1161,ge,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1162,Monath,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1163,er,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1165,li,unknown,supplied_guess,Unassessed,No,,,
+prima,1166,voll,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1168,QUESTION,punctuation,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,question
+prima,1189,punct,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1195,risch,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,1196,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3307,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3312,h,unknown,supplied_guess,Unassessed,No,,,
+prima,3321,ha,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,3323,mich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3324,ca,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3331,sehen,unknown,supplied_guess,Unassessed,No,,,
+prima,3333,vor,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3336,e,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,3340,diß,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3347,SWITCH_SECUNDA,switch,provisional,Low,Uncertain — Robert,IMG_R1589_I7143_P3.png,secunda,
+prima,3348,von,unknown,supplied_guess,Unassessed,No,,,
+prima,3349,ben,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3362,geben,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3365,an,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3368,gut,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,3370,ni,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3372,franz… Ministre?,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,3374,ange,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,3375,he,unknown,supplied_guess,Unassessed,No,,,
+prima,3384,PARENTHESIS,punctuation,source_read,Moderate,No,IMG_R1588_I7140_P6.png,,parenthesis
+prima,3391,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,comma
+prima,3392,Rußi,unknown,supplied_guess,Unassessed,No,,,
+prima,3395,ist,unknown,supplied_guess,Unassessed,No,,,
+prima,5500,selbe,unknown,supplied_guess,Unassessed,No,,,
+prima,5512,h ; s ; schein -e/-n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,5519,dem,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5521,Mareschal,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5522,Hof,unknown,supplied_guess,Unassessed,No,,,
+prima,5524,tion,unknown,supplied_guess,Unassessed,No,,,
+prima,5528,deß -sen,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,5534,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5536,halt,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5537,Brühl,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5538,SWITCH_SECUNDA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7143_P3.png,secunda,
+prima,5540,be,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,5545,wa,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5547,fe -r/-n ; r,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,5549,al / all,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5553,canz,unknown,supplied_guess,Unassessed,No,,,
+prima,5555,e,lexical,source_read,Moderate,No,IMG_R1588_I7137_P3.png,,
+prima,5557,und,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5564,bis,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5566,bis,unknown,supplied_guess,Unassessed,No,,,
+prima,5567,ri,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5568,che,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,5575,gespi,unknown,supplied_guess,Unassessed,No,,,
+prima,5582,mü,unknown,supplied_guess,Unassessed,No,,,
+prima,5584,aller,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,5588,König,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5590,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,semicolon
+prima,5591,Schlußbrief,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,5592,er,unknown,supplied_guess,Unassessed,No,,,
+prima,7700,nur,unknown,supplied_guess,Unassessed,No,,,
+prima,7701,ler,unknown,supplied_guess,Unassessed,No,,,
+prima,7717,ö,unknown,supplied_guess,Unassessed,No,,,
+prima,7720,dem,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7722,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7723,h,unknown,supplied_guess,Unassessed,No,,,
+prima,7725,hr,unknown,supplied_guess,Unassessed,No,,,
+prima,7727,laß,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7738,mit,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7740,Durand,unknown,supplied_guess,Unassessed,No,,,
+prima,7749,Julius,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7750,unter,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7755,hätte,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7757,dios,unknown,supplied_guess,Unassessed,No,,,
+prima,7759,tra,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,7760,hier,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7762,bei,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7766,nt,unknown,supplied_guess,Unassessed,No,,,
+prima,7767,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,comma
+prima,7768,kehren,lexical,provisional,Low,No,IMG_R1589_I7143_P3.png,,
+prima,7770,werde,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7772,bey,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7773,ig,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7775,ge -t -n,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,7777,getr,unknown,supplied_guess,Unassessed,No,,,
+prima,7778,durch,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7779,et,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7781,pula,unknown,supplied_guess,Unassessed,No,,,
+prima,7783,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,period
+prima,7784,Corps,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,7796,hiesigen,unknown,supplied_guess,Unassessed,No,,,
+prima,7798,die,unknown,supplied_guess,Unassessed,No,,,
+prima,7799,sich,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,8831,zu,unknown,supplied_guess,Unassessed,No,,,
+prima,8888,ge,unknown,supplied_guess,Unassessed,No,,,
+prima,9903,aue,unknown,supplied_guess,Unassessed,No,,,
+prima,9908,NULL,null,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9919,so,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9931,be,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9946,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,comma
+prima,9961,herr -n -s,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,9967,ter,unknown,supplied_guess,Unassessed,No,,,
+prima,9968,September,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9973,tr / tri,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9989,weg -en,lexical,source_read,High,Yes — Norbert (IMG reading),IMG_R1589_I7143_P3.png,,
+prima,9990,et,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9995,gen,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9996,und,lexical,source_read,Moderate,No,IMG_R1589_I7143_P3.png,,
+prima,9999,ist,lexical,source_read,High,Yes — Robert (ist),IMG_R1589_I7143_P3.png,,
+secunda,005,de,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,017,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,018,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,021,ist,lexical,source_read,Moderate,Partial — Robert (ist only),IMG_R1589_I7144_P4.png,,
+secunda,029,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,043,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1588_I7138_P4.png,,period
+secunda,052,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,semicolon
+secunda,064,da,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,066,vor,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,088,auch,unknown,supplied_guess,Unassessed,No,,,
+secunda,101,ab,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,104,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,112,sta,unknown,supplied_guess,Unassessed,No,,,
+secunda,122,in,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,128,haubt,unknown,supplied_guess,Unassessed,No,,,
+secunda,141,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,144,s,unknown,supplied_guess,Unassessed,No,,,
+secunda,153,vi,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,160,diß,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,179,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,183,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,period
+secunda,195,zahl,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,309,schla,unknown,supplied_guess,Unassessed,No,,,
+secunda,326,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,336,s,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,344,ge,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,350,gen,unknown,supplied_guess,Unassessed,No,,,
+secunda,353,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,355,zu,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,357,hi / hier,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,362,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,370,um,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,380,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,semicolon
+secunda,396,ung,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,500,sich,unknown,supplied_guess,Unassessed,No,,,
+secunda,517,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,533,be,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,537,fehl,unknown,supplied_guess,Unassessed,No,,,
+secunda,555,daß,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,573,lan / lang,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,577,et,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,590,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,period
+secunda,714,ber,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,727,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,732,Durand,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,741,PARENTHESIS,punctuation,source_read,Moderate,No,IMG_R1588_I7138_P4.png,,parenthesis
+secunda,771,ni,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,777,das,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,780,et / ange,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,783,sche,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,901,geben,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,918,ste,unknown,supplied_guess,Unassessed,No,,,
+secunda,923,aus,lexical,provisional,Low,No,IMG_R1589_I7144_P4.png,,
+secunda,929,Graf,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,946,l / el,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,950,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,952,ver,lexical,provisional,Low,No,IMG_R1589_I7144_P4.png,,
+secunda,978,ste,unknown,supplied_guess,Unassessed,No,,,
+secunda,2209,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,2215,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,2233,zwei,unknown,supplied_guess,Unassessed,No,,,
+secunda,2238,SEMICOLON,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,semicolon
+secunda,2246,fal,unknown,supplied_guess,Unassessed,No,,,
+secunda,2250,FULL_STOP,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,period
+secunda,2259,wollte,lexical,provisional,Low,No,IMG_R1589_I7144_P4.png,,
+secunda,2268,CADATUR,cancellation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,2273,von,unknown,supplied_guess,Unassessed,No,,,
+secunda,2275,f,unknown,supplied_guess,Unassessed,No,,,
+secunda,2290,Condition,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,4447,da,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,4457,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,4470,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,4475,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,4478,QUESTION,punctuation,source_read,Moderate,No,IMG_R1588_I7138_P4.png,,question
+secunda,6601,recht,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,6642,trauen,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,6653,SWITCH_PRIMA,switch,source_read,High,Yes — Robert (control),IMG_R1589_I7144_P4.png,prima,
+secunda,6655,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,6677,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,6686,wünschen,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,8833,COMMA,punctuation,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,comma
+secunda,8853,selbst,lexical,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,
+secunda,8877,et,unknown,supplied_guess,Unassessed,No,,,
+secunda,8882,dem,unknown,supplied_guess,Unassessed,No,,,
+secunda,8889,NULL,null,source_read,Moderate,No,IMG_R1589_I7144_P4.png,,

@@ -1,5 +1,2 @@
-# Preserve exact input and output bytes, including on Windows.
+# Preserve exact transcription bytes and leading zeros across platforms.
 * -text
-# The supplied CSV uses CRLF; a TSV's empty final field is a trailing tab.
-working_key.csv whitespace=cr-at-eol
-*.tsv whitespace=-blank-at-eol

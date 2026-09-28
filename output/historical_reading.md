@@ -1,8 +1,6 @@
 # Historical-key replay
 
-Codebook: **R1588/R1589, identified**. The key transcription and full decipherment remain incomplete.
-
-Coordinates below refer to `ciphertext_reviewed.txt`; reviewed changes are recorded against the unchanged original in `ciphertext_emendations.json`.
+**R1588/R1589 is identified; the full decipherment remains incomplete.** Coordinates are one-based characters after each row label in [ciphertext.txt](../ciphertext.txt). Unknown entries stay unknown; supplied guesses never fill gaps.
 
 ## Opening
 
@@ -12,24 +10,24 @@ Instruction-prescribed Prima at the start; no paragraph reset inferred.
 | --- | --- | --- | --- |
 | P1-R01:1 | prima | `204` | ∅ |
 | P1-R01:4 | prima | `867` | wo |
-| P1-R01:7 | prima | `5547` | fe |
-| P1-R01:11 | prima | `1118` | r |
-| P1-R01:15 | prima | `881` | n / ne |
-| P1-R01:18 | prima | `020` | der |
+| P1-R01:7 | prima | `5547` | fe -r/-n ; r |
+| P1-R01:11 | prima | `1118` | r ; … |
+| P1-R01:15 | prima | `881` | ne -r/-n ; 9 |
+| P1-R01:18 | prima | `020` | der -en |
 | P1-R01:21 | prima | `1108` | dar |
 | P1-R01:26 | prima | `880` | in |
-| P1-R01:30 | prima | `437` | er |
+| P1-R01:30 | prima | `437` | ne – b |
 | P1-R01:34 | prima | `248` | ent |
-| P1-R01:38 | prima | `5512` | h |
-| P1-R01:43 | prima | `212` | n |
+| P1-R01:38 | prima | `5512` | h ; s ; schein -e/-n |
+| P1-R01:43 | prima | `212` | n ; nn |
 | P1-R01:47 | prima | `1115` | [key entry not yet transcribed] |
 | P1-R01:52 | prima | `811` | um |
-| P1-R01:56 | prima | `234` | stand |
-| P1-R01:60 | prima | `9989` | wegen |
-| P1-R02:1 | prima | `5528` | [key entry not yet transcribed] |
+| P1-R01:56 | prima | `234` | stand -en |
+| P1-R01:60 | prima | `9989` | weg -en |
+| P1-R02:1 | prima | `5528` | deß -sen |
 | P1-R02:6 | prima | `275` | hiesig |
 | P1-R02:10 | prima | `5540` | be |
-| P1-R02:15 | prima | `7759` | [key entry not yet transcribed] |
+| P1-R02:15 | prima | `7759` | tra |
 | P1-R02:20 | prima | `1102` | g |
 | P1-R02:25 | prima | `004` | [key entry not yet transcribed] |
 | P1-R02:29 | prima | `880` | in |
@@ -42,9 +40,9 @@ Instruction-prescribed Prima at the start; no paragraph reset inferred.
 | P1-R02:58 | prima | `028` | [key entry not yet transcribed] |
 | P1-R02:62 | prima | `025` | , |
 | P1-R02:66 | prima | `009` | es |
-| P1-R03:4 | prima | `694` | [key entry not yet transcribed] |
+| P1-R03:4 | prima | `694` | nöthig nothwendig |
 | P1-R03:8 | prima | `400` | Sturm |
-| P1-R03:12 | prima | `210` | [provisional: Wum[b\|g]] |
+| P1-R03:12 | prima | `210` | würde -n |
 | P1-R03:16 | prima | `3323` | mich |
 | P1-R03:21 | prima | `629` | [provisional: aufdaß] |
 | P1-R03:25 | prima | `446` | zu |
@@ -59,28 +57,28 @@ Instruction-prescribed Prima at the start; no paragraph reset inferred.
 | P1-R04:1 | prima | `5549` | al / all |
 | P1-R04:6 | prima | `7760` | hier |
 | P1-R04:11 | prima | `007` | die |
-| P1-R04:15 | prima | `428` | dienst |
+| P1-R04:15 | prima | `428` | dien\|st -en |
 | P1-R04:19 | prima | `222` | lich |
 | P1-R04:23 | prima | `448` | vor |
-| P1-R04:27 | prima | `049` | st |
-| P1-R04:31 | prima | `1127` | el |
+| P1-R04:27 | prima | `049` | [provisional: st / ste?] |
+| P1-R04:31 | prima | `1127` | l ; ll |
 | P1-R04:36 | prima | `832` | ung |
-| P1-R04:40 | prima | `405` | machen |
-| P1-R04:44 | prima | `1101` | könnte |
+| P1-R04:40 | prima | `405` | mach -e -n |
+| P1-R04:44 | prima | `1101` | könte -n |
 | P1-R04:49 | prima | `1158` | . |
-| P1-R04:54 | prima | `020` | der |
-| P1-R04:58 | prima | `9961` | Herr |
+| P1-R04:54 | prima | `020` | der -en |
+| P1-R04:58 | prima | `9961` | herr -n -s |
 | P1-R04:63 | prima | `5521` | Mareschal |
 | P1-R05:5 | prima | `5540` | be |
-| P1-R05:10 | prima | `1127` | el |
+| P1-R05:10 | prima | `1127` | l ; ll |
 | P1-R05:15 | prima | `005` | e |
 | P1-R05:19 | prima | `3395` | [key entry not yet transcribed] |
 | P1-R05:25 | prima | `613` | [key entry not yet transcribed] |
-| P1-R05:30 | prima | `663` | [key entry not yet transcribed] |
+| P1-R05:30 | prima | `663` | ist |
 | P1-R05:34 | prima | `643` | mit |
 | P1-R05:38 | prima | `3337` | [key entry not yet transcribed] |
 
-**Stop:** `{"reason": "unverified_four_digit_form", "table": "prima", "candidate": "7685", "location": ["P1-R05", 43]}`.
+**Stop:** unverified_four_digit_form; `7685` at P1-R05:43.
 
 ## Transition Probe
 
@@ -95,4 +93,4 @@ Independent Prima start at P3-R02:50; this does not resume the stopped opening t
 | P3-R02:68 | prima | `1121` | [provisional: C - C[r\|k]] |
 | P3-R03:2 | prima | `221` | der |
 
-**Stop:** `{"reason": "unverified_four_digit_form", "table": "prima", "candidate": "5394", "location": ["P3-R03", 6]}`.
+**Stop:** unverified_four_digit_form; `5394` at P3-R03:6.
