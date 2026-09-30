@@ -11,9 +11,9 @@
 | [Literal replay](output/historical_reading.md) | Reproducible partial reading, with missing entries and explicit stopping points. |
 | [EVIDENCE.md](EVIDENCE.md) | Source identification, confirmed corrections, rules and remaining work. |
 
-The key contains **296 source entries and 86 separately labelled, unconfirmed supplied guesses**. The latter remain in the review table for investigation and are excluded from the replay. Read `code` as text to preserve leading zeros; Prima and Secunda are separate tables. `source_read` means an accepted source transcription, not necessarily human confirmation. Alternatives and abbreviated endings are not fully expanded.
+The key contains **306 source entries and 78 separately labelled, unconfirmed supplied guesses**. The latter remain in the review table for investigation and are excluded from the replay. Read `code` as text to preserve leading zeros; Prima and Secunda are separate tables. `source_read` means an accepted source transcription, not necessarily human confirmation. Alternatives and abbreviated endings are not fully expanded.
 
-Norbert’s 32 IMG readings are incorporated. `049` remains illegible, `1118` is partial, and the proposed `629` → `621` ciphertext change remains unconfirmed. Probability labels are qualitative evidence categories, not decipherment percentages.
+Norbert’s 73 IMG readings are incorporated with their stated uncertainty. `049` remains illegible; `1118` is partial; `005`, `248`, `5512` and `3337` retain explicit uncertainty. His latest readings take priority. The corrections `629` → `621` at P1-R03 and `3337,768` → `3333,7768` at P1-R05 are applied. The replay now frames 90 groups into P2-R01; the full reading remains provisional. Probability labels are qualitative evidence categories, not decipherment percentages.
 
 ## Check or update
 

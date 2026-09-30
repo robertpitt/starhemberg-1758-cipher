@@ -14,21 +14,24 @@ Switches, punctuation, nulls and cancellation entries are included in `working_k
 
 ## Confirmed corrections and current limits
 
-- **P1-R05:** Robert read `43,3337,768,551`; the outer groups were clipped. The full outer groups remain `643` and `5512`, and the central `3337,768` is unchanged. No digit has been inserted. The opening frames 69 groups / 233 digits before stopping at candidate `7685`, P1-R05:43.
+- **P1-R05:** Norbert’s latest worksheet (`decryption!I22:J22`) gives `3333,7768`, superseding the earlier `3337,768` reading under Robert’s instruction to prioritize Norbert. This correction is applied directly to the ciphertext. The opening now frames 90 groups / 307 digits across page 1 and into page 2, stopping at `3540`, P2-R01:5. It does not establish every lexical expansion.
 - **P3-R02:** the reviewed transcription replaces `41,24929,22,45112` with `412,929,2215,112` after `1158` (original characters 55–71, excluding the row label). The leading `5` in Robert’s crop is the clipped end of the preceding group. This correction is now included directly in `ciphertext.txt`; the earlier transcription remains in Git history.
+- **P1-R03:** Norbert’s follow-up reads `621`, matching Prima `davon`. Characters 21–23 now read `621` instead of `629`, attributed to his human reading, without an independent new image check here. This changes only that occurrence; the separate key entry `629` remains provisional.
 - **Local probe:** independently assuming Prima at P3-R02:50 gives `1158` punctum, `412` → Secunda, `929` Graf, `2215` → Prima, then provisional `1121` across the row break and `221` der. It stops at `5394`, P3-R03:6. It does not bridge the stopped opening or establish the proposed Stainville reading.
-- **Coverage:** the 296 source entries comprise 232 lexical, 30 punctuation, 20 null, 12 switch and two cancellation entries. The review table additionally retains 86 supplied guesses, clearly labelled and excluded from decoding. It is a letter-focused selection, not the complete codebook.
+- **Coverage:** the 306 source entries comprise 242 lexical, 30 punctuation, 20 null, 12 switch and two cancellation entries. The review table additionally retains 78 supplied guesses, clearly labelled and excluded from decoding. It is a letter-focused selection, not the complete codebook.
 
 ## Human review
 
-Norbert’s *Starhemberg - Norbert’s worksheet.xlsx* contributes 32 Prima readings explicitly marked `IMG`, including six additions: `096`, `663`, `676`, `694`, `5528`, `7759`. His alternatives and endings are preserved literally, including `210 = würde -n`. `1118 = r ; …` remains only partially transcribed; `049` remains provisional because his note says “IMG: illegible”. Robert’s partial `1121 = C - C[r|k]` also remains provisional.
+Norbert’s shared workbook, rechecked on 30 September 2026, contains 73 Prima readings marked `IMG`. The follow-up confirms `1115 = te -r/-n ; t` and corrects `400` from our earlier `Sturm` to `sey -e/-n -d`; it also checks `275`, `621`, `811`, `867` and `5540`. His notation is preserved literally. `1118 = r ; …` remains partial and `049` remains illegible. Robert’s `1121 = C - C[r|k]` remains provisional.
 
-Worksheet changes to `042`, `066`, `400`, `867`, `1107`, `1115` lack IMG and have not been adopted on that basis. The worksheet’s `621` does not authorize replacing the letter’s `629`. No Secunda entry was marked IMG. The review table records the reviewer and scope of confirmation; high confidence does not validate every expansion or occurrence.
+Two IMG entries carry explicit uncertainty: `248 = we ; definit -f/-ve` (first entry uncertain, explicitly not **ent**; worksheet B58:E58) and `5512 = k.h. / dein -e/-n` (“very unsure”; B179:E179). Both are provisional, replacing our earlier accepted readings; the phrase **enthaltene** consequently remains an editorial proposal. Norbert confirms **Betrags**, withdrawing **Ertrags** as a word reading; the latest workbook also image-confirms `004 = s ; ss`. `066` and `1107` are now image-checked; the unmarked `042` revision remains unadopted. No Secunda entry is marked IMG. Human confidence concerns the stated reading, not every expansion or occurrence.
+
+The 30 September update adds 33 IMG readings, including `011 = habe -n`, `028 = p ; pp`, `442 = kei -t -e -n`, `613 = le -t/-n -s`, `3395 = is ; Corsi -ca`, `5584 = falle -t -n`, `7718 = bald` and `7768 = ke -s -n`. Literal alternatives are retained. `005 = e ; ??` is provisional because Norbert allows **e** in Kurrent or **r** in Latin cursive and cannot read the second entry; `3337 = ment -ion (?)` is explicitly uncertain. These are uncertainties in the key even where a contextual word looks plausible. No new source images or ledgers are added to the repository.
 
 ## To complete the decipherment
 
-1. Resolve the low-confidence and untranscribed entries in the [review table](output/key_review_table.md), including `049`, `1121`, `629`/`621`, `400`, `004` and `1115`; distinguish literal readings from expanded endings.
-2. Recheck the unresolved digit forms at P1-R05 and P3-R03, the G signs, paragraph boundaries and cancellation rules against the manuscript. Resolve the worked example’s extra `240` in the continuous string versus its annotated breakdown.
+1. Resolve the low-confidence and untranscribed entries in the [review table](output/key_review_table.md), including `005`, `248`, `5512`, `049`, `1121`, `629` and `3337`; distinguish literal readings from expanded endings.
+2. Recheck the unresolved digit forms at P2-R01 and P3-R03, the G signs, paragraph boundaries and cancellation rules against the manuscript. Resolve the worked example’s extra `240` in the continuous string versus its annotated breakdown.
 3. Produce a continuous, position-by-position replay through all 52 rows, with verified table states and every unknown retained explicitly.
 4. Align every German phrase and English translation to that replay, resolve names and editorial additions, and obtain a final manuscript review and complete source citation.
 

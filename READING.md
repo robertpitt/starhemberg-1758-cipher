@@ -4,11 +4,11 @@
 
 ## German
 
-**Provisorischer Lesetext:** Der gesamte folgende Text bleibt eine redaktionelle Arbeitsfassung. Auch unmarkierte Wörter sind nicht durchgehend am historischen Schlüssel bestätigt. Die fortlaufende Prüfung stoppt derzeit bei P1-R05; einzelne frühere Wortlesungen sind ebenfalls offen.
+**Provisorischer Lesetext:** Der gesamte folgende Text bleibt eine redaktionelle Arbeitsfassung. Auch unmarkierte Wörter sind nicht durchgehend am historischen Schlüssel bestätigt. Die fortlaufende Prüfung stoppt derzeit bei P2-R01; einzelne frühere Wortlesungen sind ebenfalls offen.
 
 *[Clear text:] Bey Einsicht[ung] des hierbeyliegenden […]schen Ministerial-Schreibens habe nur so viel gehorsamst zu erinnern, daß, [cipher begins]*
 
-woferne der darinnen enthaltene Umstand wegen des hiesigen [Betrags] in Constantinopel würcklich seine Richtigkeit haben [solle], es nöthig seyn würde, mich [davon] zu unterrichten, damit ich dießfalls allhier die [dienliche Vorstellung] machen könnte.
+woferne der darinnen [enthaltene] Umstand wegen des hiesigen Betrags in Constantinopel würcklich seine Richtigkeit haben [solle], es nöthig seyn würde, mich davon zu unterrichten, damit ich dießfalls allhier die [dienliche Vorstellung] machen könnte.
 
 Der Hr. Marechal Belisle ist mit Vorkehrung aller Anstalten zur baldigen Herstellung der Armée, und Verbeßerung der bisherigen militarischen Einrichtung eyferigst beschäfftiget, und ist sich von seiner hierinfals gebenden Bemühung allem Ansehen nach eine gute Würckung zu versprechen. Er wiederholt mir stäts die Vertröstung, daß das Soubisische Corps ohnfehlbar in dem Monath July in Böhmen eintreffen werde, allein ich getraue mir noch nicht, hierauf vollkommen zu hoffen, da mir aus der bisherigen Erfahrung nur allzuwohl bekant, wie wenig auf dergleichen militarische Maaßnehmungen, zumahlen wan sie auf einen etwas entfernten Zeitpunct gerichtet sind, sich mit den hiesigen Leuthen zu verlaßen seye.
 
@@ -20,9 +20,9 @@ Das Versprechen, [einer] abermahligen Zahlung an den Subsidio zu entrichten, hat
 
 ## English
 
-**Provisional translation:** The whole text below translates the editorial working text, including its unverified passages. Unbracketed wording is not automatically authenticated. Continuous framing currently stops at P1-R05, with lexical gaps before that point.
+**Provisional translation:** The whole text below translates the editorial working text, including its unverified passages. Unbracketed wording is not automatically authenticated. Continuous framing currently stops at P2-R01, with lexical gaps before that point.
 
-On reading the enclosed […] ministerial letter, I have only this to observe respectfully: should the circumstance mentioned in it, concerning the [conduct of this court] at Constantinople, really prove true, it would be necessary to inform me [of it], so that I could make the [appropriate representation] here.
+On reading the enclosed […] ministerial letter, I have only this to observe respectfully: should the circumstance [mentioned in it], concerning the [conduct of this court] at Constantinople, really prove true, it would be necessary to inform me of it, so that I could make the [appropriate representation] here.
 
 Marshal Belle-Isle is busily making all arrangements for the speedy restoration of the army and the improvement of its existing military organisation. By all appearances he can expect his efforts to take good effect. He keeps assuring me that Soubise's corps will without fail arrive in Bohemia in July. But I do not yet dare to count on it fully: past experience has taught me only too well how little one can rely on the people here in military measures of this kind, especially when they are aimed at a somewhat distant date.
 
@@ -34,9 +34,11 @@ The Abbé [de] Bernis has most solemnly repeated his promise to make a further p
 
 ## Open readings
 
-- Norbert confirms `210 = würde -n`; the surrounding clause still needs review (`400`, `629` versus `621`).
-- `049` is illegible; the Vorstellung phrase remains an editorial proposal. `7759 = tra` supports Betrag, but its proposed final **s** depends on untranscribed `004`.
+- Norbert confirms `210 = würde -n`, `400 = sey -e/-n -d`, `1115 = te -r/-n ; t`, and the letter reading `621 = davon`. The text now uses davon / of it without brackets; this does not validate the whole sentence.
+- Norbert confirms the word **Betrags**, withdrawing **Ertrags**. Its German brackets are removed; The latest image check also confirms `004 = s ; ss`, supporting the final **s** in the code alignment. The English [conduct of this court] remains an editorial interpretation. `049` is illegible, so the Vorstellung phrase remains provisional.
+- Norbert now gives uncertain readings for `248` and `5512`, replacing the earlier ent / h–s–schein readings. Accordingly, [enthaltene] and [mentioned in it] are explicitly provisional; the literal replay shows his alternatives without forcing them into that phrase.
 - Prima `1121 = C - C[r|k]` remains provisional after the corrected table switches. It does not establish Stainville; later names and restored **de** also need continuous alignment.
-- `[solle]`, `[davon]`, `[einer]`, the opening name, Subsidio/Subsidiis, the G signs and later table states remain unresolved. The conditional Bezahlung reading is not yet tied to a definite prose occurrence.
+- `011 = habe -n`, `028 = p ; pp` and `442 = kei -t -e -n` replace earlier guesses; `[solle]` still has no established alignment. The new `613 = le…` and `3395 = is ; Corsi -ca` support Belle-Isle, but `005 = e ; ??` explicitly allows e/r and remains provisional.
+- Norbert’s `3333,7768` correction extends the replay through page 1. His `3337 = ment -ion (?)` key reading remains separately provisional. `[einer]`, the opening name, Subsidio/Subsidiis, the G signs and later table states remain unresolved. The conditional Bezahlung reading is not yet tied to a definite prose occurrence.
 
 See [EVIDENCE.md](EVIDENCE.md) for the confirmed corrections and remaining work. Paragraph divisions here are editorial and do not authorize cipher-table resets.
