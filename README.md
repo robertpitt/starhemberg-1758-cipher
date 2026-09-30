@@ -26,6 +26,11 @@ python3 -m unittest -v
 
 After a reviewed change to `working_key.csv` or `ciphertext.txt`, run `python3 audit.py --build` to refresh the two Markdown tables. Edit the bilingual working text in `READING.md` separately and check its wording against the literal replay. Software checks establish consistency, not handwriting accuracy or a complete decipherment.
 
-Prepared by Robert Pitt, with manuscript reviews and contributions from Norbert, Satoshi and Alexandre. No manuscript images or OCR working files are distributed here. For corrections, give the table, exact code, source location, literal reading and uncertainty.
+Prepared by Robert Pitt. No manuscript images or OCR working files are distributed here. For corrections, give the table, exact code, source location, literal reading and uncertainty.
+
+## Acknowledgements
+
+- [Prof. Norbert Biermann](https://www.udk-berlin.de/person/norbert-biermann/), Universität der Künste Berlin, for his support in reading the German manuscripts, reviewing the cipher tables and refining the decipherment.
+- **Satoshi Tomokiyo and Alexandra**, from the [Cryptiana team](https://cryptiana.web.fc2.com/code/crypto.htm), for their research support and collaboration on the decipherment.
 
 Code: [MIT](LICENSE-CODE). Robert Pitt’s original research contributions: [CC BY 4.0](LICENSE-RESEARCH.md). Cite this repository and the commit used; third-party rights are unaffected.
