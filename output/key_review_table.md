@@ -2,7 +2,7 @@
 
 Probability is qualitative, not a measured percentage. High confirms only the stated reading, not every alternative or its use in the letter. Partial and illegible readings are not fully confirmed.
 
-Norbert’s IMG readings retain his notation and explicit uncertainty. The reviewed letter correction to 621 is recorded in see [EVIDENCE.md](../EVIDENCE.md). Supplied guesses are excluded from the replay.
+Norbert’s manuscript readings in both tables retain his notation and explicit uncertainty. See [EVIDENCE.md](../EVIDENCE.md) for corrections and source conflicts. Supplied guesses are excluded from the replay.
 
 | Table | Code | Value | Probability | Human confirmed |
 | --- | --- | --- | --- | --- |
@@ -80,25 +80,7 @@ Norbert’s IMG readings retain his notation and explicit uncertainty. The revie
 | Prima | `8888` | ge (supplied guess; source unconfirmed) | Unassessed | No |
 | Prima | `9903` | aue (supplied guess; source unconfirmed) | Unassessed | No |
 | Prima | `9967` | ter (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `088` | auch (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `112` | sta (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `128` | haubt (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `144` | s (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `309` | schla (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `350` | gen (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `500` | sich (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `537` | fehl (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `918` | ste (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `923` | aus | Low | No |
-| Secunda | `952` | ver | Low | No |
-| Secunda | `978` | ste (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `2233` | zwei (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `2246` | fal (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `2259` | wollte | Low | No |
-| Secunda | `2273` | von (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `2275` | f (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `8877` | et (supplied guess; source unconfirmed) | Unassessed | No |
-| Secunda | `8882` | dem (supplied guess; source unconfirmed) | Unassessed | No |
+| Secunda | `2259` | te nur | Low | Partial — Norbert (Secunda manuscript reading; low confidence) |
 | Prima | `001` | von | Moderate | No |
 | Prima | `002` | daß | Moderate | No |
 | Prima | `003` | Hof | Moderate | No |
@@ -250,65 +232,64 @@ Norbert’s IMG readings retain his notation and explicit uncertainty. The revie
 | Prima | `9990` | et | Moderate | No |
 | Prima | `9995` | gen | Moderate | No |
 | Prima | `9996` | und | Moderate | No |
-| Secunda | `005` | de | Moderate | No |
 | Secunda | `017` | NULL | Moderate | No |
 | Secunda | `021` | ist | Moderate | Partial — Robert (ist only) |
 | Secunda | `029` | COMMA | Moderate | No |
 | Secunda | `043` | FULL_STOP | Moderate | No |
 | Secunda | `052` | SEMICOLON | Moderate | No |
 | Secunda | `064` | da | Moderate | No |
-| Secunda | `066` | vor | Moderate | No |
-| Secunda | `101` | ab | Moderate | No |
-| Secunda | `122` | in | Moderate | No |
-| Secunda | `141` | COMMA | Moderate | No |
-| Secunda | `153` | vi | Moderate | No |
-| Secunda | `160` | diß | Moderate | No |
+| Secunda | `088` | auch | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `128` | haubt | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `141` | wor | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `144` | s | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `179` | NULL | Moderate | No |
 | Secunda | `183` | FULL_STOP | Moderate | No |
-| Secunda | `195` | zahl | Moderate | No |
-| Secunda | `336` | s | Moderate | No |
-| Secunda | `344` | ge | Moderate | No |
-| Secunda | `353` | COMMA | Moderate | No |
+| Secunda | `309` | schla | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `350` | gen | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `355` | zu | Moderate | No |
 | Secunda | `357` | hi / hier | Moderate | No |
 | Secunda | `362` | NULL | Moderate | No |
 | Secunda | `370` | um | Moderate | No |
 | Secunda | `380` | SEMICOLON | Moderate | No |
-| Secunda | `396` | ung | Moderate | No |
+| Secunda | `500` | sich | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `517` | NULL | Moderate | No |
-| Secunda | `533` | be | Moderate | No |
-| Secunda | `555` | daß | Moderate | No |
+| Secunda | `537` | fehl | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `555` | daß | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `573` | lan / lang | Moderate | No |
-| Secunda | `577` | et | Moderate | No |
+| Secunda | `577` | etwas | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `590` | FULL_STOP | Moderate | No |
-| Secunda | `714` | ber | Moderate | No |
 | Secunda | `727` | NULL | Moderate | No |
-| Secunda | `732` | Durand | Moderate | No |
+| Secunda | `732` | von | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `741` | PARENTHESIS | Moderate | No |
-| Secunda | `771` | ni | Moderate | No |
-| Secunda | `777` | das | Moderate | No |
+| Secunda | `771` | ni | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `780` | et / ange | Moderate | No |
-| Secunda | `783` | sche | Moderate | No |
-| Secunda | `901` | geben | Moderate | No |
-| Secunda | `929` | Graf | Moderate | No |
-| Secunda | `946` | l / el | Moderate | No |
+| Secunda | `901` | geben | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `923` | zu | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `950` | NULL | Moderate | No |
+| Secunda | `952` | feln | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `978` | ste | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `2209` | NULL | Moderate | No |
+| Secunda | `2215` | f | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `2233` | zwei | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `2238` | SEMICOLON | Moderate | No |
 | Secunda | `2250` | FULL_STOP | Moderate | No |
 | Secunda | `2268` | CADATUR | Moderate | No |
+| Secunda | `2273` | von | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `2275` | f | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `2290` | Condition | Moderate | No |
-| Secunda | `4447` | da | Moderate | No |
+| Secunda | `4447` | nach | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `4470` | COMMA | Moderate | No |
 | Secunda | `4475` | NULL | Moderate | No |
 | Secunda | `4478` | QUESTION | Moderate | No |
-| Secunda | `6601` | recht | Moderate | No |
-| Secunda | `6642` | trauen | Moderate | No |
+| Secunda | `6601` | richt | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `6642` | traue | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `6655` | NULL | Moderate | No |
 | Secunda | `6677` | COMMA | Moderate | No |
-| Secunda | `6686` | wünschen | Moderate | No |
+| Secunda | `6686` | wünschen | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `8833` | COMMA | Moderate | No |
-| Secunda | `8853` | selbst | Moderate | No |
+| Secunda | `8853` | selbst | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `8877` | et | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
+| Secunda | `8882` | dem | Moderate | Yes — Norbert (Secunda manuscript reading; medium confidence) |
 | Secunda | `8889` | NULL | Moderate | No |
 | Prima | `004` | s ; ss | High | Yes — Norbert (IMG reading) |
 | Prima | `007` | die | High | Yes — Norbert (IMG reading) |
@@ -384,9 +365,28 @@ Norbert’s IMG readings retain his notation and explicit uncertainty. The revie
 | Prima | `9961` | herr -n -s | High | Yes — Norbert (IMG reading) |
 | Prima | `9989` | weg -en | High | Yes — Norbert (IMG reading) |
 | Prima | `9999` | ist | High | Yes — Robert (ist) |
+| Secunda | `005` | de | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
 | Secunda | `018` | SWITCH_PRIMA | High | Yes — Robert (control) |
+| Secunda | `066` | vor | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `101` | ab | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
 | Secunda | `104` | SWITCH_PRIMA | High | Yes — Robert (control) |
+| Secunda | `112` | sta | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `122` | in | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `153` | vil | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `160` | dieß | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `195` | zahl | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
 | Secunda | `326` | SWITCH_PRIMA | High | Yes — Robert (control) |
-| Secunda | `2215` | SWITCH_PRIMA | High | Yes — Robert (control) |
+| Secunda | `336` | s | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `344` | ge | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `353` | und | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `396` | ung | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `533` | be | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `714` | ber | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `777` | ni | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `783` | sche | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `918` | ste | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `929` | gra | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `946` | l(e) | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
+| Secunda | `2246` | fal | High | Yes — Norbert (Secunda manuscript reading; high confidence) |
 | Secunda | `4457` | SWITCH_PRIMA | High | Yes — Robert (control) |
 | Secunda | `6653` | SWITCH_PRIMA | High | Yes — Robert (control) |

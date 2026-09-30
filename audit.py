@@ -124,8 +124,8 @@ def review_table(entries):
     lines = ['# Key review table', '',
              'Probability is qualitative, not a measured percentage. High confirms only the stated reading, '
              'not every alternative or its use in the letter. Partial and illegible readings are not fully confirmed.', '',
-             'Norbert’s IMG readings retain his notation and explicit uncertainty. The reviewed letter correction to 621 is recorded in '
-             'see [EVIDENCE.md](../EVIDENCE.md). Supplied guesses are excluded from the replay.', '',
+             'Norbert’s manuscript readings in both tables retain his notation and explicit uncertainty. '
+             'See [EVIDENCE.md](../EVIDENCE.md) for corrections and source conflicts. Supplied guesses are excluded from the replay.', '',
              '| Table | Code | Value | Probability | Human confirmed |',
              '| --- | --- | --- | --- | --- |']
     priority = {'Low': 0, 'Unassessed': 0, 'Moderate': 1, 'High': 2}

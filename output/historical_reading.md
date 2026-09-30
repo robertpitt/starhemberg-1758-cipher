@@ -109,9 +109,12 @@ Independent Prima start at P3-R02:50; this does not resume the stopped opening t
 | --- | --- | --- | --- |
 | P3-R02:50 | prima | `1158` | . |
 | P3-R02:55 | prima | `412` | → secunda |
-| P3-R02:59 | secunda | `929` | Graf |
-| P3-R02:63 | secunda | `2215` | → prima |
-| P3-R02:68 | prima | `1121` | [provisional: C - C[r\|k]] |
-| P3-R03:2 | prima | `221` | der |
+| P3-R02:59 | secunda | `929` | gra |
+| P3-R02:63 | secunda | `2215` | f |
+| P3-R02:68 | secunda | `112` | sta |
+| P3-R03:1 | secunda | `122` | in |
+| P3-R03:5 | secunda | `153` | vil |
+| P3-R03:8 | secunda | `946` | l(e) |
+| P3-R03:12 | secunda | `557` | [key entry not yet transcribed] |
 
-**Stop:** unverified_four_digit_form; `5394` at P3-R03:6.
+**Stop:** unverified_four_digit_form; `6388` at P3-R03:16.
