@@ -11,14 +11,14 @@ class ReviewedDataTests(unittest.TestCase):
     def test_reviewed_ciphertext_and_key_coverage(self):
         self.assertEqual(hashlib.sha256((audit.ROOT / 'ciphertext.txt').read_bytes()).hexdigest(),
                          "9538a568567976c0cf93a2fff29ef4317a6eed60160f662a2c40f7b83c284e64")
-        self.assertEqual((len(self.keys), len(self.entries)), (322, 384))
-        self.assertEqual(sum('Norbert' in e['human_confirmed'] for e in self.entries), 122)
+        self.assertEqual((len(self.keys), len(self.entries)), (530, 536))
+        self.assertEqual(sum('Norbert' in e['human_confirmed'] for e in self.entries), 449)
 
     def test_human_readings_and_uncertainty(self):
         self.assertEqual(self.keys['prima', '210']['value'], 'würde -n')
         self.assertEqual(self.keys['prima', '049']['review_status'], 'provisional')
         self.assertIn('illegible', self.keys['prima', '049']['human_confirmed'])
-        self.assertIn('Partial', self.keys['prima', '1118']['human_confirmed'])
+        self.assertEqual(self.keys['prima', '1118']['value'], 'r ; rr ; Böhm -en -ische')
         self.assertEqual(self.keys['prima', '1121']['value'], 'C - C[r|k]')
         self.assertEqual(self.keys['prima', '025']['punctuation_kind'], 'comma')
 
@@ -38,7 +38,8 @@ class ReviewedDataTests(unittest.TestCase):
         self.assertEqual((unit['code'], unit['reading']), ('621', 'davon'))
 
     def test_guesses_and_provisional_switches_do_not_drive_replay(self):
-        self.assertNotIn(('prima', '008'), self.keys)
+        self.assertFalse(('prima', '300') in self.keys)
+        self.assertEqual(self.keys['prima', '008']['value'], 'zu ; zuzu')
         self.assertNotIn('3347', audit.source_controls(self.keys)['prima'])
         self.assertNotIn('2215', audit.source_controls(self.keys)['secunda'])
         self.assertEqual(audit.source_controls(self.keys)['secunda']['018'], 'prima')
@@ -59,9 +60,10 @@ class ReviewedDataTests(unittest.TestCase):
                             ('442', 'kei -t -e -n'), ('3395', 'is ; Corsi -ca')]:
             self.assertEqual(self.keys['prima', code]['value'], value)
             self.assertEqual(self.keys['prima', code]['probability'], 'High')
-        for code in ('005', '3337'):
-            self.assertEqual(self.keys['prima', code]['review_status'], 'provisional')
-            self.assertIn('Partial', self.keys['prima', code]['human_confirmed'])
+        self.assertEqual(self.keys['prima', '005']['value'], 'e ; meld -en/-ung')
+        self.assertEqual(self.keys['prima', '005']['review_status'], 'source_read')
+        self.assertEqual(self.keys['prima', '3337']['review_status'], 'provisional')
+        self.assertIn('Partial', self.keys['prima', '3337']['human_confirmed'])
 
     def test_norbert_secunda_reading_keeps_state_across_rows(self):
         trace = audit.replay(self.keys)['transition_probe']
@@ -70,20 +72,22 @@ class ReviewedDataTests(unittest.TestCase):
                           ('secunda', '2215'), ('secunda', '112'), ('secunda', '122'),
                           ('secunda', '153'), ('secunda', '946'), ('secunda', '557')])
         self.assertEqual([u['reading'] for u in trace['units'][2:8]],
-                         ['gra', 'f', 'sta', 'in', 'vil', 'l(e)'])
+                         ['graf -en/ -in -s', 'f', 'a ; Prinz Carl', 'in', 'vi', 'l ; ll'])
+        # The preserved manuscript probe no longer supplies Stainville under the new key.
+        self.assertEqual(self.keys['secunda', '2275']['value'], 'st ; würde -n')
         self.assertEqual(trace['units'][5]['start'], ('P3-R03', 1))
         self.assertEqual(trace['stop']['candidate'], '6388')
         self.assertEqual(trace['stop']['location'], ('P3-R03', 16))
 
     def test_secunda_reviews_do_not_require_img_marker(self):
         secunda = [e for e in self.entries if e['table'] == 'secunda' and 'Norbert' in e['human_confirmed']]
-        self.assertEqual(len(secunda), 48)
-        self.assertEqual(sum(e['probability'] == 'High' for e in secunda), 20)
-        self.assertEqual(sum(e['probability'] == 'Moderate' for e in secunda), 27)
-        self.assertEqual(self.keys['secunda', '2259']['review_status'], 'provisional')
-        for code, value in [('141', 'wor'), ('353', 'und'), ('732', 'von'), ('2215', 'f')]:
+        self.assertEqual(len(secunda), 182)  # 178 current readings plus four retained older readings.
+        self.assertEqual(self.keys['secunda', '2259']['review_status'], 'source_read')
+        for code, value in [('141', 'COMMA'), ('353', 'COMMA'), ('732', 'stand/ständ -en'),
+                            ('500', 'und'), ('2275', 'st ; würde -n')]:
             self.assertEqual(self.keys['secunda', code]['value'], value)
-            self.assertEqual(self.keys['secunda', code]['kind'], 'lexical')
+        self.assertEqual(self.keys['secunda', '141']['kind'], 'punctuation')
+        self.assertEqual(self.keys['secunda', '353']['kind'], 'punctuation')
 
     def test_uncertain_digits_are_barriers(self):
         stream, locations = audit.project([('row', '01[2|3]4<G1>5[,?]06')])

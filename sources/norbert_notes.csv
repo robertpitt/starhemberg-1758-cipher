@@ -1,0 +1,8 @@
+worksheet,cell,text
+decryption,P7,028 is an enciphering error
+decryption,P8,038 = “solle”
+decryption,P22,marked green: ciphertext has four 3‘s in a row; should be five
+decryption,P27,fin p1
+decryption,E116,?
+decryption,R157,8835: should be 8833 (Comma)
+decryption,J176,771?

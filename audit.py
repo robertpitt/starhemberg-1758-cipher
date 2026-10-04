@@ -156,13 +156,15 @@ def literal_reading(traces):
 
 
 def main():
+    import norbert
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--build', action='store_true', help='Regenerate the two Markdown outputs after reviewed key changes')
+    parser.add_argument('--build', action='store_true', help='Regenerate the review, replay and Norbert comparison outputs')
     args = parser.parse_args()
     entries, keys = load_key()
     traces = replay(keys)
     outputs = {'output/key_review_table.md': review_table(entries),
-               'output/historical_reading.md': literal_reading(traces)}
+               'output/historical_reading.md': literal_reading(traces),
+               'output/norbert_comparison.md': norbert.comparison(entries, keys)}
     for name, content in outputs.items():
         target = ROOT / name
         if args.build:
@@ -170,7 +172,7 @@ def main():
             target.write_text(content, encoding='utf-8')
         elif not target.exists() or target.read_text() != content:
             raise SystemExit(name + ' is missing or stale; review changes, then run with --build')
-    print(f'{len(keys)} source entries; {len(entries)} review rows; both outputs consistent.')
+    print(f'{len(keys)} source entries; {len(entries)} review rows; all three outputs consistent.')
     print('Opening: ' + str(len(traces['opening']['units'])) + ' groups. Full decipherment remains incomplete.')
 
 

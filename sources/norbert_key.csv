@@ -1,0 +1,446 @@
+table,code,value,worksheet,code_cell,value_cell,notes_cell,notes,occurrences
+prima,001,von,clavis prima,A2,B2,D2,,3
+prima,002,daß,clavis prima,A3,B3,D3,,2
+prima,003,hof -fe -t/ -n,clavis prima,A4,B4,D4,,1
+prima,004,s ; ss ,clavis prima,A5,B5,D5,,3
+prima,005,e ; meld -en/-ung,clavis prima,A6,B6,D6,,
+prima,007,die,clavis prima,A7,B7,D7,,4
+prima,008,zu ; zuzu ,clavis prima,A8,B8,D8,,1
+prima,009,es,clavis prima,A9,B9,D9,,
+prima,010,ti -on,clavis prima,A10,B10,D10,,3
+prima,011,habe -n,clavis prima,A11,B11,D11,,1
+prima,013,ver,clavis prima,A12,B12,D12,,8
+prima,014,man -n,clavis prima,A13,B13,D13,,1
+prima,015,re -s/-n -t -r,clavis prima,A14,B14,D14,,1
+prima,017,ech -e/-r -t,clavis prima,A15,B15,D15,,1
+prima,019,a ; Condition -s,clavis prima,A16,B16,D16,,1
+prima,020,der -en,clavis prima,A17,B17,D17,,6
+prima,021,so,clavis prima,A18,B18,D18,,
+prima,022,en,clavis prima,A19,B19,D19,,7
+prima,024,es -en,clavis prima,A20,B20,D20,,
+prima,025,Comma,clavis prima,A21,B21,D21,,5
+prima,026,ganz -lich,clavis prima,A22,B22,D22,,
+prima,028,p ; pp,clavis prima,A23,B23,D23,,1
+prima,030,es,clavis prima,A24,B24,D24,,2
+prima,038,solle -t/ -n,clavis prima,A25,B25,D25,,
+prima,039,muth -e/-n -lich,clavis prima,A26,B26,D26,,
+prima,040,wie,clavis prima,A27,B27,D27,,3
+prima,042,st ; Mähr -e -ische,clavis prima,A28,B28,D28,,5
+prima,047,erst -e/-r -n/-s -lich,clavis prima,A29,B29,D29,,1
+prima,049,[ste],clavis prima,A30,B30,D30,"IMG: illegible (paper torn), ste is perfectly possible",3
+prima,054,was,clavis prima,A31,B31,D31,,2
+prima,055,zu ; zuzu ,clavis prima,A32,B32,D32,,
+prima,058,Monsieur,clavis prima,A33,B33,D33,,1
+prima,061,te -r/-n -t -s,clavis prima,A34,B34,D34,,
+prima,064,zwischen,clavis prima,A35,B35,D35,,
+prima,065,-,clavis prima,A36,B36,D36,,
+prima,066,sein -e/-r -n -s,clavis prima,A37,B37,D37,,3
+prima,068,richt -e/-n -t -ig,clavis prima,A38,B38,D38,,4
+prima,070,ein -e/ -n/-m -s,clavis prima,A39,B39,D39,,8
+prima,072,krä -fft,clavis prima,A40,B40,D40,,1
+prima,077,un,clavis prima,A41,B41,D41,,1
+prima,079,media nota,clavis prima,A42,B42,D42,,
+prima,085,sche -r/-n -s,clavis prima,A43,B43,D43,,4
+prima,087,unter,clavis prima,A44,B44,D44,,1
+prima,090,ein -e/ -n/-m -s,clavis prima,A45,B45,D45,homophonic with 070,1
+prima,096,schaff -e -n,clavis prima,A46,B46,D46,,1
+prima,099,sein -e -m -r -s,clavis prima,A47,B47,D47,,2
+prima,202,20te,clavis prima,A48,B48,D48,,1
+prima,204,-,clavis prima,A49,B49,D49,,1
+prima,206,nd,clavis prima,A50,B50,D50,,2
+prima,208,an -?n,clavis prima,A51,B51,D51,,
+prima,210,würde -n,clavis prima,A52,B52,D52,,
+prima,211,sie,clavis prima,A53,B53,D53,,2
+prima,212,n ; nn,clavis prima,A54,B54,D54,,1
+prima,216,bar,clavis prima,A55,B55,D55,,
+prima,217,mi,clavis prima,A56,B56,D56,,2
+prima,219,ab,clavis prima,A57,B57,D57,,2
+prima,220,das,clavis prima,A58,B58,D58,,3
+prima,221,von,clavis prima,A59,B59,D59,,1
+prima,222,lich -e/-r -n -s,clavis prima,A60,B60,D60,,1
+prima,223,nach -t -er,clavis prima,A61,B61,D61,,2
+prima,224,er -e/-n -t -s ,clavis prima,A62,B62,D62,,1
+prima,226,s; ss,clavis prima,A63,B63,D63,,5
+prima,230,Canzl -e/-r -ey,clavis prima,A64,B64,D64,,1
+prima,231,wen -ig/ -er -s,clavis prima,A65,B65,D65,,1
+prima,232,ei,clavis prima,A66,B66,D66,,1
+prima,233,stü -ck,clavis prima,A67,B67,D67,,2
+prima,234,stand -en,clavis prima,A68,B68,D68,,2
+prima,244,da,clavis prima,A69,B69,D69,,3
+prima,246,Constantinopel,clavis prima,A70,B70,D70,,1
+prima,248,we ; definit -f/-ve,clavis prima,A71,B71,D71,"Can’t really read the first entry, but it’s not „ent“ (maybe „we“ with w in Latin cursive, e in Kurrent) ",2
+prima,250,[bericht -et],clavis prima,A72,B72,D72,"Image illegible here, ‚bericht -et‘ looks plausible though",1
+prima,262,Comma,clavis prima,A73,B73,D73,,3
+prima,263,sti -mm,clavis prima,A74,B74,D74,,1
+prima,266,groß -te/-r -n -s,clavis prima,A75,B75,D75,,1
+prima,267,jen -e/-r -n -s,clavis prima,A76,B76,D76,,
+prima,269,als -o,clavis prima,A77,B77,D77,,2
+prima,275,hiesig -e/-r -n -s,clavis prima,A78,B78,D78,,2
+prima,293,wi ; extract,clavis prima,A79,B79,D79,,
+prima,297,punctum,clavis prima,A80,B80,D80,,1
+prima,400,sey -e/-n -d,clavis prima,A81,B81,D81,,2
+prima,405,mach -e -n,clavis prima,A82,B82,D82,,3
+prima,407,sondern,clavis prima,A83,B83,D83,,1
+prima,409,u ; Churfürst -in/-en,clavis prima,A84,B84,D84,,2
+prima,412,indic. clav. 2dam,clavis prima,A85,B85,D85,,1
+prima,414,mahl -e/ -n -s,clavis prima,A86,B86,D86,,1
+prima,420,ohn -e,clavis prima,A87,B87,D87,,
+prima,423,damit,clavis prima,A88,B88,D88,,1
+prima,428,dien|st -en,clavis prima,A89,B89,D89,,2
+prima,437,er -s ,clavis prima,A90,B90,D90,,5
+prima,440,hab -e -n,clavis prima,A91,B91,D91,,1
+prima,442,kei -t -e -n,clavis prima,A92,B92,D92,,1
+prima,445,t ; tt  ,clavis prima,A93,B93,D93,,1
+prima,446,zu ; zuzu ,clavis prima,A94,B94,D94,,6
+prima,448,vor,clavis prima,A95,B95,D95,,1
+prima,450,[cht],clavis prima,A96,B96,D96,Image illegible here,1
+prima,460,all -e/-r -n -s,clavis prima,A97,B97,D97,,4
+prima,473,ni -e,clavis prima,A98,B98,D98,,1
+prima,481,geheim -e/-r -n -s ; uns,clavis prima,A99,B99,D99,,1
+prima,482,auf,clavis prima,A100,B100,D100,,3
+prima,488,im,clavis prima,A101,B101,D101,,1
+prima,489,ihn -en,clavis prima,A102,B102,D102,,1
+prima,494,Comma,clavis prima,A103,B103,D103,,1
+prima,603,thu -en/n – lich,clavis prima,A104,B104,D104,,1
+prima,613,le -t/-n -s,clavis prima,A105,B105,D105,,5
+prima,617,gu,clavis prima,A106,B106,D106,,1
+prima,620,übel -e/-r -n -s,clavis prima,A107,B107,D107,,
+prima,621,davon,clavis prima,A108,B108,D108,,
+prima,622,ra,clavis prima,A109,B109,D109,,1
+prima,623,gleich,clavis prima,A110,B110,D110,,1
+prima,640,wan,clavis prima,A111,B111,D111,,1
+prima,641,nehm -e/-n -t,clavis prima,A112,B112,D112,,2
+prima,643,mit,clavis prima,A113,B113,D113,,
+prima,645,de,clavis prima,A114,B114,D114,,2
+prima,646,zeit -en/ -lich,clavis prima,A115,B115,D115,,1
+prima,654,z ; unzu,clavis prima,A116,B116,D116,,1
+prima,655,ri,clavis prima,A117,B117,D117,,4
+prima,657,wahr -heit,clavis prima,A118,B118,D118,,
+prima,661,r ; rr,clavis prima,A119,B119,D119,,1
+prima,662,te -r/-n -t -s,clavis prima,A120,B120,D120,,3
+prima,663,ist,clavis prima,A121,B121,D121,,
+prima,666,ich -e/ -n,clavis prima,A122,B122,D122,,4
+prima,667,den -en,clavis prima,A123,B123,D123,,5
+prima,670,ma -s,clavis prima,A124,B124,D124,,1
+prima,673,theil -e/-n -s,clavis prima,A125,B125,D125,,1
+prima,676,a ; ä,clavis prima,A126,B126,D126,,2
+prima,681,spr,clavis prima,A127,B127,D127,,1
+prima,694,nöthig nothwendig,clavis prima,A128,B128,D128,,
+prima,698,wohl,clavis prima,A129,B129,D129,,2
+prima,802,su,clavis prima,A130,B130,D130,,1
+prima,805,fehl -t/-e -r/-n,clavis prima,A131,B131,D131,,
+prima,809,tract -at/-en -iren,clavis prima,A132,B132,D132,,1
+prima,811,um,clavis prima,A133,B133,D133,,2
+prima,819,finde -t -n,clavis prima,A134,B134,D134,,1
+prima,820,di,clavis prima,A135,B135,D135,,1
+prima,830,mir,clavis prima,A136,B136,D136,,4
+prima,831,ze -t/ -n,clavis prima,A137,B137,D137,,1
+prima,832,ung -en,clavis prima,A138,B138,D138,,9
+prima,835,glaub -e/-n -t -lich,clavis prima,A139,B139,D139,,1
+prima,836,abge,clavis prima,A140,B140,D140,,1
+prima,847,Arm -ée -ir,clavis prima,A141,B141,D141,,1
+prima,851,unser -e/-n -r/-m,clavis prima,A142,B142,D142,,1
+prima,862,vorge,clavis prima,A143,B143,D143,,
+prima,867,wo,clavis prima,A144,B144,D144,,2
+prima,868,Graf -in/-en,clavis prima,A145,B145,D145,,3
+prima,872,tre,clavis prima,A146,B146,D146,,
+prima,873,noch,clavis prima,A147,B147,D147,,1
+prima,880,in,clavis prima,A148,B148,D148,,7
+prima,881,ne -r/-n ; 9,clavis prima,A149,B149,D149,,
+prima,886,nicht -s,clavis prima,A150,B150,D150,,2
+prima,888,s ; ss ,clavis prima,A151,B151,D151,,1
+prima,889,aus,clavis prima,A152,B152,D152,,3
+prima,897,tro,clavis prima,A153,B153,D153,,1
+prima,899,si,clavis prima,A154,B154,D154,,
+prima,1100,se -t -n,clavis prima,A155,B155,D155,,1
+prima,1101,könte -n,clavis prima,A156,B156,D156,,1
+prima,1102,g ; gg ,clavis prima,A157,B157,D157,,3
+prima,1103,o / lig -e/-r -n -t -s,clavis prima,A158,B158,D158,,1
+prima,1104,ta,clavis prima,A159,B159,D159,,2
+prima,1105,Januarius,clavis prima,A160,B160,D160,,1
+prima,1107,würck -lich,clavis prima,A161,B161,D161,,4
+prima,1108,dar,clavis prima,A162,B162,D162,,1
+prima,1109,kan,clavis prima,A163,B163,D163,,1
+prima,1113,und,clavis prima,A164,B164,D164,,6
+prima,1115,te -r/-n ; t,clavis prima,A165,B165,D165,,3
+prima,1118,r ; rr ; Böhm -en -ische,clavis prima,A166,B166,D166,,6
+prima,1119,et,clavis prima,A167,B167,D167,,2
+prima,1127,l ; ll,clavis prima,A168,B168,D168,,5
+prima,1140,gar,clavis prima,A169,B169,D169,,1
+prima,1144,er -s ,clavis prima,A170,B170,D170,,2
+prima,1146,ber -g,clavis prima,A171,B171,D171,,2
+prima,1155,mög-lich -e/-n -r -s,clavis prima,A172,B172,D172,,2
+prima,1157,ng -e/ -n -t,clavis prima,A173,B173,D173,,2
+prima,1158,punctum,clavis prima,A174,B174,D174,,
+prima,1161,ger -n,clavis prima,A175,B175,D175,,1
+prima,1162,Monat -lich,clavis prima,A176,B176,D176,,1
+prima,1163,ser,clavis prima,A177,B177,D177,,1
+prima,1165,li -gs ; Firmian,clavis prima,A178,B178,D178,,3
+prima,1166,voll -macht -ig,clavis prima,A179,B179,D179,,1
+prima,1176,br ; Manheim,clavis prima,A180,B180,D180,,
+prima,1189,punct -en,clavis prima,A181,B181,D181,,1
+prima,1195,sach -e/ -n,clavis prima,A182,B182,D182,,1
+prima,3300,Nord -en/-isch -s/-e,clavis prima,A183,B183,D183,,1
+prima,3312,Breslau,clavis prima,A184,B184,D184,,1
+prima,3321,ha,clavis prima,A185,B185,D185,,1
+prima,3323,mich,clavis prima,A186,B186,D186,,
+prima,3329,aber,clavis prima,A187,B187,D187,,
+prima,3331,t ; tt ; seh -e/-n -t ,clavis prima,A188,B188,D188,,1
+prima,3333,vor,clavis prima,A189,B189,D189,,1
+prima,3337,ment -ion (?),clavis prima,A190,B190,D190,reading uncertain,
+prima,3338,daß,clavis prima,A191,B191,D191,,
+prima,3340,diß,clavis prima,A192,B192,D192,,1
+prima,3348,ra,clavis prima,A193,B193,D193,,1
+prima,3349,ben,clavis prima,A194,B194,D194,,1
+prima,3362,geb -e/-n -t,clavis prima,A195,B195,D195,,1
+prima,3365,an,clavis prima,A196,B196,D196,,2
+prima,3368,gut -e/-r -n -s,clavis prima,A197,B197,D197,,1
+prima,3370,ni -e,clavis prima,A198,B198,D198,,1
+prima,3374,ange,clavis prima,A199,B199,D199,,1
+prima,3375,90 ; he -t/ -n,clavis prima,A200,B200,D200,,4
+prima,3391,Comma,clavis prima,A201,B201,D201,,2
+prima,3392,Rußland -ische,clavis prima,A202,B202,D202,,1
+prima,3395,is ; Corsi -ca,clavis prima,A203,B203,D203,,1
+prima,5500,selb -e/-ige -r/-n -m -s ,clavis prima,A204,B204,D204,,1
+prima,5512,h ;  h / dein -e/-n,clavis prima,A205,B205,D205,"I’m  unsure. Maybe h in Latin cursive, h in Kurrent, dein -e -n",7
+prima,5519,dem,clavis prima,A206,B206,D206,,1
+prima,5521,Marsch|all,clavis prima,A207,B207,D207,,1
+prima,5522,dahin,clavis prima,A208,B208,D208,,1
+prima,5524,la,clavis prima,A209,B209,D209,,1
+prima,5528,deß -sen,clavis prima,A210,B210,D210,,3
+prima,5536,halt -e/-n -s,clavis prima,A211,B211,D211,,1
+prima,5537,Brühl,clavis prima,A212,B212,D212,There is something after Brühl that I can’t read,2
+prima,5540,be,clavis prima,A213,B213,D213,,6
+prima,5547,fe -r/-n ; r,clavis prima,A214,B214,D214,,4
+prima,5549,al ; all,clavis prima,A215,B215,D215,,2
+prima,5553,ge ; gege,clavis prima,A216,B216,D216,,1
+prima,5557,und,clavis prima,A217,B217,D217,,2
+prima,5564,bis,clavis prima,A218,B218,D218,,1
+prima,5566,Kayserin,clavis prima,A219,B219,D219,,1
+prima,5567,ri,clavis prima,A220,B220,D220,,1
+prima,5568,che -r/-n -s,clavis prima,A221,B221,D221,,2
+prima,5575,in?,clavis prima,A222,B222,D222,Depends on the script – assuming Latin cursive,1
+prima,5582,mü,clavis prima,A223,B223,D223,,1
+prima,5584,falle -t -n,clavis prima,A224,B224,D224,,2
+prima,5588,König -in -s,clavis prima,A225,B225,D225,,1
+prima,5592,sich,clavis prima,A226,B226,D226,,2
+prima,7700,nur,clavis prima,A227,B227,D227,,2
+prima,7701,st,clavis prima,A228,B228,D228,,1
+prima,7717,oder,clavis prima,A229,B229,D229,,1
+prima,7718,bald,clavis prima,A230,B230,D230,,
+prima,7720,dem,clavis prima,A231,B231,D231,,2
+prima,7723,hu ; gering,clavis prima,A232,B232,D232,,1
+prima,7725,me -r/-n -t -s ,clavis prima,A233,B233,D233,,2
+prima,7727,laß -e/-n -t -lich,clavis prima,A234,B234,D234,,3
+prima,7740,du,clavis prima,A235,B235,D235,,2
+prima,7742,sto ; oe ; ö,clavis prima,A236,B236,D236,,
+prima,7749,Julius,clavis prima,A237,B237,D237,,1
+prima,7750,unter,clavis prima,A238,B238,D238,,1
+prima,7752,bi,clavis prima,A239,B239,D239,,
+prima,7755,hätte -n,clavis prima,A240,B240,D240,,1
+prima,7757,os -se -gen/-n,clavis prima,A241,B241,D241,,1
+prima,7759,tra,clavis prima,A242,B242,D242,,
+prima,7760,hie -r,clavis prima,A243,B243,D243,,3
+prima,7762,fa,clavis prima,A244,B244,D244,,1
+prima,7766,nt -e/-r -n/-s -t,clavis prima,A245,B245,D245,,1
+prima,7768,ke -t -n,clavis prima,A246,B246,D246,,
+prima,7770,werde -n -t,clavis prima,A247,B247,D247,,2
+prima,7772,bey,clavis prima,A248,B248,D248,,3
+prima,7773,ige -r/n -d -s,clavis prima,A249,B249,D249,,4
+prima,7775,ge -t -n,clavis prima,A250,B250,D250,,6
+prima,7777,ge -gen,clavis prima,A251,B251,D251,,1
+prima,7778,durch,clavis prima,A252,B252,D252,,1
+prima,7779,et,clavis prima,A253,B253,D253,,1
+prima,7781,pu,clavis prima,A254,B254,D254,,1
+prima,7784,Corp -o/-s,clavis prima,A255,B255,D255,,1
+prima,7796,hiesige -r/-n hof-es,clavis prima,A256,B256,D256,,1
+prima,7798,sem,clavis prima,A257,B257,D257,,1
+prima,7799,sich,clavis prima,A258,B258,D258,,2
+prima,9903,trau -e/-n -t -lich,clavis prima,A259,B259,D259,,1
+prima,9917,gewiß -lich -e,clavis prima,A260,B260,D260,,
+prima,9919,ho,clavis prima,A261,B261,D261,,1
+prima,9931,be,clavis prima,A262,B262,D262,,3
+prima,9961,herr -n -s,clavis prima,A263,B263,D263,,1
+prima,9963,komme -t/ -n,clavis prima,A264,B264,D264,,
+prima,9967,ft (fft?),clavis prima,A265,B265,D265,,1
+prima,9973,tri,clavis prima,A266,B266,D266,,1
+prima,9989,weg -en,clavis prima,A267,B267,D267,,2
+prima,9995,ge -t/ -n,clavis prima,A268,B268,D268,,1
+secunda,002,ich -e -n,clavis 2da,A1,B1,C1,,
+secunda,004,ch,clavis 2da,A2,B2,C2,,
+secunda,005,de,clavis 2da,A3,B3,C3,,
+secunda,008,an,clavis 2da,A4,B4,C4,,
+secunda,010,i ; Höpken,clavis 2da,A5,B5,C5,,
+secunda,014,lass -e/-n -t -lich,clavis 2da,A6,B6,C6,,
+secunda,016,h ; Holdernes,clavis 2da,A7,B7,C7,,
+secunda,018,indic. clav. 1Mam,clavis 2da,A8,B8,C8,,
+secunda,022,habe -n,clavis 2da,A9,B9,C9,,
+secunda,024,le -t -n -s,clavis 2da,A10,B10,C10,,
+secunda,029,Comma,clavis 2da,A11,B11,C11,,
+secunda,030,heit,clavis 2da,A12,B12,C12,,
+secunda,032,ro,clavis 2da,A13,B13,C13,,
+secunda,039,nur,clavis 2da,A14,B14,C14,,
+secunda,042,o ; Kaunitz gr.,clavis 2da,A15,B15,C15,,
+secunda,043,punctum,clavis 2da,A16,B16,C16,,
+secunda,044,ig -e/ -r -n/ -s,clavis 2da,A17,B17,C17,,
+secunda,048,fe -r/-t -n -r,clavis 2da,A18,B18,C18,,
+secunda,050,[er],clavis 2da,A19,B19,C19,illegible (fold),
+secunda,055,hof -fe -t/ -n,clavis 2da,A20,B20,C20,,
+secunda,057,ver,clavis 2da,A21,B21,C21,,
+secunda,066,vor,clavis 2da,A22,B22,C22,,
+secunda,069,ho ; Migazzi gr.,clavis 2da,A23,B23,C23,,
+secunda,070,un,clavis 2da,A24,B24,C24,,
+secunda,074,sein -e/-r -n/-s -m,clavis 2da,A25,B25,C25,,
+secunda,083,auch,clavis 2da,A26,B26,C26,,
+secunda,084,ri,clavis 2da,A27,B27,C27,,
+secunda,090,si,clavis 2da,A28,B28,C28,,
+secunda,095,Minis -tre/teri -o -s -um,clavis 2da,A29,B29,C29,,
+secunda,097,sich,clavis 2da,A30,B30,C30,,
+secunda,100,ich -e/-r -n -s,clavis 2da,A31,B31,C31,,
+secunda,101,ab ; Mme Pompadour(?),clavis 2da,A32,B32,C32,,
+secunda,109,mahl -s -en,clavis 2da,A33,B33,C33,,
+secunda,110,nach -t -er,clavis 2da,A34,B34,C34,,
+secunda,111,bin,clavis 2da,A35,B35,C35,,
+secunda,112,a ; Prinz Carl,clavis 2da,A36,B36,C36,,
+secunda,113,dies -e/-r -n -s,clavis 2da,A37,B37,C37,,
+secunda,114,nd ; Graf Puebla,clavis 2da,A38,B38,C38,,
+secunda,116,bis,clavis 2da,A39,B39,C39,,
+secunda,119,nicht -s,clavis 2da,A40,B40,C40,,
+secunda,120,ha ; Reischach,clavis 2da,A41,B41,C41,,
+secunda,121,pu,clavis 2da,A42,B42,C42,,
+secunda,122,in,clavis 2da,A43,B43,C43,,
+secunda,128,hau -b/ -t s,clavis 2da,A44,B44,C44,,
+secunda,133,bey,clavis 2da,A45,B45,C45,,
+secunda,141,Comma,clavis 2da,A46,B46,C46,,
+secunda,144,s ; ss ; Rosenberg,clavis 2da,A47,B47,C47,,
+secunda,146,im,clavis 2da,A48,B48,C48,,
+secunda,153,vi,clavis 2da,A49,B49,C49,,
+secunda,155,e ; Mr NN,clavis 2da,A50,B50,C50,can’t read the name,
+secunda,160,dis,clavis 2da,A51,B51,C51,,
+secunda,168,he -t/ -n,clavis 2da,A52,B52,C52,,
+secunda,176,wu,clavis 2da,A53,B53,C53,,
+secunda,188,aus,clavis 2da,A54,B54,C54,,
+secunda,192,za ; als -o,clavis 2da,A55,B55,C55,,
+secunda,195,zahl -e/ -n -t,clavis 2da,A56,B56,C56,,
+secunda,199,mir,clavis 2da,A57,B57,C57,,
+secunda,300,mein -e/-r -n/-m -s,clavis 2da,A58,B58,C58,,
+secunda,301,q ; me,clavis 2da,A59,B59,C59,,
+secunda,302,aber,clavis 2da,A60,B60,C60,,
+secunda,303,tagen -lich (?),clavis 2da,A61,B61,C61,,
+secunda,309,ch ; schl,clavis 2da,A62,B62,C62,,
+secunda,316,dar,clavis 2da,A63,B63,C63,,
+secunda,328,hand -len/-lung -en,clavis 2da,A64,B64,C64,,
+secunda,329,wi,clavis 2da,A65,B65,C65,,
+secunda,331,an,clavis 2da,A66,B66,C66,,
+secunda,333,die,clavis 2da,A67,B67,C67,,
+secunda,335,dem,clavis 2da,A68,B68,C68,,
+secunda,336,s ; ss ; Vortrag,clavis 2da,A69,B69,C69,,
+secunda,337,en,clavis 2da,A70,B70,C70,,
+secunda,344,ge -t/ -n,clavis 2da,A71,B71,C71,,
+secunda,350,ag -e/ -n -t,clavis 2da,A72,B72,C72,,
+secunda,353,Comma,clavis 2da,A73,B73,C73,,
+secunda,355,zu ; zuzu,clavis 2da,A74,B74,C74,,
+secunda,357,hie -r,clavis 2da,A75,B75,C75,,
+secunda,362,-,clavis 2da,A76,B76,C76,,
+secunda,370,um,clavis 2da,A77,B77,C77,,
+secunda,371,dresd -ner/en fried,clavis 2da,A78,B78,C78,,
+secunda,386,r ; rr ; pro memoria(?),clavis 2da,A79,B79,C79,,
+secunda,388,lich -e/-r -g -s,clavis 2da,A80,B80,C80,,
+secunda,394,vorge,clavis 2da,A81,B81,C81,,
+secunda,396,ung -en,clavis 2da,A82,B82,C82,,
+secunda,500,und,clavis 2da,A83,B83,C83,,
+secunda,501,g ; gg ; dein -e/-n -t -m,clavis 2da,A84,B84,C84,,
+secunda,502,über -ig/ -e -n -s,clavis 2da,A85,B85,C85,,
+secunda,505,halt -e/ -n -t,clavis 2da,A86,B86,C86,,
+secunda,519,theil -e/ -n -s,clavis 2da,A87,B87,C87,,
+secunda,533,be,clavis 2da,A88,B88,C88,,
+secunda,534,komme -t -n,clavis 2da,A89,B89,C89,,
+secunda,535,Erzherzog -in/ -s,clavis 2da,A90,B90,C90,,
+secunda,537,fehl -e/-r -n -t,clavis 2da,A91,B91,C91,,
+secunda,538,spr,clavis 2da,A92,B92,C92,,
+secunda,543,tro,clavis 2da,A93,B93,C93,,
+secunda,550,[ein -e/-n -m -s],clavis 2da,A94,B94,C94,illegible,
+secunda,555,dass,clavis 2da,A95,B95,C95,,
+secunda,556,ng -e/-n -t -e/-n -t,clavis 2da,A96,B96,C96,,
+secunda,557,werde -n,clavis 2da,A97,B97,C97,,
+secunda,558,t ; tt,clavis 2da,A98,B98,C98,,
+secunda,566,zu ; zuzu,clavis 2da,A99,B99,C99,,
+secunda,567,richt -e/-n -t -ig,clavis 2da,A100,B100,C100,,
+secunda,571,so,clavis 2da,A101,B101,C101,,
+secunda,577,et,clavis 2da,A102,B102,C102,,
+secunda,599,du,clavis 2da,A103,B103,C103,,
+secunda,703,rath -e/ -n -t -s,clavis 2da,A104,B104,C104,,
+secunda,707,ech -e/-n -t -n,clavis 2da,A105,B105,C105,,
+secunda,711,Kayser -in,clavis 2da,A106,B106,C106,,
+secunda,714,ber -g,clavis 2da,A107,B107,C107,,
+secunda,717,damit,clavis 2da,A108,B108,C108,,
+secunda,730,versicher -en/-t -ung,clavis 2da,A109,B109,C109,,
+secunda,731,neu -lich,clavis 2da,A110,B110,C110,,
+secunda,732,stand/ständ -en,clavis 2da,A111,B111,C111,,
+secunda,742,stu -ck,clavis 2da,A112,B112,C112,,
+secunda,748,hi,clavis 2da,A113,B113,C113,,
+secunda,755,r ; rr,clavis 2da,A114,B114,C114,,
+secunda,768,ex,clavis 2da,A115,B115,C115,,
+secunda,769,me -r/-n -t -s,clavis 2da,A116,B116,C116,,
+secunda,770,von,clavis 2da,A117,B117,C117,,
+secunda,771,ni -e,clavis 2da,A118,B118,C118,,
+secunda,775,den -en,clavis 2da,A119,B119,C119,,
+secunda,777,das,clavis 2da,A120,B120,C120,,
+secunda,778,hat,clavis 2da,A121,B121,C121,,
+secunda,783,sche -r/-n -t,clavis 2da,A122,B122,C122,,
+secunda,785,ob,clavis 2da,A123,B123,C123,,
+secunda,794,orth -s,clavis 2da,A124,B124,C124,,
+secunda,901,geb -e/ -n -t,clavis 2da,A125,B125,C125,,
+secunda,903,mo,clavis 2da,A126,B126,C126,,
+secunda,918,ste -r/-n -t -s,clavis 2da,A127,B127,C127,,
+secunda,922,ra,clavis 2da,A128,B128,C128,,
+secunda,923,was,clavis 2da,A129,B129,C129,,
+secunda,928,sti -mm,clavis 2da,A130,B130,C130,,
+secunda,929,graf -en/ -in -s,clavis 2da,A131,B131,C131,,
+secunda,932,zweifel -e/-n -t,clavis 2da,A132,B132,C132,,
+secunda,946,l ; ll,clavis 2da,A133,B133,C133,,
+secunda,947,su,clavis 2da,A134,B134,C134,,
+secunda,948,gew,clavis 2da,A135,B135,C135,,
+secunda,960,oft -e/-r -n -s,clavis 2da,A136,B136,C136,,
+secunda,974,bri,clavis 2da,A137,B137,C137,,
+secunda,985,scho -n/-e -t -n,clavis 2da,A138,B138,C138,,
+secunda,988,ei,clavis 2da,A139,B139,C139,,
+secunda,991,te -r/-n -t -s,clavis 2da,A140,B140,C140,,
+secunda,994,auf,clavis 2da,A141,B141,C141,,
+secunda,996,di,clavis 2da,A142,B142,C142,,
+secunda,999,wie,clavis 2da,A143,B143,C143,,
+secunda,2202,schreib -e/ -n -t,clavis 2da,A144,B144,C144,,
+secunda,2233,zu ; zuzu,clavis 2da,A145,B145,C145,,
+secunda,2234,a(?) ; ung -en,clavis 2da,A146,B146,C146,,
+secunda,2239,sen,clavis 2da,A147,B147,C147,,
+secunda,2244,en ,clavis 2da,A148,B148,C148,,
+secunda,2246,fall -e/-n -t,clavis 2da,A149,B149,C149,,
+secunda,2247,noth -ig/ -wendigkeit,clavis 2da,A150,B150,C150,,
+secunda,2250,punctum,clavis 2da,A151,B151,C151,,
+secunda,2251,viel -e/-r -n/-s -leicht,clavis 2da,A152,B152,C152,,
+secunda,2259,ul ; wolte -t/ -n,clavis 2da,A153,B153,C153,,
+secunda,2262,es,clavis 2da,A154,B154,C154,,
+secunda,2272,ser,clavis 2da,A155,B155,C155,,
+secunda,2273,c ; wor,clavis 2da,A156,B156,C156,,
+secunda,2274,li ; würck -e/-n -t -lich,clavis 2da,A157,B157,C157,,
+secunda,2275,st ; würde -n,clavis 2da,A158,B158,C158,,
+secunda,2292,et,clavis 2da,A159,B159,C159,,
+secunda,2295,zuge,clavis 2da,A160,B160,C160,,
+secunda,4401,b ; dein -e/-n -s,clavis 2da,A161,B161,C161,,
+secunda,4406,üb ; franck -en,clavis 2da,A162,B162,C162,,
+secunda,4444,zu ; zuzu,clavis 2da,A163,B163,C163,,
+secunda,4447,te -r/-n -t -s,clavis 2da,A164,B164,C164,,
+secunda,4497,voll -ig/ -macht,clavis 2da,A165,B165,C165,,
+secunda,6600,mit,clavis 2da,A166,B166,C166,,
+secunda,6601,Nachricht -en,clavis 2da,A167,B167,C167,,
+secunda,6604,solch -e/-r -n -s,clavis 2da,A168,B168,C168,,
+secunda,6642,trau -e/-n -t -lich,clavis 2da,A169,B169,C169,,
+secunda,6686,wünsch -e/ -n,clavis 2da,A170,B170,C170,,
+secunda,8802,gänz -lich,clavis 2da,A171,B171,C171,,
+secunda,8835,Erz -haus,clavis 2da,A172,B172,C172,,
+secunda,8853,selbst -en,clavis 2da,A173,B173,C173,,
+secunda,8865,gewiß -lich/ -e,clavis 2da,A174,B174,C174,,
+secunda,8877,et,clavis 2da,A175,B175,C175,,
+secunda,8881,er -s,clavis 2da,A176,B176,C176,,
+secunda,8882,der -en,clavis 2da,A177,B177,C177,,
+secunda,8887,und,clavis 2da,A178,B178,C178,,
